@@ -1,0 +1,8161 @@
+Year,Month,country,cnt
+2001,1,Singapore,2619.0
+2001,2,Singapore,2143.0
+2001,3,Singapore,2715.0
+2001,4,Singapore,2693.0
+2001,5,Singapore,2905.0
+2001,6,Singapore,3590.0
+2001,7,Singapore,2371.0
+2001,8,Singapore,2525.0
+2001,9,Singapore,2325.0
+2001,10,Singapore,2252.0
+2001,11,Singapore,2799.0
+2001,12,Singapore,3449.0
+2002,1,Singapore,2326.0
+2002,2,Singapore,2830.0
+2002,3,Singapore,2989.0
+2002,4,Singapore,2510.0
+2002,5,Singapore,2768.0
+2002,6,Singapore,3623.0
+2002,7,Singapore,2450.0
+2002,8,Singapore,2563.0
+2002,9,Singapore,2325.0
+2002,10,Singapore,2257.0
+2002,11,Singapore,2839.0
+2002,12,Singapore,3048.0
+2003,1,Singapore,1160.0
+2003,2,Singapore,2146.0
+2003,3,Singapore,1428.0
+2003,4,Singapore,1251.0
+2003,5,Singapore,1708.0
+2003,6,Singapore,4373.0
+2003,7,Singapore,2810.0
+2003,8,Singapore,2703.0
+2003,9,Singapore,3179.0
+2003,10,Singapore,2654.0
+2003,11,Singapore,3195.0
+2003,12,Singapore,2939.0
+2004,1,Singapore,3835.0
+2004,2,Singapore,3045.0
+2004,3,Singapore,3474.0
+2004,4,Singapore,3144.0
+2004,5,Singapore,2160.0
+2004,6,Singapore,3213.0
+2004,7,Singapore,2994.0
+2004,8,Singapore,3533.0
+2004,9,Singapore,3529.0
+2004,10,Singapore,3152.0
+2004,11,Singapore,3716.0
+2004,12,Singapore,5771.0
+2005,1,Singapore,3422.0
+2005,2,Singapore,3620.0
+2005,3,Singapore,4206.0
+2005,4,Singapore,3515.0
+2005,5,Singapore,3311.0
+2005,6,Singapore,5026.0
+2005,7,Singapore,3618.0
+2005,8,Singapore,3222.0
+2005,9,Singapore,3438.0
+2005,10,Singapore,3154.0
+2005,11,Singapore,2382.0
+2005,12,Singapore,3745.0
+2006,1,Singapore,3535.0
+2006,2,Singapore,2470.0
+2006,3,Singapore,3065.0
+2006,4,Singapore,3163.0
+2006,5,Singapore,2878.0
+2006,6,Singapore,4345.0
+2006,7,Singapore,3119.0
+2006,8,Singapore,2563.0
+2006,9,Singapore,2789.0
+2006,10,Singapore,2666.0
+2006,11,Singapore,3256.0
+2006,12,Singapore,4784.0
+2007,1,Singapore,2472.0
+2007,2,Singapore,3097.0
+2007,3,Singapore,3293.0
+2007,4,Singapore,2477.0
+2007,5,Singapore,2964.0
+2007,6,Singapore,4835.0
+2007,7,Singapore,3221.0
+2007,8,Singapore,3004.0
+2007,9,Singapore,3085.0
+2007,10,Singapore,2806.0
+2007,11,Singapore,5163.0
+2007,12,Singapore,4877.0
+2008,1,Singapore,2919.0
+2008,2,Singapore,2714.0
+2008,3,Singapore,3303.0
+2008,4,Singapore,2641.0
+2008,5,Singapore,3010.0
+2008,6,Singapore,3904.0
+2008,7,Singapore,3228.0
+2008,8,Singapore,3201.0
+2008,9,Singapore,2694.0
+2008,10,Singapore,2885.0
+2008,11,Singapore,3876.0
+2008,12,Singapore,6023.0
+2009,1,Singapore,3820.0
+2009,2,Singapore,2860.0
+2009,3,Singapore,4483.0
+2009,4,Singapore,3819.0
+2009,5,Singapore,3718.0
+2009,6,Singapore,5868.0
+2009,7,Singapore,3283.0
+2009,8,Singapore,3393.0
+2009,9,Singapore,3463.0
+2009,10,Singapore,4219.0
+2009,11,Singapore,5111.0
+2009,12,Singapore,6206.0
+2010,1,Singapore,3363.0
+2010,2,Singapore,3107.0
+2010,3,Singapore,3297.0
+2010,4,Singapore,2848.0
+2010,5,Singapore,3153.0
+2010,6,Singapore,3885.0
+2010,7,Singapore,2738.0
+2010,8,Singapore,2891.0
+2010,9,Singapore,3015.0
+2010,10,Singapore,3236.0
+2010,11,Singapore,3283.0
+2010,12,Singapore,3927.0
+2011,1,Singapore,2845.0
+2011,2,Singapore,2630.0
+2011,3,Singapore,3531.0
+2011,4,Singapore,3494.0
+2011,5,Singapore,3293.0
+2011,6,Singapore,5176.0
+2011,7,Singapore,3651.0
+2011,8,Singapore,2999.0
+2011,9,Singapore,3211.0
+2011,10,Singapore,3010.0
+2011,11,Singapore,5324.0
+2011,12,Singapore,6822.0
+2012,1,Singapore,4382.0
+2012,2,Singapore,3047.0
+2012,3,Singapore,5159.0
+2012,4,Singapore,4760.0
+2012,5,Singapore,4398.0
+2012,6,Singapore,5749.0
+2012,7,Singapore,4177.0
+2012,8,Singapore,4111.0
+2012,9,Singapore,4230.0
+2012,10,Singapore,4340.0
+2012,11,Singapore,4919.0
+2012,12,Singapore,6402.0
+2013,1,Singapore,3611.0
+2013,2,Singapore,4157.0
+2013,3,Singapore,5228.0
+2013,4,Singapore,4362.0
+2013,5,Singapore,4520.0
+2013,6,Singapore,6346.0
+2013,7,Singapore,3566.0
+2013,8,Singapore,3830.0
+2013,9,Singapore,4261.0
+2013,10,Singapore,3955.0
+2013,11,Singapore,4846.0
+2013,12,Singapore,6110.0
+2014,1,Singapore,4204.0
+2014,2,Singapore,3372.0
+2014,3,Singapore,4409.0
+2014,4,Singapore,3939.0
+2014,5,Singapore,4140.0
+2014,6,Singapore,4947.0
+2014,7,Singapore,3624.0
+2014,8,Singapore,3592.0
+2014,9,Singapore,3969.0
+2014,10,Singapore,3771.0
+2014,11,Singapore,3891.0
+2014,12,Singapore,5201.0
+2015,1,Singapore,2870.0
+2015,2,Singapore,3856.0
+2015,3,Singapore,3939.0
+2015,4,Singapore,3757.0
+2015,5,Singapore,3688.0
+2015,6,Singapore,4791.0
+2015,7,Singapore,3208.0
+2015,8,Singapore,3037.0
+2015,9,Singapore,3423.0
+2015,10,Singapore,2698.0
+2015,11,Singapore,2890.0
+2015,12,Singapore,4670.0
+2016,1,Singapore,2727.0
+2016,2,Singapore,3483.0
+2016,3,Singapore,3759.0
+2016,4,Singapore,2878.0
+2016,5,Singapore,2993.0
+2016,6,Singapore,3633.0
+2016,7,Singapore,2745.0
+2016,8,Singapore,3313.0
+2016,9,Singapore,3352.0
+2016,10,Singapore,3061.0
+2016,11,Singapore,3512.0
+2016,12,Singapore,4753.0
+2017,1,Singapore,3661.0
+2017,2,Singapore,2692.0
+2017,3,Singapore,3952.0
+2017,4,Singapore,3061.0
+2017,5,Singapore,2054.0
+2017,6,Singapore,4093.0
+2017,7,Singapore,2967.0
+2017,8,Singapore,3442.0
+2017,9,Singapore,4144.0
+2017,10,Singapore,3090.0
+2017,11,Singapore,4105.0
+2017,12,Singapore,4916.0
+2018,1,Singapore,2835.0
+2018,2,Singapore,4047.0
+2018,3,Singapore,4372.0
+2018,4,Singapore,3425.0
+2018,5,Singapore,3177.0
+2018,6,Singapore,4855.0
+2018,7,Singapore,3491.0
+2018,8,Singapore,3610.0
+2018,9,Singapore,3514.0
+2018,10,Singapore,2909.0
+2018,11,Singapore,3532.0
+2018,12,Singapore,3967.0
+2019,1,Singapore,2615.0
+2019,2,Singapore,3053.0
+2019,3,Singapore,3356.0
+2019,4,Singapore,3048.0
+2019,5,Singapore,4669.0
+2019,6,Singapore,6879.0
+2019,7,Singapore,3594.0
+2019,8,Singapore,3459.0
+2019,9,Singapore,3593.0
+2019,10,Singapore,3309.0
+2019,11,Singapore,3593.0
+2019,12,Singapore,5644.0
+2020,1,Singapore,4482.0
+2020,2,Singapore,1865.0
+2020,3,Singapore,916.0
+2020,4,Singapore,1.0
+2020,5,Singapore,3.0
+2020,6,Singapore,2.0
+2020,7,Singapore,18.0
+2020,8,Singapore,7.0
+2020,9,Singapore,33.0
+2020,10,Singapore,19.0
+2020,11,Singapore,14.0
+2020,12,Singapore,3.0
+2001,1,Australia,
+2001,2,Australia,
+2001,3,Australia,
+2001,4,Australia,
+2001,5,Australia,
+2001,6,Australia,
+2001,7,Australia,
+2001,8,Australia,
+2001,9,Australia,
+2001,10,Australia,
+2001,11,Australia,
+2001,12,Australia,
+2002,1,Australia,
+2002,2,Australia,
+2002,3,Australia,
+2002,4,Australia,
+2002,5,Australia,
+2002,6,Australia,
+2002,7,Australia,
+2002,8,Australia,
+2002,9,Australia,
+2002,10,Australia,
+2002,11,Australia,
+2002,12,Australia,
+2003,1,Australia,
+2003,2,Australia,
+2003,3,Australia,
+2003,4,Australia,
+2003,5,Australia,
+2003,6,Australia,
+2003,7,Australia,
+2003,8,Australia,
+2003,9,Australia,
+2003,10,Australia,
+2003,11,Australia,
+2003,12,Australia,
+2004,1,Australia,
+2004,2,Australia,
+2004,3,Australia,
+2004,4,Australia,
+2004,5,Australia,
+2004,6,Australia,
+2004,7,Australia,
+2004,8,Australia,
+2004,9,Australia,
+2004,10,Australia,
+2004,11,Australia,
+2004,12,Australia,
+2005,1,Australia,
+2005,2,Australia,
+2005,3,Australia,
+2005,4,Australia,
+2005,5,Australia,
+2005,6,Australia,
+2005,7,Australia,
+2005,8,Australia,
+2005,9,Australia,
+2005,10,Australia,
+2005,11,Australia,
+2005,12,Australia,
+2006,1,Australia,
+2006,2,Australia,
+2006,3,Australia,
+2006,4,Australia,
+2006,5,Australia,
+2006,6,Australia,
+2006,7,Australia,
+2006,8,Australia,
+2006,9,Australia,
+2006,10,Australia,
+2006,11,Australia,
+2006,12,Australia,
+2007,1,Australia,1652.0
+2007,2,Australia,1491.0
+2007,3,Australia,1881.0
+2007,4,Australia,1232.0
+2007,5,Australia,1202.0
+2007,6,Australia,1736.0
+2007,7,Australia,2413.0
+2007,8,Australia,1549.0
+2007,9,Australia,2092.0
+2007,10,Australia,1563.0
+2007,11,Australia,2753.0
+2007,12,Australia,1971.0
+2008,1,Australia,1791.0
+2008,2,Australia,1428.0
+2008,3,Australia,1371.0
+2008,4,Australia,1370.0
+2008,5,Australia,1133.0
+2008,6,Australia,1357.0
+2008,7,Australia,2233.0
+2008,8,Australia,2401.0
+2008,9,Australia,1921.0
+2008,10,Australia,1857.0
+2008,11,Australia,1646.0
+2008,12,Australia,2110.0
+2009,1,Australia,2081.0
+2009,2,Australia,1311.0
+2009,3,Australia,1435.0
+2009,4,Australia,1841.0
+2009,5,Australia,1660.0
+2009,6,Australia,1788.0
+2009,7,Australia,2041.0
+2009,8,Australia,1597.0
+2009,9,Australia,1811.0
+2009,10,Australia,1879.0
+2009,11,Australia,1656.0
+2009,12,Australia,2113.0
+2010,1,Australia,1859.0
+2010,2,Australia,1602.0
+2010,3,Australia,1166.0
+2010,4,Australia,1001.0
+2010,5,Australia,1154.0
+2010,6,Australia,2185.0
+2010,7,Australia,1788.0
+2010,8,Australia,1324.0
+2010,9,Australia,1458.0
+2010,10,Australia,1353.0
+2010,11,Australia,1250.0
+2010,12,Australia,1378.0
+2011,1,Australia,2041.0
+2011,2,Australia,1258.0
+2011,3,Australia,1126.0
+2011,4,Australia,1772.0
+2011,5,Australia,1449.0
+2011,6,Australia,1457.0
+2011,7,Australia,2131.0
+2011,8,Australia,1387.0
+2011,9,Australia,1544.0
+2011,10,Australia,1579.0
+2011,11,Australia,1611.0
+2011,12,Australia,2074.0
+2012,1,Australia,2889.0
+2012,2,Australia,1292.0
+2012,3,Australia,1699.0
+2012,4,Australia,1642.0
+2012,5,Australia,1496.0
+2012,6,Australia,2065.0
+2012,7,Australia,2191.0
+2012,8,Australia,1612.0
+2012,9,Australia,1889.0
+2012,10,Australia,1739.0
+2012,11,Australia,1651.0
+2012,12,Australia,2012.0
+2013,1,Australia,1794.0
+2013,2,Australia,1562.0
+2013,3,Australia,1707.0
+2013,4,Australia,1759.0
+2013,5,Australia,1591.0
+2013,6,Australia,1987.0
+2013,7,Australia,1856.0
+2013,8,Australia,1582.0
+2013,9,Australia,1903.0
+2013,10,Australia,1638.0
+2013,11,Australia,1628.0
+2013,12,Australia,2274.0
+2014,1,Australia,2202.0
+2014,2,Australia,1401.0
+2014,3,Australia,1552.0
+2014,4,Australia,1929.0
+2014,5,Australia,1647.0
+2014,6,Australia,1745.0
+2014,7,Australia,2119.0
+2014,8,Australia,1626.0
+2014,9,Australia,1848.0
+2014,10,Australia,1504.0
+2014,11,Australia,1451.0
+2014,12,Australia,2015.0
+2015,1,Australia,1524.0
+2015,2,Australia,1498.0
+2015,3,Australia,1453.0
+2015,4,Australia,1608.0
+2015,5,Australia,1390.0
+2015,6,Australia,1643.0
+2015,7,Australia,1550.0
+2015,8,Australia,1316.0
+2015,9,Australia,1512.0
+2015,10,Australia,1309.0
+2015,11,Australia,1428.0
+2015,12,Australia,2001.0
+2016,1,Australia,1737.0
+2016,2,Australia,1883.0
+2016,3,Australia,1473.0
+2016,4,Australia,1623.0
+2016,5,Australia,1200.0
+2016,6,Australia,1231.0
+2016,7,Australia,1703.0
+2016,8,Australia,1290.0
+2016,9,Australia,1611.0
+2016,10,Australia,1160.0
+2016,11,Australia,1459.0
+2016,12,Australia,2130.0
+2017,1,Australia,2276.0
+2017,2,Australia,1184.0
+2017,3,Australia,1597.0
+2017,4,Australia,1519.0
+2017,5,Australia,1270.0
+2017,6,Australia,1633.0
+2017,7,Australia,1870.0
+2017,8,Australia,1282.0
+2017,9,Australia,1768.0
+2017,10,Australia,1386.0
+2017,11,Australia,1328.0
+2017,12,Australia,1820.0
+2018,1,Australia,1470.0
+2018,2,Australia,1365.0
+2018,3,Australia,1423.0
+2018,4,Australia,1464.0
+2018,5,Australia,1052.0
+2018,6,Australia,1351.0
+2018,7,Australia,1753.0
+2018,8,Australia,1188.0
+2018,9,Australia,1210.0
+2018,10,Australia,1036.0
+2018,11,Australia,1290.0
+2018,12,Australia,1644.0
+2019,1,Australia,1614.0
+2019,2,Australia,1114.0
+2019,3,Australia,1123.0
+2019,4,Australia,1580.0
+2019,5,Australia,1114.0
+2019,6,Australia,1407.0
+2019,7,Australia,1871.0
+2019,8,Australia,1209.0
+2019,9,Australia,1432.0
+2019,10,Australia,1213.0
+2019,11,Australia,1353.0
+2019,12,Australia,1851.0
+2020,1,Australia,2750.0
+2020,2,Australia,867.0
+2020,3,Australia,355.0
+2020,4,Australia,2.0
+2020,5,Australia,2.0
+2020,6,Australia,9.0
+2020,7,Australia,19.0
+2020,8,Australia,4.0
+2020,9,Australia,17.0
+2020,10,Australia,15.0
+2020,11,Australia,8.0
+2020,12,Australia,4.0
+2001,1,New Zealand,
+2001,2,New Zealand,
+2001,3,New Zealand,
+2001,4,New Zealand,
+2001,5,New Zealand,
+2001,6,New Zealand,
+2001,7,New Zealand,
+2001,8,New Zealand,
+2001,9,New Zealand,
+2001,10,New Zealand,
+2001,11,New Zealand,
+2001,12,New Zealand,
+2002,1,New Zealand,
+2002,2,New Zealand,
+2002,3,New Zealand,
+2002,4,New Zealand,
+2002,5,New Zealand,
+2002,6,New Zealand,
+2002,7,New Zealand,
+2002,8,New Zealand,
+2002,9,New Zealand,
+2002,10,New Zealand,
+2002,11,New Zealand,
+2002,12,New Zealand,
+2003,1,New Zealand,
+2003,2,New Zealand,
+2003,3,New Zealand,
+2003,4,New Zealand,
+2003,5,New Zealand,
+2003,6,New Zealand,
+2003,7,New Zealand,
+2003,8,New Zealand,
+2003,9,New Zealand,
+2003,10,New Zealand,
+2003,11,New Zealand,
+2003,12,New Zealand,
+2004,1,New Zealand,
+2004,2,New Zealand,
+2004,3,New Zealand,
+2004,4,New Zealand,
+2004,5,New Zealand,
+2004,6,New Zealand,
+2004,7,New Zealand,
+2004,8,New Zealand,
+2004,9,New Zealand,
+2004,10,New Zealand,
+2004,11,New Zealand,
+2004,12,New Zealand,
+2005,1,New Zealand,
+2005,2,New Zealand,
+2005,3,New Zealand,
+2005,4,New Zealand,
+2005,5,New Zealand,
+2005,6,New Zealand,
+2005,7,New Zealand,
+2005,8,New Zealand,
+2005,9,New Zealand,
+2005,10,New Zealand,
+2005,11,New Zealand,
+2005,12,New Zealand,
+2006,1,New Zealand,
+2006,2,New Zealand,
+2006,3,New Zealand,
+2006,4,New Zealand,
+2006,5,New Zealand,
+2006,6,New Zealand,
+2006,7,New Zealand,
+2006,8,New Zealand,
+2006,9,New Zealand,
+2006,10,New Zealand,
+2006,11,New Zealand,
+2006,12,New Zealand,
+2007,1,New Zealand,554.0
+2007,2,New Zealand,526.0
+2007,3,New Zealand,471.0
+2007,4,New Zealand,409.0
+2007,5,New Zealand,621.0
+2007,6,New Zealand,591.0
+2007,7,New Zealand,674.0
+2007,8,New Zealand,647.0
+2007,9,New Zealand,623.0
+2007,10,New Zealand,493.0
+2007,11,New Zealand,719.0
+2007,12,New Zealand,694.0
+2008,1,New Zealand,573.0
+2008,2,New Zealand,448.0
+2008,3,New Zealand,403.0
+2008,4,New Zealand,445.0
+2008,5,New Zealand,463.0
+2008,6,New Zealand,567.0
+2008,7,New Zealand,776.0
+2008,8,New Zealand,554.0
+2008,9,New Zealand,563.0
+2008,10,New Zealand,583.0
+2008,11,New Zealand,467.0
+2008,12,New Zealand,560.0
+2009,1,New Zealand,691.0
+2009,2,New Zealand,383.0
+2009,3,New Zealand,407.0
+2009,4,New Zealand,467.0
+2009,5,New Zealand,581.0
+2009,6,New Zealand,581.0
+2009,7,New Zealand,498.0
+2009,8,New Zealand,478.0
+2009,9,New Zealand,523.0
+2009,10,New Zealand,418.0
+2009,11,New Zealand,458.0
+2009,12,New Zealand,574.0
+2010,1,New Zealand,415.0
+2010,2,New Zealand,351.0
+2010,3,New Zealand,340.0
+2010,4,New Zealand,305.0
+2010,5,New Zealand,338.0
+2010,6,New Zealand,497.0
+2010,7,New Zealand,444.0
+2010,8,New Zealand,474.0
+2010,9,New Zealand,397.0
+2010,10,New Zealand,392.0
+2010,11,New Zealand,327.0
+2010,12,New Zealand,457.0
+2011,1,New Zealand,396.0
+2011,2,New Zealand,339.0
+2011,3,New Zealand,393.0
+2011,4,New Zealand,499.0
+2011,5,New Zealand,433.0
+2011,6,New Zealand,545.0
+2011,7,New Zealand,625.0
+2011,8,New Zealand,446.0
+2011,9,New Zealand,334.0
+2011,10,New Zealand,483.0
+2011,11,New Zealand,401.0
+2011,12,New Zealand,525.0
+2012,1,New Zealand,526.0
+2012,2,New Zealand,423.0
+2012,3,New Zealand,480.0
+2012,4,New Zealand,399.0
+2012,5,New Zealand,403.0
+2012,6,New Zealand,708.0
+2012,7,New Zealand,604.0
+2012,8,New Zealand,594.0
+2012,9,New Zealand,555.0
+2012,10,New Zealand,639.0
+2012,11,New Zealand,596.0
+2012,12,New Zealand,797.0
+2013,1,New Zealand,579.0
+2013,2,New Zealand,505.0
+2013,3,New Zealand,611.0
+2013,4,New Zealand,434.0
+2013,5,New Zealand,545.0
+2013,6,New Zealand,478.0
+2013,7,New Zealand,495.0
+2013,8,New Zealand,465.0
+2013,9,New Zealand,423.0
+2013,10,New Zealand,532.0
+2013,11,New Zealand,332.0
+2013,12,New Zealand,547.0
+2014,1,New Zealand,509.0
+2014,2,New Zealand,353.0
+2014,3,New Zealand,446.0
+2014,4,New Zealand,443.0
+2014,5,New Zealand,494.0
+2014,6,New Zealand,500.0
+2014,7,New Zealand,593.0
+2014,8,New Zealand,398.0
+2014,9,New Zealand,436.0
+2014,10,New Zealand,460.0
+2014,11,New Zealand,341.0
+2014,12,New Zealand,421.0
+2015,1,New Zealand,371.0
+2015,2,New Zealand,331.0
+2015,3,New Zealand,416.0
+2015,4,New Zealand,456.0
+2015,5,New Zealand,362.0
+2015,6,New Zealand,430.0
+2015,7,New Zealand,443.0
+2015,8,New Zealand,392.0
+2015,9,New Zealand,426.0
+2015,10,New Zealand,358.0
+2015,11,New Zealand,317.0
+2015,12,New Zealand,410.0
+2016,1,New Zealand,360.0
+2016,2,New Zealand,318.0
+2016,3,New Zealand,437.0
+2016,4,New Zealand,359.0
+2016,5,New Zealand,371.0
+2016,6,New Zealand,392.0
+2016,7,New Zealand,485.0
+2016,8,New Zealand,384.0
+2016,9,New Zealand,345.0
+2016,10,New Zealand,318.0
+2016,11,New Zealand,233.0
+2016,12,New Zealand,415.0
+2017,1,New Zealand,449.0
+2017,2,New Zealand,290.0
+2017,3,New Zealand,469.0
+2017,4,New Zealand,408.0
+2017,5,New Zealand,442.0
+2017,6,New Zealand,446.0
+2017,7,New Zealand,505.0
+2017,8,New Zealand,456.0
+2017,9,New Zealand,392.0
+2017,10,New Zealand,430.0
+2017,11,New Zealand,384.0
+2017,12,New Zealand,443.0
+2018,1,New Zealand,402.0
+2018,2,New Zealand,339.0
+2018,3,New Zealand,476.0
+2018,4,New Zealand,361.0
+2018,5,New Zealand,325.0
+2018,6,New Zealand,395.0
+2018,7,New Zealand,521.0
+2018,8,New Zealand,382.0
+2018,9,New Zealand,376.0
+2018,10,New Zealand,313.0
+2018,11,New Zealand,269.0
+2018,12,New Zealand,415.0
+2019,1,New Zealand,389.0
+2019,2,New Zealand,246.0
+2019,3,New Zealand,321.0
+2019,4,New Zealand,320.0
+2019,5,New Zealand,350.0
+2019,6,New Zealand,412.0
+2019,7,New Zealand,442.0
+2019,8,New Zealand,420.0
+2019,9,New Zealand,357.0
+2019,10,New Zealand,294.0
+2019,11,New Zealand,278.0
+2019,12,New Zealand,470.0
+2020,1,New Zealand,498.0
+2020,2,New Zealand,170.0
+2020,3,New Zealand,102.0
+2020,4,New Zealand,0.0
+2020,5,New Zealand,0.0
+2020,6,New Zealand,0.0
+2020,7,New Zealand,7.0
+2020,8,New Zealand,3.0
+2020,9,New Zealand,3.0
+2020,10,New Zealand,2.0
+2020,11,New Zealand,1.0
+2020,12,New Zealand,1.0
+2001,1,Canada,558.0
+2001,2,Canada,486.0
+2001,3,Canada,473.0
+2001,4,Canada,440.0
+2001,5,Canada,424.0
+2001,6,Canada,427.0
+2001,7,Canada,570.0
+2001,8,Canada,730.0
+2001,9,Canada,361.0
+2001,10,Canada,336.0
+2001,11,Canada,378.0
+2001,12,Canada,507.0
+2002,1,Canada,471.0
+2002,2,Canada,647.0
+2002,3,Canada,651.0
+2002,4,Canada,497.0
+2002,5,Canada,568.0
+2002,6,Canada,555.0
+2002,7,Canada,651.0
+2002,8,Canada,687.0
+2002,9,Canada,454.0
+2002,10,Canada,475.0
+2002,11,Canada,491.0
+2002,12,Canada,544.0
+2003,1,Canada,400.0
+2003,2,Canada,436.0
+2003,3,Canada,536.0
+2003,4,Canada,253.0
+2003,5,Canada,402.0
+2003,6,Canada,576.0
+2003,7,Canada,506.0
+2003,8,Canada,706.0
+2003,9,Canada,664.0
+2003,10,Canada,619.0
+2003,11,Canada,790.0
+2003,12,Canada,494.0
+2004,1,Canada,1092.0
+2004,2,Canada,1002.0
+2004,3,Canada,791.0
+2004,4,Canada,868.0
+2004,5,Canada,668.0
+2004,6,Canada,988.0
+2004,7,Canada,1221.0
+2004,8,Canada,1053.0
+2004,9,Canada,983.0
+2004,10,Canada,886.0
+2004,11,Canada,852.0
+2004,12,Canada,1025.0
+2005,1,Canada,826.0
+2005,2,Canada,776.0
+2005,3,Canada,881.0
+2005,4,Canada,705.0
+2005,5,Canada,554.0
+2005,6,Canada,852.0
+2005,7,Canada,871.0
+2005,8,Canada,761.0
+2005,9,Canada,771.0
+2005,10,Canada,551.0
+2005,11,Canada,512.0
+2005,12,Canada,951.0
+2006,1,Canada,809.0
+2006,2,Canada,645.0
+2006,3,Canada,798.0
+2006,4,Canada,704.0
+2006,5,Canada,652.0
+2006,6,Canada,309.0
+2006,7,Canada,806.0
+2006,8,Canada,635.0
+2006,9,Canada,557.0
+2006,10,Canada,649.0
+2006,11,Canada,629.0
+2006,12,Canada,885.0
+2007,1,Canada,618.0
+2007,2,Canada,789.0
+2007,3,Canada,916.0
+2007,4,Canada,510.0
+2007,5,Canada,635.0
+2007,6,Canada,619.0
+2007,7,Canada,850.0
+2007,8,Canada,710.0
+2007,9,Canada,580.0
+2007,10,Canada,722.0
+2007,11,Canada,873.0
+2007,12,Canada,882.0
+2008,1,Canada,758.0
+2008,2,Canada,724.0
+2008,3,Canada,549.0
+2008,4,Canada,518.0
+2008,5,Canada,522.0
+2008,6,Canada,588.0
+2008,7,Canada,947.0
+2008,8,Canada,804.0
+2008,9,Canada,512.0
+2008,10,Canada,600.0
+2008,11,Canada,512.0
+2008,12,Canada,816.0
+2009,1,Canada,729.0
+2009,2,Canada,669.0
+2009,3,Canada,633.0
+2009,4,Canada,623.0
+2009,5,Canada,613.0
+2009,6,Canada,566.0
+2009,7,Canada,771.0
+2009,8,Canada,691.0
+2009,9,Canada,448.0
+2009,10,Canada,539.0
+2009,11,Canada,590.0
+2009,12,Canada,611.0
+2010,1,Canada,586.0
+2010,2,Canada,582.0
+2010,3,Canada,523.0
+2010,4,Canada,406.0
+2010,5,Canada,512.0
+2010,6,Canada,478.0
+2010,7,Canada,524.0
+2010,8,Canada,547.0
+2010,9,Canada,428.0
+2010,10,Canada,495.0
+2010,11,Canada,451.0
+2010,12,Canada,406.0
+2011,1,Canada,610.0
+2011,2,Canada,577.0
+2011,3,Canada,602.0
+2011,4,Canada,563.0
+2011,5,Canada,665.0
+2011,6,Canada,534.0
+2011,7,Canada,725.0
+2011,8,Canada,556.0
+2011,9,Canada,502.0
+2011,10,Canada,683.0
+2011,11,Canada,595.0
+2011,12,Canada,742.0
+2012,1,Canada,750.0
+2012,2,Canada,739.0
+2012,3,Canada,849.0
+2012,4,Canada,746.0
+2012,5,Canada,693.0
+2012,6,Canada,708.0
+2012,7,Canada,880.0
+2012,8,Canada,715.0
+2012,9,Canada,661.0
+2012,10,Canada,777.0
+2012,11,Canada,688.0
+2012,12,Canada,682.0
+2013,1,Canada,725.0
+2013,2,Canada,915.0
+2013,3,Canada,865.0
+2013,4,Canada,655.0
+2013,5,Canada,741.0
+2013,6,Canada,615.0
+2013,7,Canada,671.0
+2013,8,Canada,736.0
+2013,9,Canada,581.0
+2013,10,Canada,724.0
+2013,11,Canada,668.0
+2013,12,Canada,696.0
+2014,1,Canada,890.0
+2014,2,Canada,809.0
+2014,3,Canada,846.0
+2014,4,Canada,615.0
+2014,5,Canada,687.0
+2014,6,Canada,594.0
+2014,7,Canada,797.0
+2014,8,Canada,699.0
+2014,9,Canada,689.0
+2014,10,Canada,663.0
+2014,11,Canada,575.0
+2014,12,Canada,700.0
+2015,1,Canada,576.0
+2015,2,Canada,729.0
+2015,3,Canada,780.0
+2015,4,Canada,773.0
+2015,5,Canada,792.0
+2015,6,Canada,489.0
+2015,7,Canada,577.0
+2015,8,Canada,507.0
+2015,9,Canada,466.0
+2015,10,Canada,551.0
+2015,11,Canada,742.0
+2015,12,Canada,689.0
+2016,1,Canada,664.0
+2016,2,Canada,943.0
+2016,3,Canada,832.0
+2016,4,Canada,758.0
+2016,5,Canada,666.0
+2016,6,Canada,573.0
+2016,7,Canada,761.0
+2016,8,Canada,600.0
+2016,9,Canada,558.0
+2016,10,Canada,652.0
+2016,11,Canada,577.0
+2016,12,Canada,804.0
+2017,1,Canada,718.0
+2017,2,Canada,680.0
+2017,3,Canada,961.0
+2017,4,Canada,807.0
+2017,5,Canada,661.0
+2017,6,Canada,613.0
+2017,7,Canada,708.0
+2017,8,Canada,657.0
+2017,9,Canada,646.0
+2017,10,Canada,740.0
+2017,11,Canada,635.0
+2017,12,Canada,676.0
+2018,1,Canada,628.0
+2018,2,Canada,715.0
+2018,3,Canada,930.0
+2018,4,Canada,860.0
+2018,5,Canada,634.0
+2018,6,Canada,591.0
+2018,7,Canada,790.0
+2018,8,Canada,551.0
+2018,9,Canada,584.0
+2018,10,Canada,669.0
+2018,11,Canada,667.0
+2018,12,Canada,669.0
+2019,1,Canada,652.0
+2019,2,Canada,743.0
+2019,3,Canada,698.0
+2019,4,Canada,652.0
+2019,5,Canada,708.0
+2019,6,Canada,780.0
+2019,7,Canada,519.0
+2019,8,Canada,651.0
+2019,9,Canada,563.0
+2019,10,Canada,658.0
+2019,11,Canada,636.0
+2019,12,Canada,774.0
+2020,1,Canada,904.0
+2020,2,Canada,565.0
+2020,3,Canada,238.0
+2020,4,Canada,2.0
+2020,5,Canada,5.0
+2020,6,Canada,1.0
+2020,7,Canada,5.0
+2020,8,Canada,4.0
+2020,9,Canada,1.0
+2020,10,Canada,2.0
+2020,11,Canada,0.0
+2020,12,Canada,3.0
+2001,1,United Kingdom,
+2001,2,United Kingdom,
+2001,3,United Kingdom,
+2001,4,United Kingdom,
+2001,5,United Kingdom,
+2001,6,United Kingdom,
+2001,7,United Kingdom,
+2001,8,United Kingdom,
+2001,9,United Kingdom,
+2001,10,United Kingdom,
+2001,11,United Kingdom,
+2001,12,United Kingdom,
+2002,1,United Kingdom,
+2002,2,United Kingdom,
+2002,3,United Kingdom,
+2002,4,United Kingdom,
+2002,5,United Kingdom,
+2002,6,United Kingdom,
+2002,7,United Kingdom,
+2002,8,United Kingdom,
+2002,9,United Kingdom,
+2002,10,United Kingdom,
+2002,11,United Kingdom,
+2002,12,United Kingdom,
+2003,1,United Kingdom,
+2003,2,United Kingdom,
+2003,3,United Kingdom,
+2003,4,United Kingdom,
+2003,5,United Kingdom,
+2003,6,United Kingdom,
+2003,7,United Kingdom,
+2003,8,United Kingdom,
+2003,9,United Kingdom,
+2003,10,United Kingdom,
+2003,11,United Kingdom,
+2003,12,United Kingdom,
+2004,1,United Kingdom,
+2004,2,United Kingdom,
+2004,3,United Kingdom,
+2004,4,United Kingdom,
+2004,5,United Kingdom,
+2004,6,United Kingdom,
+2004,7,United Kingdom,
+2004,8,United Kingdom,
+2004,9,United Kingdom,
+2004,10,United Kingdom,
+2004,11,United Kingdom,
+2004,12,United Kingdom,
+2005,1,United Kingdom,
+2005,2,United Kingdom,
+2005,3,United Kingdom,
+2005,4,United Kingdom,
+2005,5,United Kingdom,
+2005,6,United Kingdom,
+2005,7,United Kingdom,
+2005,8,United Kingdom,
+2005,9,United Kingdom,
+2005,10,United Kingdom,
+2005,11,United Kingdom,
+2005,12,United Kingdom,
+2006,1,United Kingdom,
+2006,2,United Kingdom,
+2006,3,United Kingdom,
+2006,4,United Kingdom,
+2006,5,United Kingdom,
+2006,6,United Kingdom,
+2006,7,United Kingdom,
+2006,8,United Kingdom,
+2006,9,United Kingdom,
+2006,10,United Kingdom,
+2006,11,United Kingdom,
+2006,12,United Kingdom,
+2007,1,United Kingdom,2644.0
+2007,2,United Kingdom,2639.0
+2007,3,United Kingdom,3529.0
+2007,4,United Kingdom,2650.0
+2007,5,United Kingdom,2881.0
+2007,6,United Kingdom,2985.0
+2007,7,United Kingdom,3479.0
+2007,8,United Kingdom,3568.0
+2007,9,United Kingdom,2848.0
+2007,10,United Kingdom,3159.0
+2007,11,United Kingdom,3956.0
+2007,12,United Kingdom,2895.0
+2008,1,United Kingdom,2632.0
+2008,2,United Kingdom,2593.0
+2008,3,United Kingdom,2778.0
+2008,4,United Kingdom,2516.0
+2008,5,United Kingdom,2348.0
+2008,6,United Kingdom,2894.0
+2008,7,United Kingdom,3821.0
+2008,8,United Kingdom,3820.0
+2008,9,United Kingdom,2957.0
+2008,10,United Kingdom,3352.0
+2008,11,United Kingdom,2793.0
+2008,12,United Kingdom,3051.0
+2009,1,United Kingdom,1809.0
+2009,2,United Kingdom,2601.0
+2009,3,United Kingdom,2933.0
+2009,4,United Kingdom,3332.0
+2009,5,United Kingdom,3498.0
+2009,6,United Kingdom,3073.0
+2009,7,United Kingdom,3749.0
+2009,8,United Kingdom,3670.0
+2009,9,United Kingdom,2985.0
+2009,10,United Kingdom,3379.0
+2009,11,United Kingdom,2907.0
+2009,12,United Kingdom,2926.0
+2010,1,United Kingdom,2730.0
+2010,2,United Kingdom,2337.0
+2010,3,United Kingdom,2440.0
+2010,4,United Kingdom,2141.0
+2010,5,United Kingdom,2507.0
+2010,6,United Kingdom,2472.0
+2010,7,United Kingdom,2638.0
+2010,8,United Kingdom,2938.0
+2010,9,United Kingdom,2352.0
+2010,10,United Kingdom,2671.0
+2010,11,United Kingdom,2292.0
+2010,12,United Kingdom,1918.0
+2011,1,United Kingdom,2337.0
+2011,2,United Kingdom,2285.0
+2011,3,United Kingdom,2441.0
+2011,4,United Kingdom,2786.0
+2011,5,United Kingdom,2184.0
+2011,6,United Kingdom,2045.0
+2011,7,United Kingdom,3011.0
+2011,8,United Kingdom,2755.0
+2011,9,United Kingdom,2387.0
+2011,10,United Kingdom,2645.0
+2011,11,United Kingdom,2289.0
+2011,12,United Kingdom,2507.0
+2012,1,United Kingdom,2301.0
+2012,2,United Kingdom,2516.0
+2012,3,United Kingdom,2983.0
+2012,4,United Kingdom,2867.0
+2012,5,United Kingdom,2625.0
+2012,6,United Kingdom,2879.0
+2012,7,United Kingdom,2909.0
+2012,8,United Kingdom,3188.0
+2012,9,United Kingdom,2608.0
+2012,10,United Kingdom,2891.0
+2012,11,United Kingdom,2441.0
+2012,12,United Kingdom,2991.0
+2013,1,United Kingdom,2194.0
+2013,2,United Kingdom,2379.0
+2013,3,United Kingdom,2919.0
+2013,4,United Kingdom,2925.0
+2013,5,United Kingdom,3249.0
+2013,6,United Kingdom,2839.0
+2013,7,United Kingdom,3021.0
+2013,8,United Kingdom,3422.0
+2013,9,United Kingdom,2776.0
+2013,10,United Kingdom,2939.0
+2013,11,United Kingdom,2491.0
+2013,12,United Kingdom,3009.0
+2014,1,United Kingdom,2251.0
+2014,2,United Kingdom,2278.0
+2014,3,United Kingdom,2998.0
+2014,4,United Kingdom,2760.0
+2014,5,United Kingdom,3085.0
+2014,6,United Kingdom,2694.0
+2014,7,United Kingdom,3350.0
+2014,8,United Kingdom,3404.0
+2014,9,United Kingdom,2882.0
+2014,10,United Kingdom,3093.0
+2014,11,United Kingdom,2469.0
+2014,12,United Kingdom,2590.0
+2015,1,United Kingdom,1894.0
+2015,2,United Kingdom,2378.0
+2015,3,United Kingdom,2854.0
+2015,4,United Kingdom,2369.0
+2015,5,United Kingdom,2432.0
+2015,6,United Kingdom,1811.0
+2015,7,United Kingdom,2516.0
+2015,8,United Kingdom,2565.0
+2015,9,United Kingdom,1966.0
+2015,10,United Kingdom,2574.0
+2015,11,United Kingdom,2051.0
+2015,12,United Kingdom,2353.0
+2016,1,United Kingdom,1967.0
+2016,2,United Kingdom,2520.0
+2016,3,United Kingdom,2972.0
+2016,4,United Kingdom,2832.0
+2016,5,United Kingdom,2752.0
+2016,6,United Kingdom,2029.0
+2016,7,United Kingdom,3227.0
+2016,8,United Kingdom,3565.0
+2016,9,United Kingdom,2447.0
+2016,10,United Kingdom,2507.0
+2016,11,United Kingdom,1755.0
+2016,12,United Kingdom,2701.0
+2017,1,United Kingdom,2144.0
+2017,2,United Kingdom,2203.0
+2017,3,United Kingdom,3323.0
+2017,4,United Kingdom,2752.0
+2017,5,United Kingdom,2983.0
+2017,6,United Kingdom,2666.0
+2017,7,United Kingdom,3900.0
+2017,8,United Kingdom,3389.0
+2017,9,United Kingdom,2524.0
+2017,10,United Kingdom,2809.0
+2017,11,United Kingdom,2159.0
+2017,12,United Kingdom,2547.0
+2018,1,United Kingdom,2225.0
+2018,2,United Kingdom,2275.0
+2018,3,United Kingdom,3130.0
+2018,4,United Kingdom,3061.0
+2018,5,United Kingdom,2728.0
+2018,6,United Kingdom,2824.0
+2018,7,United Kingdom,3541.0
+2018,8,United Kingdom,3387.0
+2018,9,United Kingdom,2349.0
+2018,10,United Kingdom,2247.0
+2018,11,United Kingdom,2321.0
+2018,12,United Kingdom,2158.0
+2019,1,United Kingdom,1812.0
+2019,2,United Kingdom,2147.0
+2019,3,United Kingdom,2476.0
+2019,4,United Kingdom,2732.0
+2019,5,United Kingdom,2774.0
+2019,6,United Kingdom,2428.0
+2019,7,United Kingdom,5119.0
+2019,8,United Kingdom,3395.0
+2019,9,United Kingdom,2192.0
+2019,10,United Kingdom,2725.0
+2019,11,United Kingdom,1913.0
+2019,12,United Kingdom,2481.0
+2020,1,United Kingdom,2339.0
+2020,2,United Kingdom,1834.0
+2020,3,United Kingdom,933.0
+2020,4,United Kingdom,2.0
+2020,5,United Kingdom,30.0
+2020,6,United Kingdom,31.0
+2020,7,United Kingdom,24.0
+2020,8,United Kingdom,19.0
+2020,9,United Kingdom,35.0
+2020,10,United Kingdom,24.0
+2020,11,United Kingdom,14.0
+2020,12,United Kingdom,15.0
+2001,1,Hong Kong,87.0
+2001,2,Hong Kong,106.0
+2001,3,Hong Kong,52.0
+2001,4,Hong Kong,73.0
+2001,5,Hong Kong,62.0
+2001,6,Hong Kong,71.0
+2001,7,Hong Kong,127.0
+2001,8,Hong Kong,198.0
+2001,9,Hong Kong,71.0
+2001,10,Hong Kong,63.0
+2001,11,Hong Kong,71.0
+2001,12,Hong Kong,118.0
+2002,1,Hong Kong,83.0
+2002,2,Hong Kong,136.0
+2002,3,Hong Kong,101.0
+2002,4,Hong Kong,79.0
+2002,5,Hong Kong,83.0
+2002,6,Hong Kong,116.0
+2002,7,Hong Kong,128.0
+2002,8,Hong Kong,389.0
+2002,9,Hong Kong,107.0
+2002,10,Hong Kong,98.0
+2002,11,Hong Kong,105.0
+2002,12,Hong Kong,68.0
+2003,1,Hong Kong,59.0
+2003,2,Hong Kong,45.0
+2003,3,Hong Kong,68.0
+2003,4,Hong Kong,22.0
+2003,5,Hong Kong,33.0
+2003,6,Hong Kong,100.0
+2003,7,Hong Kong,47.0
+2003,8,Hong Kong,175.0
+2003,9,Hong Kong,112.0
+2003,10,Hong Kong,105.0
+2003,11,Hong Kong,79.0
+2003,12,Hong Kong,78.0
+2004,1,Hong Kong,153.0
+2004,2,Hong Kong,96.0
+2004,3,Hong Kong,68.0
+2004,4,Hong Kong,62.0
+2004,5,Hong Kong,73.0
+2004,6,Hong Kong,164.0
+2004,7,Hong Kong,52.0
+2004,8,Hong Kong,94.0
+2004,9,Hong Kong,55.0
+2004,10,Hong Kong,53.0
+2004,11,Hong Kong,107.0
+2004,12,Hong Kong,91.0
+2005,1,Hong Kong,51.0
+2005,2,Hong Kong,66.0
+2005,3,Hong Kong,70.0
+2005,4,Hong Kong,82.0
+2005,5,Hong Kong,25.0
+2005,6,Hong Kong,46.0
+2005,7,Hong Kong,54.0
+2005,8,Hong Kong,66.0
+2005,9,Hong Kong,22.0
+2005,10,Hong Kong,11.0
+2005,11,Hong Kong,51.0
+2005,12,Hong Kong,40.0
+2006,1,Hong Kong,47.0
+2006,2,Hong Kong,72.0
+2006,3,Hong Kong,94.0
+2006,4,Hong Kong,58.0
+2006,5,Hong Kong,39.0
+2006,6,Hong Kong,54.0
+2006,7,Hong Kong,52.0
+2006,8,Hong Kong,36.0
+2006,9,Hong Kong,34.0
+2006,10,Hong Kong,29.0
+2006,11,Hong Kong,95.0
+2006,12,Hong Kong,67.0
+2007,1,Hong Kong,20.0
+2007,2,Hong Kong,47.0
+2007,3,Hong Kong,38.0
+2007,4,Hong Kong,33.0
+2007,5,Hong Kong,25.0
+2007,6,Hong Kong,45.0
+2007,7,Hong Kong,40.0
+2007,8,Hong Kong,94.0
+2007,9,Hong Kong,35.0
+2007,10,Hong Kong,25.0
+2007,11,Hong Kong,23.0
+2007,12,Hong Kong,151.0
+2008,1,Hong Kong,60.0
+2008,2,Hong Kong,63.0
+2008,3,Hong Kong,24.0
+2008,4,Hong Kong,33.0
+2008,5,Hong Kong,17.0
+2008,6,Hong Kong,35.0
+2008,7,Hong Kong,36.0
+2008,8,Hong Kong,26.0
+2008,9,Hong Kong,5.0
+2008,10,Hong Kong,16.0
+2008,11,Hong Kong,16.0
+2008,12,Hong Kong,39.0
+2009,1,Hong Kong,235.0
+2009,2,Hong Kong,39.0
+2009,3,Hong Kong,44.0
+2009,4,Hong Kong,14.0
+2009,5,Hong Kong,50.0
+2009,6,Hong Kong,37.0
+2009,7,Hong Kong,34.0
+2009,8,Hong Kong,21.0
+2009,9,Hong Kong,6.0
+2009,10,Hong Kong,11.0
+2009,11,Hong Kong,17.0
+2009,12,Hong Kong,36.0
+2010,1,Hong Kong,9.0
+2010,2,Hong Kong,22.0
+2010,3,Hong Kong,26.0
+2010,4,Hong Kong,23.0
+2010,5,Hong Kong,20.0
+2010,6,Hong Kong,112.0
+2010,7,Hong Kong,48.0
+2010,8,Hong Kong,27.0
+2010,9,Hong Kong,23.0
+2010,10,Hong Kong,31.0
+2010,11,Hong Kong,23.0
+2010,12,Hong Kong,111.0
+2011,1,Hong Kong,44.0
+2011,2,Hong Kong,22.0
+2011,3,Hong Kong,52.0
+2011,4,Hong Kong,28.0
+2011,5,Hong Kong,42.0
+2011,6,Hong Kong,18.0
+2011,7,Hong Kong,24.0
+2011,8,Hong Kong,40.0
+2011,9,Hong Kong,37.0
+2011,10,Hong Kong,25.0
+2011,11,Hong Kong,20.0
+2011,12,Hong Kong,45.0
+2012,1,Hong Kong,21.0
+2012,2,Hong Kong,21.0
+2012,3,Hong Kong,32.0
+2012,4,Hong Kong,5.0
+2012,5,Hong Kong,7.0
+2012,6,Hong Kong,29.0
+2012,7,Hong Kong,113.0
+2012,8,Hong Kong,30.0
+2012,9,Hong Kong,20.0
+2012,10,Hong Kong,12.0
+2012,11,Hong Kong,23.0
+2012,12,Hong Kong,19.0
+2013,1,Hong Kong,6.0
+2013,2,Hong Kong,9.0
+2013,3,Hong Kong,220.0
+2013,4,Hong Kong,11.0
+2013,5,Hong Kong,17.0
+2013,6,Hong Kong,65.0
+2013,7,Hong Kong,58.0
+2013,8,Hong Kong,26.0
+2013,9,Hong Kong,10.0
+2013,10,Hong Kong,5.0
+2013,11,Hong Kong,23.0
+2013,12,Hong Kong,81.0
+2014,1,Hong Kong,267.0
+2014,2,Hong Kong,459.0
+2014,3,Hong Kong,402.0
+2014,4,Hong Kong,15.0
+2014,5,Hong Kong,7.0
+2014,6,Hong Kong,67.0
+2014,7,Hong Kong,18.0
+2014,8,Hong Kong,71.0
+2014,9,Hong Kong,90.0
+2014,10,Hong Kong,89.0
+2014,11,Hong Kong,60.0
+2014,12,Hong Kong,82.0
+2015,1,Hong Kong,71.0
+2015,2,Hong Kong,99.0
+2015,3,Hong Kong,80.0
+2015,4,Hong Kong,69.0
+2015,5,Hong Kong,72.0
+2015,6,Hong Kong,57.0
+2015,7,Hong Kong,86.0
+2015,8,Hong Kong,63.0
+2015,9,Hong Kong,61.0
+2015,10,Hong Kong,84.0
+2015,11,Hong Kong,70.0
+2015,12,Hong Kong,84.0
+2016,1,Hong Kong,99.0
+2016,2,Hong Kong,79.0
+2016,3,Hong Kong,98.0
+2016,4,Hong Kong,74.0
+2016,5,Hong Kong,12.0
+2016,6,Hong Kong,73.0
+2016,7,Hong Kong,108.0
+2016,8,Hong Kong,5.0
+2016,9,Hong Kong,84.0
+2016,10,Hong Kong,68.0
+2016,11,Hong Kong,62.0
+2016,12,Hong Kong,6.0
+2017,1,Hong Kong,83.0
+2017,2,Hong Kong,66.0
+2017,3,Hong Kong,71.0
+2017,4,Hong Kong,53.0
+2017,5,Hong Kong,80.0
+2017,6,Hong Kong,102.0
+2017,7,Hong Kong,82.0
+2017,8,Hong Kong,96.0
+2017,9,Hong Kong,84.0
+2017,10,Hong Kong,413.0
+2017,11,Hong Kong,242.0
+2017,12,Hong Kong,5.0
+2018,1,Hong Kong,68.0
+2018,2,Hong Kong,3.0
+2018,3,Hong Kong,9.0
+2018,4,Hong Kong,10.0
+2018,5,Hong Kong,2.0
+2018,6,Hong Kong,1.0
+2018,7,Hong Kong,21.0
+2018,8,Hong Kong,1.0
+2018,9,Hong Kong,156.0
+2018,10,Hong Kong,130.0
+2018,11,Hong Kong,19.0
+2018,12,Hong Kong,153.0
+2019,1,Hong Kong,4.0
+2019,2,Hong Kong,41.0
+2019,3,Hong Kong,21.0
+2019,4,Hong Kong,3.0
+2019,5,Hong Kong,6.0
+2019,6,Hong Kong,9.0
+2019,7,Hong Kong,7.0
+2019,8,Hong Kong,8.0
+2019,9,Hong Kong,16.0
+2019,10,Hong Kong,6.0
+2019,11,Hong Kong,12.0
+2019,12,Hong Kong,25.0
+2020,1,Hong Kong,22.0
+2020,2,Hong Kong,11.0
+2020,3,Hong Kong,3.0
+2020,4,Hong Kong,0.0
+2020,5,Hong Kong,0.0
+2020,6,Hong Kong,1.0
+2020,7,Hong Kong,10.0
+2020,8,Hong Kong,1.0
+2020,9,Hong Kong,0.0
+2020,10,Hong Kong,0.0
+2020,11,Hong Kong,0.0
+2020,12,Hong Kong,0.0
+2001,1,Sri Lanka,
+2001,2,Sri Lanka,
+2001,3,Sri Lanka,
+2001,4,Sri Lanka,
+2001,5,Sri Lanka,
+2001,6,Sri Lanka,
+2001,7,Sri Lanka,
+2001,8,Sri Lanka,
+2001,9,Sri Lanka,
+2001,10,Sri Lanka,
+2001,11,Sri Lanka,
+2001,12,Sri Lanka,
+2002,1,Sri Lanka,
+2002,2,Sri Lanka,
+2002,3,Sri Lanka,
+2002,4,Sri Lanka,
+2002,5,Sri Lanka,
+2002,6,Sri Lanka,
+2002,7,Sri Lanka,
+2002,8,Sri Lanka,
+2002,9,Sri Lanka,
+2002,10,Sri Lanka,
+2002,11,Sri Lanka,
+2002,12,Sri Lanka,
+2003,1,Sri Lanka,
+2003,2,Sri Lanka,
+2003,3,Sri Lanka,
+2003,4,Sri Lanka,
+2003,5,Sri Lanka,
+2003,6,Sri Lanka,
+2003,7,Sri Lanka,
+2003,8,Sri Lanka,
+2003,9,Sri Lanka,
+2003,10,Sri Lanka,
+2003,11,Sri Lanka,
+2003,12,Sri Lanka,
+2004,1,Sri Lanka,
+2004,2,Sri Lanka,
+2004,3,Sri Lanka,
+2004,4,Sri Lanka,
+2004,5,Sri Lanka,
+2004,6,Sri Lanka,
+2004,7,Sri Lanka,
+2004,8,Sri Lanka,
+2004,9,Sri Lanka,
+2004,10,Sri Lanka,
+2004,11,Sri Lanka,
+2004,12,Sri Lanka,
+2005,1,Sri Lanka,
+2005,2,Sri Lanka,
+2005,3,Sri Lanka,
+2005,4,Sri Lanka,
+2005,5,Sri Lanka,
+2005,6,Sri Lanka,
+2005,7,Sri Lanka,
+2005,8,Sri Lanka,
+2005,9,Sri Lanka,
+2005,10,Sri Lanka,
+2005,11,Sri Lanka,
+2005,12,Sri Lanka,
+2006,1,Sri Lanka,
+2006,2,Sri Lanka,
+2006,3,Sri Lanka,
+2006,4,Sri Lanka,
+2006,5,Sri Lanka,
+2006,6,Sri Lanka,
+2006,7,Sri Lanka,
+2006,8,Sri Lanka,
+2006,9,Sri Lanka,
+2006,10,Sri Lanka,
+2006,11,Sri Lanka,
+2006,12,Sri Lanka,
+2007,1,Sri Lanka,40.0
+2007,2,Sri Lanka,46.0
+2007,3,Sri Lanka,50.0
+2007,4,Sri Lanka,30.0
+2007,5,Sri Lanka,28.0
+2007,6,Sri Lanka,35.0
+2007,7,Sri Lanka,64.0
+2007,8,Sri Lanka,62.0
+2007,9,Sri Lanka,35.0
+2007,10,Sri Lanka,20.0
+2007,11,Sri Lanka,45.0
+2007,12,Sri Lanka,49.0
+2008,1,Sri Lanka,66.0
+2008,2,Sri Lanka,51.0
+2008,3,Sri Lanka,58.0
+2008,4,Sri Lanka,63.0
+2008,5,Sri Lanka,40.0
+2008,6,Sri Lanka,90.0
+2008,7,Sri Lanka,102.0
+2008,8,Sri Lanka,54.0
+2008,9,Sri Lanka,70.0
+2008,10,Sri Lanka,67.0
+2008,11,Sri Lanka,59.0
+2008,12,Sri Lanka,88.0
+2009,1,Sri Lanka,31.0
+2009,2,Sri Lanka,31.0
+2009,3,Sri Lanka,80.0
+2009,4,Sri Lanka,70.0
+2009,5,Sri Lanka,106.0
+2009,6,Sri Lanka,60.0
+2009,7,Sri Lanka,66.0
+2009,8,Sri Lanka,131.0
+2009,9,Sri Lanka,94.0
+2009,10,Sri Lanka,75.0
+2009,11,Sri Lanka,65.0
+2009,12,Sri Lanka,77.0
+2010,1,Sri Lanka,77.0
+2010,2,Sri Lanka,33.0
+2010,3,Sri Lanka,80.0
+2010,4,Sri Lanka,52.0
+2010,5,Sri Lanka,51.0
+2010,6,Sri Lanka,50.0
+2010,7,Sri Lanka,77.0
+2010,8,Sri Lanka,138.0
+2010,9,Sri Lanka,68.0
+2010,10,Sri Lanka,81.0
+2010,11,Sri Lanka,60.0
+2010,12,Sri Lanka,58.0
+2011,1,Sri Lanka,65.0
+2011,2,Sri Lanka,114.0
+2011,3,Sri Lanka,99.0
+2011,4,Sri Lanka,80.0
+2011,5,Sri Lanka,99.0
+2011,6,Sri Lanka,79.0
+2011,7,Sri Lanka,106.0
+2011,8,Sri Lanka,108.0
+2011,9,Sri Lanka,96.0
+2011,10,Sri Lanka,81.0
+2011,11,Sri Lanka,89.0
+2011,12,Sri Lanka,88.0
+2012,1,Sri Lanka,112.0
+2012,2,Sri Lanka,168.0
+2012,3,Sri Lanka,70.0
+2012,4,Sri Lanka,105.0
+2012,5,Sri Lanka,80.0
+2012,6,Sri Lanka,196.0
+2012,7,Sri Lanka,71.0
+2012,8,Sri Lanka,171.0
+2012,9,Sri Lanka,177.0
+2012,10,Sri Lanka,163.0
+2012,11,Sri Lanka,79.0
+2012,12,Sri Lanka,75.0
+2013,1,Sri Lanka,73.0
+2013,2,Sri Lanka,194.0
+2013,3,Sri Lanka,91.0
+2013,4,Sri Lanka,85.0
+2013,5,Sri Lanka,108.0
+2013,6,Sri Lanka,67.0
+2013,7,Sri Lanka,63.0
+2013,8,Sri Lanka,92.0
+2013,9,Sri Lanka,171.0
+2013,10,Sri Lanka,80.0
+2013,11,Sri Lanka,73.0
+2013,12,Sri Lanka,89.0
+2014,1,Sri Lanka,60.0
+2014,2,Sri Lanka,145.0
+2014,3,Sri Lanka,65.0
+2014,4,Sri Lanka,91.0
+2014,5,Sri Lanka,88.0
+2014,6,Sri Lanka,55.0
+2014,7,Sri Lanka,54.0
+2014,8,Sri Lanka,85.0
+2014,9,Sri Lanka,116.0
+2014,10,Sri Lanka,146.0
+2014,11,Sri Lanka,46.0
+2014,12,Sri Lanka,56.0
+2015,1,Sri Lanka,38.0
+2015,2,Sri Lanka,82.0
+2015,3,Sri Lanka,94.0
+2015,4,Sri Lanka,70.0
+2015,5,Sri Lanka,67.0
+2015,6,Sri Lanka,107.0
+2015,7,Sri Lanka,102.0
+2015,8,Sri Lanka,129.0
+2015,9,Sri Lanka,97.0
+2015,10,Sri Lanka,144.0
+2015,11,Sri Lanka,35.0
+2015,12,Sri Lanka,90.0
+2016,1,Sri Lanka,97.0
+2016,2,Sri Lanka,159.0
+2016,3,Sri Lanka,78.0
+2016,4,Sri Lanka,89.0
+2016,5,Sri Lanka,77.0
+2016,6,Sri Lanka,105.0
+2016,7,Sri Lanka,95.0
+2016,8,Sri Lanka,97.0
+2016,9,Sri Lanka,65.0
+2016,10,Sri Lanka,91.0
+2016,11,Sri Lanka,103.0
+2016,12,Sri Lanka,80.0
+2017,1,Sri Lanka,106.0
+2017,2,Sri Lanka,85.0
+2017,3,Sri Lanka,61.0
+2017,4,Sri Lanka,98.0
+2017,5,Sri Lanka,67.0
+2017,6,Sri Lanka,67.0
+2017,7,Sri Lanka,131.0
+2017,8,Sri Lanka,164.0
+2017,9,Sri Lanka,111.0
+2017,10,Sri Lanka,125.0
+2017,11,Sri Lanka,127.0
+2017,12,Sri Lanka,95.0
+2018,1,Sri Lanka,65.0
+2018,2,Sri Lanka,114.0
+2018,3,Sri Lanka,95.0
+2018,4,Sri Lanka,125.0
+2018,5,Sri Lanka,59.0
+2018,6,Sri Lanka,92.0
+2018,7,Sri Lanka,84.0
+2018,8,Sri Lanka,109.0
+2018,9,Sri Lanka,67.0
+2018,10,Sri Lanka,48.0
+2018,11,Sri Lanka,64.0
+2018,12,Sri Lanka,54.0
+2019,1,Sri Lanka,70.0
+2019,2,Sri Lanka,88.0
+2019,3,Sri Lanka,93.0
+2019,4,Sri Lanka,100.0
+2019,5,Sri Lanka,65.0
+2019,6,Sri Lanka,65.0
+2019,7,Sri Lanka,103.0
+2019,8,Sri Lanka,148.0
+2019,9,Sri Lanka,113.0
+2019,10,Sri Lanka,97.0
+2019,11,Sri Lanka,111.0
+2019,12,Sri Lanka,117.0
+2020,1,Sri Lanka,79.0
+2020,2,Sri Lanka,89.0
+2020,3,Sri Lanka,43.0
+2020,4,Sri Lanka,0.0
+2020,5,Sri Lanka,0.0
+2020,6,Sri Lanka,2.0
+2020,7,Sri Lanka,9.0
+2020,8,Sri Lanka,16.0
+2020,9,Sri Lanka,10.0
+2020,10,Sri Lanka,19.0
+2020,11,Sri Lanka,6.0
+2020,12,Sri Lanka,5.0
+2001,1,Bangladesh,
+2001,2,Bangladesh,
+2001,3,Bangladesh,
+2001,4,Bangladesh,
+2001,5,Bangladesh,
+2001,6,Bangladesh,
+2001,7,Bangladesh,
+2001,8,Bangladesh,
+2001,9,Bangladesh,
+2001,10,Bangladesh,
+2001,11,Bangladesh,
+2001,12,Bangladesh,
+2002,1,Bangladesh,
+2002,2,Bangladesh,
+2002,3,Bangladesh,
+2002,4,Bangladesh,
+2002,5,Bangladesh,
+2002,6,Bangladesh,
+2002,7,Bangladesh,
+2002,8,Bangladesh,
+2002,9,Bangladesh,
+2002,10,Bangladesh,
+2002,11,Bangladesh,
+2002,12,Bangladesh,
+2003,1,Bangladesh,
+2003,2,Bangladesh,
+2003,3,Bangladesh,
+2003,4,Bangladesh,
+2003,5,Bangladesh,
+2003,6,Bangladesh,
+2003,7,Bangladesh,
+2003,8,Bangladesh,
+2003,9,Bangladesh,
+2003,10,Bangladesh,
+2003,11,Bangladesh,
+2003,12,Bangladesh,
+2004,1,Bangladesh,
+2004,2,Bangladesh,
+2004,3,Bangladesh,
+2004,4,Bangladesh,
+2004,5,Bangladesh,
+2004,6,Bangladesh,
+2004,7,Bangladesh,
+2004,8,Bangladesh,
+2004,9,Bangladesh,
+2004,10,Bangladesh,
+2004,11,Bangladesh,
+2004,12,Bangladesh,
+2005,1,Bangladesh,
+2005,2,Bangladesh,
+2005,3,Bangladesh,
+2005,4,Bangladesh,
+2005,5,Bangladesh,
+2005,6,Bangladesh,
+2005,7,Bangladesh,
+2005,8,Bangladesh,
+2005,9,Bangladesh,
+2005,10,Bangladesh,
+2005,11,Bangladesh,
+2005,12,Bangladesh,
+2006,1,Bangladesh,
+2006,2,Bangladesh,
+2006,3,Bangladesh,
+2006,4,Bangladesh,
+2006,5,Bangladesh,
+2006,6,Bangladesh,
+2006,7,Bangladesh,
+2006,8,Bangladesh,
+2006,9,Bangladesh,
+2006,10,Bangladesh,
+2006,11,Bangladesh,
+2006,12,Bangladesh,
+2007,1,Bangladesh,97.0
+2007,2,Bangladesh,104.0
+2007,3,Bangladesh,62.0
+2007,4,Bangladesh,89.0
+2007,5,Bangladesh,74.0
+2007,6,Bangladesh,78.0
+2007,7,Bangladesh,209.0
+2007,8,Bangladesh,125.0
+2007,9,Bangladesh,90.0
+2007,10,Bangladesh,44.0
+2007,11,Bangladesh,131.0
+2007,12,Bangladesh,134.0
+2008,1,Bangladesh,228.0
+2008,2,Bangladesh,117.0
+2008,3,Bangladesh,166.0
+2008,4,Bangladesh,158.0
+2008,5,Bangladesh,126.0
+2008,6,Bangladesh,154.0
+2008,7,Bangladesh,207.0
+2008,8,Bangladesh,210.0
+2008,9,Bangladesh,120.0
+2008,10,Bangladesh,232.0
+2008,11,Bangladesh,319.0
+2008,12,Bangladesh,226.0
+2009,1,Bangladesh,63.0
+2009,2,Bangladesh,106.0
+2009,3,Bangladesh,272.0
+2009,4,Bangladesh,246.0
+2009,5,Bangladesh,303.0
+2009,6,Bangladesh,298.0
+2009,7,Bangladesh,292.0
+2009,8,Bangladesh,266.0
+2009,9,Bangladesh,404.0
+2009,10,Bangladesh,868.0
+2009,11,Bangladesh,330.0
+2009,12,Bangladesh,189.0
+2010,1,Bangladesh,195.0
+2010,2,Bangladesh,78.0
+2010,3,Bangladesh,111.0
+2010,4,Bangladesh,122.0
+2010,5,Bangladesh,198.0
+2010,6,Bangladesh,131.0
+2010,7,Bangladesh,131.0
+2010,8,Bangladesh,180.0
+2010,9,Bangladesh,100.0
+2010,10,Bangladesh,113.0
+2010,11,Bangladesh,101.0
+2010,12,Bangladesh,134.0
+2011,1,Bangladesh,137.0
+2011,2,Bangladesh,157.0
+2011,3,Bangladesh,137.0
+2011,4,Bangladesh,132.0
+2011,5,Bangladesh,183.0
+2011,6,Bangladesh,132.0
+2011,7,Bangladesh,242.0
+2011,8,Bangladesh,91.0
+2011,9,Bangladesh,144.0
+2011,10,Bangladesh,98.0
+2011,11,Bangladesh,94.0
+2011,12,Bangladesh,180.0
+2012,1,Bangladesh,168.0
+2012,2,Bangladesh,241.0
+2012,3,Bangladesh,192.0
+2012,4,Bangladesh,142.0
+2012,5,Bangladesh,188.0
+2012,6,Bangladesh,314.0
+2012,7,Bangladesh,240.0
+2012,8,Bangladesh,293.0
+2012,9,Bangladesh,364.0
+2012,10,Bangladesh,304.0
+2012,11,Bangladesh,203.0
+2012,12,Bangladesh,239.0
+2013,1,Bangladesh,585.0
+2013,2,Bangladesh,355.0
+2013,3,Bangladesh,311.0
+2013,4,Bangladesh,283.0
+2013,5,Bangladesh,240.0
+2013,6,Bangladesh,277.0
+2013,7,Bangladesh,233.0
+2013,8,Bangladesh,217.0
+2013,9,Bangladesh,227.0
+2013,10,Bangladesh,203.0
+2013,11,Bangladesh,198.0
+2013,12,Bangladesh,180.0
+2014,1,Bangladesh,285.0
+2014,2,Bangladesh,238.0
+2014,3,Bangladesh,190.0
+2014,4,Bangladesh,269.0
+2014,5,Bangladesh,273.0
+2014,6,Bangladesh,203.0
+2014,7,Bangladesh,232.0
+2014,8,Bangladesh,377.0
+2014,9,Bangladesh,188.0
+2014,10,Bangladesh,232.0
+2014,11,Bangladesh,233.0
+2014,12,Bangladesh,148.0
+2015,1,Bangladesh,172.0
+2015,2,Bangladesh,161.0
+2015,3,Bangladesh,146.0
+2015,4,Bangladesh,190.0
+2015,5,Bangladesh,213.0
+2015,6,Bangladesh,326.0
+2015,7,Bangladesh,198.0
+2015,8,Bangladesh,226.0
+2015,9,Bangladesh,191.0
+2015,10,Bangladesh,199.0
+2015,11,Bangladesh,198.0
+2015,12,Bangladesh,176.0
+2016,1,Bangladesh,205.0
+2016,2,Bangladesh,137.0
+2016,3,Bangladesh,306.0
+2016,4,Bangladesh,222.0
+2016,5,Bangladesh,207.0
+2016,6,Bangladesh,168.0
+2016,7,Bangladesh,169.0
+2016,8,Bangladesh,184.0
+2016,9,Bangladesh,171.0
+2016,10,Bangladesh,172.0
+2016,11,Bangladesh,170.0
+2016,12,Bangladesh,146.0
+2017,1,Bangladesh,189.0
+2017,2,Bangladesh,140.0
+2017,3,Bangladesh,179.0
+2017,4,Bangladesh,153.0
+2017,5,Bangladesh,122.0
+2017,6,Bangladesh,160.0
+2017,7,Bangladesh,151.0
+2017,8,Bangladesh,146.0
+2017,9,Bangladesh,188.0
+2017,10,Bangladesh,103.0
+2017,11,Bangladesh,109.0
+2017,12,Bangladesh,135.0
+2018,1,Bangladesh,149.0
+2018,2,Bangladesh,157.0
+2018,3,Bangladesh,143.0
+2018,4,Bangladesh,172.0
+2018,5,Bangladesh,103.0
+2018,6,Bangladesh,147.0
+2018,7,Bangladesh,188.0
+2018,8,Bangladesh,186.0
+2018,9,Bangladesh,188.0
+2018,10,Bangladesh,148.0
+2018,11,Bangladesh,139.0
+2018,12,Bangladesh,161.0
+2019,1,Bangladesh,130.0
+2019,2,Bangladesh,199.0
+2019,3,Bangladesh,213.0
+2019,4,Bangladesh,149.0
+2019,5,Bangladesh,125.0
+2019,6,Bangladesh,125.0
+2019,7,Bangladesh,179.0
+2019,8,Bangladesh,172.0
+2019,9,Bangladesh,217.0
+2019,10,Bangladesh,164.0
+2019,11,Bangladesh,179.0
+2019,12,Bangladesh,170.0
+2020,1,Bangladesh,183.0
+2020,2,Bangladesh,216.0
+2020,3,Bangladesh,67.0
+2020,4,Bangladesh,2.0
+2020,5,Bangladesh,18.0
+2020,6,Bangladesh,42.0
+2020,7,Bangladesh,43.0
+2020,8,Bangladesh,22.0
+2020,9,Bangladesh,30.0
+2020,10,Bangladesh,18.0
+2020,11,Bangladesh,13.0
+2020,12,Bangladesh,5.0
+2001,1,India,576.0
+2001,2,India,490.0
+2001,3,India,655.0
+2001,4,India,662.0
+2001,5,India,570.0
+2001,6,India,774.0
+2001,7,India,620.0
+2001,8,India,689.0
+2001,9,India,835.0
+2001,10,India,888.0
+2001,11,India,590.0
+2001,12,India,692.0
+2002,1,India,552.0
+2002,2,India,626.0
+2002,3,India,746.0
+2002,4,India,740.0
+2002,5,India,661.0
+2002,6,India,779.0
+2002,7,India,878.0
+2002,8,India,923.0
+2002,9,India,691.0
+2002,10,India,713.0
+2002,11,India,672.0
+2002,12,India,811.0
+2003,1,India,386.0
+2003,2,India,450.0
+2003,3,India,461.0
+2003,4,India,418.0
+2003,5,India,684.0
+2003,6,India,565.0
+2003,7,India,935.0
+2003,8,India,994.0
+2003,9,India,954.0
+2003,10,India,977.0
+2003,11,India,898.0
+2003,12,India,722.0
+2004,1,India,975.0
+2004,2,India,1067.0
+2004,3,India,967.0
+2004,4,India,1140.0
+2004,5,India,770.0
+2004,6,India,1153.0
+2004,7,India,1262.0
+2004,8,India,1140.0
+2004,9,India,1264.0
+2004,10,India,1102.0
+2004,11,India,1044.0
+2004,12,India,1095.0
+2005,1,India,1100.0
+2005,2,India,885.0
+2005,3,India,1174.0
+2005,4,India,1126.0
+2005,5,India,940.0
+2005,6,India,1187.0
+2005,7,India,1199.0
+2005,8,India,1080.0
+2005,9,India,1055.0
+2005,10,India,905.0
+2005,11,India,460.0
+2005,12,India,1108.0
+2006,1,India,1181.0
+2006,2,India,1157.0
+2006,3,India,985.0
+2006,4,India,1048.0
+2006,5,India,855.0
+2006,6,India,1165.0
+2006,7,India,1460.0
+2006,8,India,1306.0
+2006,9,India,1075.0
+2006,10,India,1015.0
+2006,11,India,1131.0
+2006,12,India,1535.0
+2007,1,India,1214.0
+2007,2,India,1403.0
+2007,3,India,1513.0
+2007,4,India,1205.0
+2007,5,India,1603.0
+2007,6,India,1517.0
+2007,7,India,1460.0
+2007,8,India,1622.0
+2007,9,India,1190.0
+2007,10,India,1386.0
+2007,11,India,1726.0
+2007,12,India,1793.0
+2008,1,India,1573.0
+2008,2,India,1440.0
+2008,3,India,1203.0
+2008,4,India,1132.0
+2008,5,India,1396.0
+2008,6,India,1921.0
+2008,7,India,1830.0
+2008,8,India,1948.0
+2008,9,India,1465.0
+2008,10,India,1716.0
+2008,11,India,1740.0
+2008,12,India,1918.0
+2009,1,India,2099.0
+2009,2,India,1524.0
+2009,3,India,1710.0
+2009,4,India,1875.0
+2009,5,India,2028.0
+2009,6,India,1934.0
+2009,7,India,1616.0
+2009,8,India,1845.0
+2009,9,India,1575.0
+2009,10,India,1789.0
+2009,11,India,1848.0
+2009,12,India,1990.0
+2010,1,India,1616.0
+2010,2,India,1402.0
+2010,3,India,1468.0
+2010,4,India,1199.0
+2010,5,India,1384.0
+2010,6,India,1181.0
+2010,7,India,1382.0
+2010,8,India,1314.0
+2010,9,India,1267.0
+2010,10,India,1365.0
+2010,11,India,1408.0
+2010,12,India,1547.0
+2011,1,India,1728.0
+2011,2,India,1530.0
+2011,3,India,1563.0
+2011,4,India,1707.0
+2011,5,India,1776.0
+2011,6,India,1597.0
+2011,7,India,2021.0
+2011,8,India,1603.0
+2011,9,India,1586.0
+2011,10,India,1578.0
+2011,11,India,2511.0
+2011,12,India,2916.0
+2012,1,India,2526.0
+2012,2,India,2314.0
+2012,3,India,2706.0
+2012,4,India,2798.0
+2012,5,India,2804.0
+2012,6,India,2995.0
+2012,7,India,2731.0
+2012,8,India,2818.0
+2012,9,India,2844.0
+2012,10,India,4711.0
+2012,11,India,2611.0
+2012,12,India,3029.0
+2013,1,India,2804.0
+2013,2,India,2904.0
+2013,3,India,2950.0
+2013,4,India,3221.0
+2013,5,India,3088.0
+2013,6,India,2874.0
+2013,7,India,2571.0
+2013,8,India,2799.0
+2013,9,India,2603.0
+2013,10,India,2867.0
+2013,11,India,2712.0
+2013,12,India,2844.0
+2014,1,India,2835.0
+2014,2,India,2789.0
+2014,3,India,2603.0
+2014,4,India,2671.0
+2014,5,India,3299.0
+2014,6,India,2807.0
+2014,7,India,2872.0
+2014,8,India,2922.0
+2014,9,India,2798.0
+2014,10,India,2987.0
+2014,11,India,1867.0
+2014,12,India,2037.0
+2015,1,India,2091.0
+2015,2,India,1544.0
+2015,3,India,2210.0
+2015,4,India,2434.0
+2015,5,India,2887.0
+2015,6,India,2535.0
+2015,7,India,2519.0
+2015,8,India,2584.0
+2015,9,India,2375.0
+2015,10,India,2523.0
+2015,11,India,2073.0
+2015,12,India,2200.0
+2016,1,India,2050.0
+2016,2,India,2206.0
+2016,3,India,2696.0
+2016,4,India,2818.0
+2016,5,India,2335.0
+2016,6,India,2182.0
+2016,7,India,2391.0
+2016,8,India,2552.0
+2016,9,India,2296.0
+2016,10,India,2260.0
+2016,11,India,2139.0
+2016,12,India,2929.0
+2017,1,India,2535.0
+2017,2,India,2446.0
+2017,3,India,3055.0
+2017,4,India,2775.0
+2017,5,India,2843.0
+2017,6,India,2668.0
+2017,7,India,2632.0
+2017,8,India,2504.0
+2017,9,India,2406.0
+2017,10,India,2481.0
+2017,11,India,2358.0
+2017,12,India,2648.0
+2018,1,India,2343.0
+2018,2,India,2108.0
+2018,3,India,3202.0
+2018,4,India,2321.0
+2018,5,India,2279.0
+2018,6,India,2475.0
+2018,7,India,2114.0
+2018,8,India,2097.0
+2018,9,India,1958.0
+2018,10,India,1997.0
+2018,11,India,2116.0
+2018,12,India,2243.0
+2019,1,India,1865.0
+2019,2,India,1811.0
+2019,3,India,2127.0
+2019,4,India,2122.0
+2019,5,India,2342.0
+2019,6,India,2373.0
+2019,7,India,2497.0
+2019,8,India,2311.0
+2019,9,India,2337.0
+2019,10,India,2209.0
+2019,11,India,2292.0
+2019,12,India,2505.0
+2020,1,India,2376.0
+2020,2,India,2476.0
+2020,3,India,981.0
+2020,4,India,161.0
+2020,5,India,188.0
+2020,6,India,312.0
+2020,7,India,334.0
+2020,8,India,300.0
+2020,9,India,352.0
+2020,10,India,324.0
+2020,11,India,140.0
+2020,12,India,101.0
+2001,1,Brunei,71902.0
+2001,2,Brunei,68053.0
+2001,3,Brunei,76029.0
+2001,4,Brunei,127016.0
+2001,5,Brunei,69990.0
+2001,6,Brunei,65829.0
+2001,7,Brunei,58389.0
+2001,8,Brunei,103251.0
+2001,9,Brunei,69794.0
+2001,10,Brunei,68342.0
+2001,11,Brunei,75117.0
+2001,12,Brunei,137477.0
+2002,1,Brunei,69203.0
+2002,2,Brunei,78587.0
+2002,3,Brunei,77982.0
+2002,4,Brunei,114181.0
+2002,5,Brunei,73507.0
+2002,6,Brunei,71652.0
+2002,7,Brunei,58282.0
+2002,8,Brunei,102759.0
+2002,9,Brunei,104302.0
+2002,10,Brunei,69737.0
+2002,11,Brunei,71605.0
+2002,12,Brunei,130709.0
+2003,1,Brunei,71292.0
+2003,2,Brunei,30169.0
+2003,3,Brunei,66762.0
+2003,4,Brunei,20284.0
+2003,5,Brunei,53223.0
+2003,6,Brunei,94291.0
+2003,7,Brunei,67776.0
+2003,8,Brunei,80439.0
+2003,9,Brunei,114213.0
+2003,10,Brunei,77211.0
+2003,11,Brunei,127939.0
+2003,12,Brunei,123130.0
+2004,1,Brunei,98247.0
+2004,2,Brunei,98244.0
+2004,3,Brunei,100350.0
+2004,4,Brunei,80612.0
+2004,5,Brunei,78216.0
+2004,6,Brunei,118248.0
+2004,7,Brunei,91282.0
+2004,8,Brunei,86616.0
+2004,9,Brunei,113765.0
+2004,10,Brunei,121606.0
+2004,11,Brunei,126504.0
+2004,12,Brunei,144161.0
+2005,1,Brunei,103024.0
+2005,2,Brunei,125211.0
+2005,3,Brunei,157161.0
+2005,4,Brunei,95041.0
+2005,5,Brunei,95955.0
+2005,6,Brunei,116383.0
+2005,7,Brunei,98554.0
+2005,8,Brunei,100400.0
+2005,9,Brunei,107707.0
+2005,10,Brunei,100393.0
+2005,11,Brunei,45496.0
+2005,12,Brunei,173467.0
+2006,1,Brunei,116158.0
+2006,2,Brunei,92537.0
+2006,3,Brunei,103156.0
+2006,4,Brunei,82602.0
+2006,5,Brunei,40042.0
+2006,6,Brunei,96482.0
+2006,7,Brunei,88332.0
+2006,8,Brunei,97583.0
+2006,9,Brunei,107689.0
+2006,10,Brunei,121280.0
+2006,11,Brunei,91921.0
+2006,12,Brunei,143856.0
+2007,1,Brunei,106308.0
+2007,2,Brunei,99116.0
+2007,3,Brunei,153291.0
+2007,4,Brunei,88014.0
+2007,5,Brunei,125699.0
+2007,6,Brunei,129619.0
+2007,7,Brunei,100819.0
+2007,8,Brunei,117390.0
+2007,9,Brunei,103623.0
+2007,10,Brunei,127295.0
+2007,11,Brunei,117667.0
+2007,12,Brunei,227901.0
+2008,1,Brunei,125762.0
+2008,2,Brunei,102602.0
+2008,3,Brunei,123541.0
+2008,4,Brunei,98132.0
+2008,5,Brunei,106352.0
+2008,6,Brunei,136306.0
+2008,7,Brunei,103088.0
+2008,8,Brunei,102062.0
+2008,9,Brunei,113629.0
+2008,10,Brunei,110220.0
+2008,11,Brunei,115876.0
+2008,12,Brunei,185208.0
+2009,1,Brunei,123743.0
+2009,2,Brunei,80522.0
+2009,3,Brunei,107169.0
+2009,4,Brunei,92997.0
+2009,5,Brunei,96707.0
+2009,6,Brunei,111902.0
+2009,7,Brunei,57646.0
+2009,8,Brunei,70339.0
+2009,9,Brunei,83186.0
+2009,10,Brunei,74749.0
+2009,11,Brunei,85492.0
+2009,12,Brunei,219467.0
+2010,1,Brunei,87521.0
+2010,2,Brunei,80688.0
+2010,3,Brunei,126938.0
+2010,4,Brunei,69384.0
+2010,5,Brunei,84998.0
+2010,6,Brunei,81478.0
+2010,7,Brunei,93511.0
+2010,8,Brunei,82194.0
+2010,9,Brunei,96364.0
+2010,10,Brunei,91395.0
+2010,11,Brunei,86899.0
+2010,12,Brunei,206750.0
+2011,1,Brunei,125488.0
+2011,2,Brunei,89896.0
+2011,3,Brunei,123927.0
+2011,4,Brunei,115146.0
+2011,5,Brunei,125128.0
+2011,6,Brunei,117714.0
+2011,7,Brunei,126994.0
+2011,8,Brunei,141195.0
+2011,9,Brunei,129378.0
+2011,10,Brunei,106108.0
+2011,11,Brunei,134685.0
+2011,12,Brunei,217864.0
+2012,1,Brunei,157265.0
+2012,2,Brunei,121857.0
+2012,3,Brunei,169687.0
+2012,4,Brunei,135330.0
+2012,5,Brunei,128191.0
+2012,6,Brunei,144804.0
+2012,7,Brunei,119986.0
+2012,8,Brunei,160138.0
+2012,9,Brunei,122304.0
+2012,10,Brunei,129773.0
+2012,11,Brunei,140204.0
+2012,12,Brunei,199384.0
+2013,1,Brunei,144913.0
+2013,2,Brunei,132225.0
+2013,3,Brunei,157924.0
+2013,4,Brunei,127311.0
+2013,5,Brunei,111249.0
+2013,6,Brunei,140487.0
+2013,7,Brunei,119401.0
+2013,8,Brunei,152895.0
+2013,9,Brunei,129345.0
+2013,10,Brunei,130531.0
+2013,11,Brunei,134586.0
+2013,12,Brunei,229237.0
+2014,1,Brunei,142079.0
+2014,2,Brunei,134888.0
+2014,3,Brunei,164170.0
+2014,4,Brunei,134639.0
+2014,5,Brunei,158056.0
+2014,6,Brunei,163968.0
+2014,7,Brunei,139667.0
+2014,8,Brunei,176763.0
+2014,9,Brunei,165913.0
+2014,10,Brunei,189964.0
+2014,11,Brunei,152936.0
+2014,12,Brunei,229177.0
+2015,1,Brunei,156375.0
+2015,2,Brunei,155134.0
+2015,3,Brunei,172144.0
+2015,4,Brunei,155127.0
+2015,5,Brunei,122401.0
+2015,6,Brunei,107756.0
+2015,7,Brunei,144850.0
+2015,8,Brunei,113000.0
+2015,9,Brunei,115501.0
+2015,10,Brunei,105218.0
+2015,11,Brunei,92652.0
+2015,12,Brunei,145839.0
+2016,1,Brunei,74127.0
+2016,2,Brunei,96394.0
+2016,3,Brunei,133082.0
+2016,4,Brunei,115951.0
+2016,5,Brunei,103496.0
+2016,6,Brunei,101928.0
+2016,7,Brunei,110264.0
+2016,8,Brunei,113412.0
+2016,9,Brunei,126163.0
+2016,10,Brunei,121716.0
+2016,11,Brunei,109389.0
+2016,12,Brunei,189091.0
+2017,1,Brunei,153333.0
+2017,2,Brunei,129752.0
+2017,3,Brunei,196654.0
+2017,4,Brunei,156521.0
+2017,5,Brunei,147209.0
+2017,6,Brunei,151890.0
+2017,7,Brunei,132984.0
+2017,8,Brunei,137238.0
+2017,9,Brunei,155891.0
+2017,10,Brunei,105501.0
+2017,11,Brunei,111005.0
+2017,12,Brunei,160805.0
+2018,1,Brunei,108207.0
+2018,2,Brunei,95573.0
+2018,3,Brunei,130881.0
+2018,4,Brunei,107937.0
+2018,5,Brunei,106243.0
+2018,6,Brunei,124279.0
+2018,7,Brunei,97464.0
+2018,8,Brunei,104373.0
+2018,9,Brunei,133199.0
+2018,10,Brunei,99304.0
+2018,11,Brunei,104395.0
+2018,12,Brunei,115706.0
+2019,1,Brunei,86685.0
+2019,2,Brunei,96045.0
+2019,3,Brunei,122093.0
+2019,4,Brunei,90921.0
+2019,5,Brunei,112727.0
+2019,6,Brunei,112967.0
+2019,7,Brunei,105457.0
+2019,8,Brunei,108505.0
+2019,9,Brunei,128625.0
+2019,10,Brunei,91914.0
+2019,11,Brunei,101377.0
+2019,12,Brunei,138701.0
+2020,1,Brunei,88212.0
+2020,2,Brunei,59191.0
+2020,3,Brunei,30248.0
+2020,4,Brunei,283.0
+2020,5,Brunei,340.0
+2020,6,Brunei,410.0
+2020,7,Brunei,346.0
+2020,8,Brunei,205.0
+2020,9,Brunei,332.0
+2020,10,Brunei,352.0
+2020,11,Brunei,324.0
+2020,12,Brunei,373.0
+2001,1,USA,752.0
+2001,2,USA,708.0
+2001,3,USA,773.0
+2001,4,USA,703.0
+2001,5,USA,825.0
+2001,6,USA,867.0
+2001,7,USA,920.0
+2001,8,USA,751.0
+2001,9,USA,600.0
+2001,10,USA,575.0
+2001,11,USA,610.0
+2001,12,USA,627.0
+2002,1,USA,762.0
+2002,2,USA,716.0
+2002,3,USA,948.0
+2002,4,USA,696.0
+2002,5,USA,831.0
+2002,6,USA,868.0
+2002,7,USA,962.0
+2002,8,USA,803.0
+2002,9,USA,735.0
+2002,10,USA,810.0
+2002,11,USA,651.0
+2002,12,USA,495.0
+2003,1,USA,203.0
+2003,2,USA,549.0
+2003,3,USA,750.0
+2003,4,USA,404.0
+2003,5,USA,496.0
+2003,6,USA,877.0
+2003,7,USA,714.0
+2003,8,USA,897.0
+2003,9,USA,843.0
+2003,10,USA,709.0
+2003,11,USA,601.0
+2003,12,USA,701.0
+2004,1,USA,912.0
+2004,2,USA,919.0
+2004,3,USA,946.0
+2004,4,USA,866.0
+2004,5,USA,712.0
+2004,6,USA,1189.0
+2004,7,USA,1103.0
+2004,8,USA,2567.0
+2004,9,USA,866.0
+2004,10,USA,1050.0
+2004,11,USA,923.0
+2004,12,USA,944.0
+2005,1,USA,932.0
+2005,2,USA,861.0
+2005,3,USA,1030.0
+2005,4,USA,850.0
+2005,5,USA,777.0
+2005,6,USA,1055.0
+2005,7,USA,885.0
+2005,8,USA,972.0
+2005,9,USA,1037.0
+2005,10,USA,939.0
+2005,11,USA,903.0
+2005,12,USA,961.0
+2006,1,USA,947.0
+2006,2,USA,860.0
+2006,3,USA,863.0
+2006,4,USA,837.0
+2006,5,USA,783.0
+2006,6,USA,822.0
+2006,7,USA,747.0
+2006,8,USA,790.0
+2006,9,USA,720.0
+2006,10,USA,710.0
+2006,11,USA,790.0
+2006,12,USA,838.0
+2007,1,USA,804.0
+2007,2,USA,1088.0
+2007,3,USA,1082.0
+2007,4,USA,793.0
+2007,5,USA,845.0
+2007,6,USA,1131.0
+2007,7,USA,1425.0
+2007,8,USA,1068.0
+2007,9,USA,904.0
+2007,10,USA,996.0
+2007,11,USA,2397.0
+2007,12,USA,1384.0
+2008,1,USA,1058.0
+2008,2,USA,862.0
+2008,3,USA,794.0
+2008,4,USA,648.0
+2008,5,USA,639.0
+2008,6,USA,948.0
+2008,7,USA,1041.0
+2008,8,USA,953.0
+2008,9,USA,887.0
+2008,10,USA,911.0
+2008,11,USA,804.0
+2008,12,USA,1041.0
+2009,1,USA,721.0
+2009,2,USA,878.0
+2009,3,USA,1247.0
+2009,4,USA,985.0
+2009,5,USA,1047.0
+2009,6,USA,1016.0
+2009,7,USA,1082.0
+2009,8,USA,929.0
+2009,9,USA,782.0
+2009,10,USA,944.0
+2009,11,USA,963.0
+2009,12,USA,906.0
+2010,1,USA,882.0
+2010,2,USA,774.0
+2010,3,USA,668.0
+2010,4,USA,629.0
+2010,5,USA,750.0
+2010,6,USA,1039.0
+2010,7,USA,909.0
+2010,8,USA,749.0
+2010,9,USA,683.0
+2010,10,USA,687.0
+2010,11,USA,622.0
+2010,12,USA,615.0
+2011,1,USA,957.0
+2011,2,USA,758.0
+2011,3,USA,789.0
+2011,4,USA,914.0
+2011,5,USA,907.0
+2011,6,USA,914.0
+2011,7,USA,1157.0
+2011,8,USA,868.0
+2011,9,USA,778.0
+2011,10,USA,940.0
+2011,11,USA,838.0
+2011,12,USA,939.0
+2012,1,USA,960.0
+2012,2,USA,978.0
+2012,3,USA,1225.0
+2012,4,USA,1017.0
+2012,5,USA,981.0
+2012,6,USA,1266.0
+2012,7,USA,1363.0
+2012,8,USA,1154.0
+2012,9,USA,1130.0
+2012,10,USA,1217.0
+2012,11,USA,1036.0
+2012,12,USA,1234.0
+2013,1,USA,992.0
+2013,2,USA,1123.0
+2013,3,USA,1425.0
+2013,4,USA,916.0
+2013,5,USA,1119.0
+2013,6,USA,1260.0
+2013,7,USA,1050.0
+2013,8,USA,1125.0
+2013,9,USA,1120.0
+2013,10,USA,999.0
+2013,11,USA,973.0
+2013,12,USA,1030.0
+2014,1,USA,1132.0
+2014,2,USA,969.0
+2014,3,USA,1044.0
+2014,4,USA,938.0
+2014,5,USA,1106.0
+2014,6,USA,1224.0
+2014,7,USA,1285.0
+2014,8,USA,1040.0
+2014,9,USA,1105.0
+2014,10,USA,1042.0
+2014,11,USA,878.0
+2014,12,USA,1015.0
+2015,1,USA,779.0
+2015,2,USA,828.0
+2015,3,USA,1152.0
+2015,4,USA,1181.0
+2015,5,USA,1128.0
+2015,6,USA,993.0
+2015,7,USA,873.0
+2015,8,USA,894.0
+2015,9,USA,810.0
+2015,10,USA,809.0
+2015,11,USA,918.0
+2015,12,USA,778.0
+2016,1,USA,733.0
+2016,2,USA,1044.0
+2016,3,USA,787.0
+2016,4,USA,1493.0
+2016,5,USA,819.0
+2016,6,USA,789.0
+2016,7,USA,761.0
+2016,8,USA,898.0
+2016,9,USA,710.0
+2016,10,USA,718.0
+2016,11,USA,637.0
+2016,12,USA,723.0
+2017,1,USA,764.0
+2017,2,USA,604.0
+2017,3,USA,1231.0
+2017,4,USA,760.0
+2017,5,USA,725.0
+2017,6,USA,900.0
+2017,7,USA,1201.0
+2017,8,USA,664.0
+2017,9,USA,675.0
+2017,10,USA,943.0
+2017,11,USA,734.0
+2017,12,USA,771.0
+2018,1,USA,962.0
+2018,2,USA,620.0
+2018,3,USA,1283.0
+2018,4,USA,1186.0
+2018,5,USA,649.0
+2018,6,USA,1082.0
+2018,7,USA,1136.0
+2018,8,USA,834.0
+2018,9,USA,642.0
+2018,10,USA,641.0
+2018,11,USA,818.0
+2018,12,USA,655.0
+2019,1,USA,618.0
+2019,2,USA,748.0
+2019,3,USA,814.0
+2019,4,USA,607.0
+2019,5,USA,745.0
+2019,6,USA,767.0
+2019,7,USA,1095.0
+2019,8,USA,863.0
+2019,9,USA,757.0
+2019,10,USA,622.0
+2019,11,USA,683.0
+2019,12,USA,1023.0
+2020,1,USA,998.0
+2020,2,USA,365.0
+2020,3,USA,116.0
+2020,4,USA,1.0
+2020,5,USA,3.0
+2020,6,USA,8.0
+2020,7,USA,15.0
+2020,8,USA,4.0
+2020,9,USA,14.0
+2020,10,USA,5.0
+2020,11,USA,1.0
+2020,12,USA,3.0
+2001,1,China,423.0
+2001,2,China,426.0
+2001,3,China,780.0
+2001,4,China,603.0
+2001,5,China,554.0
+2001,6,China,436.0
+2001,7,China,661.0
+2001,8,China,572.0
+2001,9,China,1004.0
+2001,10,China,749.0
+2001,11,China,757.0
+2001,12,China,676.0
+2002,1,China,795.0
+2002,2,China,640.0
+2002,3,China,886.0
+2002,4,China,736.0
+2002,5,China,811.0
+2002,6,China,843.0
+2002,7,China,986.0
+2002,8,China,1011.0
+2002,9,China,989.0
+2002,10,China,1212.0
+2002,11,China,1484.0
+2002,12,China,998.0
+2003,1,China,383.0
+2003,2,China,1069.0
+2003,3,China,951.0
+2003,4,China,611.0
+2003,5,China,421.0
+2003,6,China,759.0
+2003,7,China,1041.0
+2003,8,China,1079.0
+2003,9,China,1106.0
+2003,10,China,761.0
+2003,11,China,885.0
+2003,12,China,1492.0
+2004,1,China,955.0
+2004,2,China,840.0
+2004,3,China,800.0
+2004,4,China,885.0
+2004,5,China,539.0
+2004,6,China,899.0
+2004,7,China,1298.0
+2004,8,China,1205.0
+2004,9,China,1055.0
+2004,10,China,1046.0
+2004,11,China,1324.0
+2004,12,China,1239.0
+2005,1,China,1258.0
+2005,2,China,960.0
+2005,3,China,1687.0
+2005,4,China,1322.0
+2005,5,China,1400.0
+2005,6,China,1482.0
+2005,7,China,1671.0
+2005,8,China,1252.0
+2005,9,China,2328.0
+2005,10,China,2524.0
+2005,11,China,1092.0
+2005,12,China,1951.0
+2006,1,China,2379.0
+2006,2,China,1626.0
+2006,3,China,1627.0
+2006,4,China,1450.0
+2006,5,China,1617.0
+2006,6,China,1530.0
+2006,7,China,1653.0
+2006,8,China,1691.0
+2006,9,China,1641.0
+2006,10,China,1777.0
+2006,11,China,1896.0
+2006,12,China,2015.0
+2007,1,China,1494.0
+2007,2,China,1517.0
+2007,3,China,2128.0
+2007,4,China,1754.0
+2007,5,China,1797.0
+2007,6,China,1574.0
+2007,7,China,1796.0
+2007,8,China,2648.0
+2007,9,China,2386.0
+2007,10,China,2485.0
+2007,11,China,2754.0
+2007,12,China,2670.0
+2008,1,China,2796.0
+2008,2,China,2118.0
+2008,3,China,2788.0
+2008,4,China,3686.0
+2008,5,China,2991.0
+2008,6,China,3103.0
+2008,7,China,3876.0
+2008,8,China,3737.0
+2008,9,China,2967.0
+2008,10,China,3274.0
+2008,11,China,2960.0
+2008,12,China,3044.0
+2009,1,China,1648.0
+2009,2,China,3124.0
+2009,3,China,2988.0
+2009,4,China,3549.0
+2009,5,China,3549.0
+2009,6,China,3005.0
+2009,7,China,3497.0
+2009,8,China,3498.0
+2009,9,China,3158.0
+2009,10,China,3478.0
+2009,11,China,3693.0
+2009,12,China,3290.0
+2010,1,China,3833.0
+2010,2,China,2731.0
+2010,3,China,2883.0
+2010,4,China,2460.0
+2010,5,China,2746.0
+2010,6,China,2386.0
+2010,7,China,2814.0
+2010,8,China,3272.0
+2010,9,China,2502.0
+2010,10,China,3175.0
+2010,11,China,2801.0
+2010,12,China,2785.0
+2011,1,China,2842.0
+2011,2,China,2969.0
+2011,3,China,2802.0
+2011,4,China,2777.0
+2011,5,China,2933.0
+2011,6,China,2820.0
+2011,7,China,3277.0
+2011,8,China,3382.0
+2011,9,China,2926.0
+2011,10,China,2804.0
+2011,11,China,2694.0
+2011,12,China,3083.0
+2012,1,China,2856.0
+2012,2,China,3338.0
+2012,3,China,3682.0
+2012,4,China,3913.0
+2012,5,China,3808.0
+2012,6,China,3508.0
+2012,7,China,3960.0
+2012,8,China,3640.0
+2012,9,China,3720.0
+2012,10,China,3532.0
+2012,11,China,3782.0
+2012,12,China,3587.0
+2013,1,China,3111.0
+2013,2,China,3361.0
+2013,3,China,3442.0
+2013,4,China,4072.0
+2013,5,China,3540.0
+2013,6,China,3168.0
+2013,7,China,3642.0
+2013,8,China,3711.0
+2013,9,China,3412.0
+2013,10,China,3502.0
+2013,11,China,3576.0
+2013,12,China,3646.0
+2014,1,China,3510.0
+2014,2,China,3764.0
+2014,3,China,3752.0
+2014,4,China,3658.0
+2014,5,China,3348.0
+2014,6,China,3267.0
+2014,7,China,3663.0
+2014,8,China,3249.0
+2014,9,China,3403.0
+2014,10,China,3313.0
+2014,11,China,2453.0
+2014,12,China,2355.0
+2015,1,China,2124.0
+2015,2,China,1860.0
+2015,3,China,3103.0
+2015,4,China,2686.0
+2015,5,China,3285.0
+2015,6,China,2742.0
+2015,7,China,2844.0
+2015,8,China,3141.0
+2015,9,China,2997.0
+2015,10,China,2791.0
+2015,11,China,2636.0
+2015,12,China,2707.0
+2016,1,China,2531.0
+2016,2,China,2536.0
+2016,3,China,3637.0
+2016,4,China,3073.0
+2016,5,China,2905.0
+2016,6,China,2959.0
+2016,7,China,3432.0
+2016,8,China,3465.0
+2016,9,China,3146.0
+2016,10,China,3540.0
+2016,11,China,3803.0
+2016,12,China,3318.0
+2017,1,China,3230.0
+2017,2,China,3786.0
+2017,3,China,3543.0
+2017,4,China,2910.0
+2017,5,China,2869.0
+2017,6,China,3076.0
+2017,7,China,3611.0
+2017,8,China,3358.0
+2017,9,China,3070.0
+2017,10,China,2895.0
+2017,11,China,3024.0
+2017,12,China,2832.0
+2018,1,China,3668.0
+2018,2,China,4781.0
+2018,3,China,4452.0
+2018,4,China,3454.0
+2018,5,China,3286.0
+2018,6,China,2985.0
+2018,7,China,4100.0
+2018,8,China,4069.0
+2018,9,China,3307.0
+2018,10,China,3225.0
+2018,11,China,3428.0
+2018,12,China,3270.0
+2019,1,China,3205.0
+2019,2,China,3669.0
+2019,3,China,3109.0
+2019,4,China,3055.0
+2019,5,China,3195.0
+2019,6,China,3141.0
+2019,7,China,3809.0
+2019,8,China,3594.0
+2019,9,China,3239.0
+2019,10,China,3057.0
+2019,11,China,3242.0
+2019,12,China,3618.0
+2020,1,China,3418.0
+2020,2,China,1168.0
+2020,3,China,682.0
+2020,4,China,150.0
+2020,5,China,259.0
+2020,6,China,193.0
+2020,7,China,194.0
+2020,8,China,258.0
+2020,9,China,335.0
+2020,10,China,116.0
+2020,11,China,189.0
+2020,12,China,231.0
+2001,1,Russia,
+2001,2,Russia,
+2001,3,Russia,
+2001,4,Russia,
+2001,5,Russia,
+2001,6,Russia,
+2001,7,Russia,
+2001,8,Russia,
+2001,9,Russia,
+2001,10,Russia,
+2001,11,Russia,
+2001,12,Russia,
+2002,1,Russia,
+2002,2,Russia,
+2002,3,Russia,
+2002,4,Russia,
+2002,5,Russia,
+2002,6,Russia,
+2002,7,Russia,
+2002,8,Russia,
+2002,9,Russia,
+2002,10,Russia,
+2002,11,Russia,
+2002,12,Russia,
+2003,1,Russia,
+2003,2,Russia,
+2003,3,Russia,
+2003,4,Russia,
+2003,5,Russia,
+2003,6,Russia,
+2003,7,Russia,
+2003,8,Russia,
+2003,9,Russia,
+2003,10,Russia,
+2003,11,Russia,
+2003,12,Russia,
+2004,1,Russia,
+2004,2,Russia,
+2004,3,Russia,
+2004,4,Russia,
+2004,5,Russia,
+2004,6,Russia,
+2004,7,Russia,
+2004,8,Russia,
+2004,9,Russia,
+2004,10,Russia,
+2004,11,Russia,
+2004,12,Russia,
+2005,1,Russia,
+2005,2,Russia,
+2005,3,Russia,
+2005,4,Russia,
+2005,5,Russia,
+2005,6,Russia,
+2005,7,Russia,
+2005,8,Russia,
+2005,9,Russia,
+2005,10,Russia,
+2005,11,Russia,
+2005,12,Russia,
+2006,1,Russia,
+2006,2,Russia,
+2006,3,Russia,
+2006,4,Russia,
+2006,5,Russia,
+2006,6,Russia,
+2006,7,Russia,
+2006,8,Russia,
+2006,9,Russia,
+2006,10,Russia,
+2006,11,Russia,
+2006,12,Russia,
+2007,1,Russia,41.0
+2007,2,Russia,52.0
+2007,3,Russia,79.0
+2007,4,Russia,35.0
+2007,5,Russia,41.0
+2007,6,Russia,38.0
+2007,7,Russia,286.0
+2007,8,Russia,65.0
+2007,9,Russia,64.0
+2007,10,Russia,329.0
+2007,11,Russia,71.0
+2007,12,Russia,62.0
+2008,1,Russia,99.0
+2008,2,Russia,99.0
+2008,3,Russia,71.0
+2008,4,Russia,88.0
+2008,5,Russia,59.0
+2008,6,Russia,46.0
+2008,7,Russia,114.0
+2008,8,Russia,68.0
+2008,9,Russia,58.0
+2008,10,Russia,50.0
+2008,11,Russia,71.0
+2008,12,Russia,96.0
+2009,1,Russia,25.0
+2009,2,Russia,45.0
+2009,3,Russia,59.0
+2009,4,Russia,82.0
+2009,5,Russia,98.0
+2009,6,Russia,68.0
+2009,7,Russia,135.0
+2009,8,Russia,69.0
+2009,9,Russia,76.0
+2009,10,Russia,103.0
+2009,11,Russia,98.0
+2009,12,Russia,128.0
+2010,1,Russia,67.0
+2010,2,Russia,53.0
+2010,3,Russia,56.0
+2010,4,Russia,74.0
+2010,5,Russia,38.0
+2010,6,Russia,71.0
+2010,7,Russia,60.0
+2010,8,Russia,64.0
+2010,9,Russia,34.0
+2010,10,Russia,68.0
+2010,11,Russia,70.0
+2010,12,Russia,44.0
+2011,1,Russia,71.0
+2011,2,Russia,40.0
+2011,3,Russia,40.0
+2011,4,Russia,47.0
+2011,5,Russia,86.0
+2011,6,Russia,86.0
+2011,7,Russia,78.0
+2011,8,Russia,35.0
+2011,9,Russia,73.0
+2011,10,Russia,99.0
+2011,11,Russia,46.0
+2011,12,Russia,81.0
+2012,1,Russia,76.0
+2012,2,Russia,67.0
+2012,3,Russia,99.0
+2012,4,Russia,79.0
+2012,5,Russia,38.0
+2012,6,Russia,64.0
+2012,7,Russia,70.0
+2012,8,Russia,61.0
+2012,9,Russia,77.0
+2012,10,Russia,93.0
+2012,11,Russia,62.0
+2012,12,Russia,83.0
+2013,1,Russia,169.0
+2013,2,Russia,86.0
+2013,3,Russia,121.0
+2013,4,Russia,83.0
+2013,5,Russia,112.0
+2013,6,Russia,75.0
+2013,7,Russia,84.0
+2013,8,Russia,106.0
+2013,9,Russia,102.0
+2013,10,Russia,112.0
+2013,11,Russia,117.0
+2013,12,Russia,82.0
+2014,1,Russia,162.0
+2014,2,Russia,70.0
+2014,3,Russia,144.0
+2014,4,Russia,101.0
+2014,5,Russia,95.0
+2014,6,Russia,80.0
+2014,7,Russia,84.0
+2014,8,Russia,139.0
+2014,9,Russia,101.0
+2014,10,Russia,116.0
+2014,11,Russia,81.0
+2014,12,Russia,87.0
+2015,1,Russia,126.0
+2015,2,Russia,85.0
+2015,3,Russia,108.0
+2015,4,Russia,67.0
+2015,5,Russia,81.0
+2015,6,Russia,74.0
+2015,7,Russia,49.0
+2015,8,Russia,93.0
+2015,9,Russia,69.0
+2015,10,Russia,91.0
+2015,11,Russia,159.0
+2015,12,Russia,82.0
+2016,1,Russia,144.0
+2016,2,Russia,139.0
+2016,3,Russia,73.0
+2016,4,Russia,57.0
+2016,5,Russia,60.0
+2016,6,Russia,81.0
+2016,7,Russia,72.0
+2016,8,Russia,101.0
+2016,9,Russia,79.0
+2016,10,Russia,128.0
+2016,11,Russia,109.0
+2016,12,Russia,109.0
+2017,1,Russia,123.0
+2017,2,Russia,134.0
+2017,3,Russia,164.0
+2017,4,Russia,150.0
+2017,5,Russia,140.0
+2017,6,Russia,72.0
+2017,7,Russia,121.0
+2017,8,Russia,124.0
+2017,9,Russia,116.0
+2017,10,Russia,130.0
+2017,11,Russia,111.0
+2017,12,Russia,108.0
+2018,1,Russia,145.0
+2018,2,Russia,122.0
+2018,3,Russia,153.0
+2018,4,Russia,140.0
+2018,5,Russia,85.0
+2018,6,Russia,103.0
+2018,7,Russia,124.0
+2018,8,Russia,137.0
+2018,9,Russia,151.0
+2018,10,Russia,137.0
+2018,11,Russia,318.0
+2018,12,Russia,135.0
+2019,1,Russia,163.0
+2019,2,Russia,129.0
+2019,3,Russia,136.0
+2019,4,Russia,174.0
+2019,5,Russia,144.0
+2019,6,Russia,105.0
+2019,7,Russia,197.0
+2019,8,Russia,127.0
+2019,9,Russia,150.0
+2019,10,Russia,133.0
+2019,11,Russia,158.0
+2019,12,Russia,151.0
+2020,1,Russia,187.0
+2020,2,Russia,74.0
+2020,3,Russia,74.0
+2020,4,Russia,4.0
+2020,5,Russia,2.0
+2020,6,Russia,2.0
+2020,7,Russia,6.0
+2020,8,Russia,4.0
+2020,9,Russia,12.0
+2020,10,Russia,3.0
+2020,11,Russia,0.0
+2020,12,Russia,0.0
+2001,1,Latin America,
+2001,2,Latin America,
+2001,3,Latin America,
+2001,4,Latin America,
+2001,5,Latin America,
+2001,6,Latin America,
+2001,7,Latin America,
+2001,8,Latin America,
+2001,9,Latin America,
+2001,10,Latin America,
+2001,11,Latin America,
+2001,12,Latin America,
+2002,1,Latin America,
+2002,2,Latin America,
+2002,3,Latin America,
+2002,4,Latin America,
+2002,5,Latin America,
+2002,6,Latin America,
+2002,7,Latin America,
+2002,8,Latin America,
+2002,9,Latin America,
+2002,10,Latin America,
+2002,11,Latin America,
+2002,12,Latin America,
+2003,1,Latin America,
+2003,2,Latin America,
+2003,3,Latin America,
+2003,4,Latin America,
+2003,5,Latin America,
+2003,6,Latin America,
+2003,7,Latin America,
+2003,8,Latin America,
+2003,9,Latin America,
+2003,10,Latin America,
+2003,11,Latin America,
+2003,12,Latin America,
+2004,1,Latin America,
+2004,2,Latin America,
+2004,3,Latin America,
+2004,4,Latin America,
+2004,5,Latin America,
+2004,6,Latin America,
+2004,7,Latin America,
+2004,8,Latin America,
+2004,9,Latin America,
+2004,10,Latin America,
+2004,11,Latin America,
+2004,12,Latin America,
+2005,1,Latin America,
+2005,2,Latin America,
+2005,3,Latin America,
+2005,4,Latin America,
+2005,5,Latin America,
+2005,6,Latin America,
+2005,7,Latin America,
+2005,8,Latin America,
+2005,9,Latin America,
+2005,10,Latin America,
+2005,11,Latin America,
+2005,12,Latin America,
+2006,1,Latin America,
+2006,2,Latin America,
+2006,3,Latin America,
+2006,4,Latin America,
+2006,5,Latin America,
+2006,6,Latin America,
+2006,7,Latin America,
+2006,8,Latin America,
+2006,9,Latin America,
+2006,10,Latin America,
+2006,11,Latin America,
+2006,12,Latin America,
+2007,1,Latin America,64.0
+2007,2,Latin America,61.0
+2007,3,Latin America,85.0
+2007,4,Latin America,74.0
+2007,5,Latin America,92.0
+2007,6,Latin America,89.0
+2007,7,Latin America,88.0
+2007,8,Latin America,57.0
+2007,9,Latin America,83.0
+2007,10,Latin America,83.0
+2007,11,Latin America,65.0
+2007,12,Latin America,89.0
+2008,1,Latin America,94.0
+2008,2,Latin America,69.0
+2008,3,Latin America,53.0
+2008,4,Latin America,54.0
+2008,5,Latin America,86.0
+2008,6,Latin America,64.0
+2008,7,Latin America,99.0
+2008,8,Latin America,90.0
+2008,9,Latin America,98.0
+2008,10,Latin America,121.0
+2008,11,Latin America,108.0
+2008,12,Latin America,81.0
+2009,1,Latin America,63.0
+2009,2,Latin America,65.0
+2009,3,Latin America,113.0
+2009,4,Latin America,162.0
+2009,5,Latin America,128.0
+2009,6,Latin America,155.0
+2009,7,Latin America,123.0
+2009,8,Latin America,154.0
+2009,9,Latin America,108.0
+2009,10,Latin America,197.0
+2009,11,Latin America,139.0
+2009,12,Latin America,103.0
+2010,1,Latin America,94.0
+2010,2,Latin America,36.0
+2010,3,Latin America,47.0
+2010,4,Latin America,41.0
+2010,5,Latin America,62.0
+2010,6,Latin America,145.0
+2010,7,Latin America,98.0
+2010,8,Latin America,96.0
+2010,9,Latin America,78.0
+2010,10,Latin America,98.0
+2010,11,Latin America,76.0
+2010,12,Latin America,67.0
+2011,1,Latin America,87.0
+2011,2,Latin America,120.0
+2011,3,Latin America,89.0
+2011,4,Latin America,91.0
+2011,5,Latin America,114.0
+2011,6,Latin America,143.0
+2011,7,Latin America,130.0
+2011,8,Latin America,76.0
+2011,9,Latin America,251.0
+2011,10,Latin America,115.0
+2011,11,Latin America,77.0
+2011,12,Latin America,171.0
+2012,1,Latin America,103.0
+2012,2,Latin America,114.0
+2012,3,Latin America,130.0
+2012,4,Latin America,137.0
+2012,5,Latin America,81.0
+2012,6,Latin America,122.0
+2012,7,Latin America,144.0
+2012,8,Latin America,330.0
+2012,9,Latin America,131.0
+2012,10,Latin America,118.0
+2012,11,Latin America,115.0
+2012,12,Latin America,160.0
+2013,1,Latin America,86.0
+2013,2,Latin America,83.0
+2013,3,Latin America,418.0
+2013,4,Latin America,98.0
+2013,5,Latin America,174.0
+2013,6,Latin America,405.0
+2013,7,Latin America,123.0
+2013,8,Latin America,115.0
+2013,9,Latin America,86.0
+2013,10,Latin America,124.0
+2013,11,Latin America,108.0
+2013,12,Latin America,98.0
+2014,1,Latin America,76.0
+2014,2,Latin America,77.0
+2014,3,Latin America,111.0
+2014,4,Latin America,114.0
+2014,5,Latin America,123.0
+2014,6,Latin America,105.0
+2014,7,Latin America,86.0
+2014,8,Latin America,203.0
+2014,9,Latin America,115.0
+2014,10,Latin America,118.0
+2014,11,Latin America,82.0
+2014,12,Latin America,158.0
+2015,1,Latin America,78.0
+2015,2,Latin America,101.0
+2015,3,Latin America,262.0
+2015,4,Latin America,143.0
+2015,5,Latin America,98.0
+2015,6,Latin America,98.0
+2015,7,Latin America,91.0
+2015,8,Latin America,100.0
+2015,9,Latin America,132.0
+2015,10,Latin America,105.0
+2015,11,Latin America,138.0
+2015,12,Latin America,77.0
+2016,1,Latin America,100.0
+2016,2,Latin America,128.0
+2016,3,Latin America,80.0
+2016,4,Latin America,189.0
+2016,5,Latin America,107.0
+2016,6,Latin America,89.0
+2016,7,Latin America,102.0
+2016,8,Latin America,100.0
+2016,9,Latin America,81.0
+2016,10,Latin America,88.0
+2016,11,Latin America,119.0
+2016,12,Latin America,73.0
+2017,1,Latin America,88.0
+2017,2,Latin America,120.0
+2017,3,Latin America,372.0
+2017,4,Latin America,82.0
+2017,5,Latin America,114.0
+2017,6,Latin America,92.0
+2017,7,Latin America,186.0
+2017,8,Latin America,111.0
+2017,9,Latin America,137.0
+2017,10,Latin America,177.0
+2017,11,Latin America,115.0
+2017,12,Latin America,120.0
+2018,1,Latin America,145.0
+2018,2,Latin America,77.0
+2018,3,Latin America,160.0
+2018,4,Latin America,185.0
+2018,5,Latin America,124.0
+2018,6,Latin America,188.0
+2018,7,Latin America,128.0
+2018,8,Latin America,70.0
+2018,9,Latin America,148.0
+2018,10,Latin America,131.0
+2018,11,Latin America,242.0
+2018,12,Latin America,74.0
+2019,1,Latin America,105.0
+2019,2,Latin America,130.0
+2019,3,Latin America,83.0
+2019,4,Latin America,74.0
+2019,5,Latin America,99.0
+2019,6,Latin America,168.0
+2019,7,Latin America,116.0
+2019,8,Latin America,118.0
+2019,9,Latin America,118.0
+2019,10,Latin America,68.0
+2019,11,Latin America,55.0
+2019,12,Latin America,100.0
+2020,1,Latin America,154.0
+2020,2,Latin America,100.0
+2020,3,Latin America,42.0
+2020,4,Latin America,0.0
+2020,5,Latin America,3.0
+2020,6,Latin America,0.0
+2020,7,Latin America,0.0
+2020,8,Latin America,1.0
+2020,9,Latin America,6.0
+2020,10,Latin America,2.0
+2020,11,Latin America,0.0
+2020,12,Latin America,1.0
+2001,1,Arabs,
+2001,2,Arabs,
+2001,3,Arabs,
+2001,4,Arabs,
+2001,5,Arabs,
+2001,6,Arabs,
+2001,7,Arabs,
+2001,8,Arabs,
+2001,9,Arabs,
+2001,10,Arabs,
+2001,11,Arabs,
+2001,12,Arabs,
+2002,1,Arabs,
+2002,2,Arabs,
+2002,3,Arabs,
+2002,4,Arabs,
+2002,5,Arabs,
+2002,6,Arabs,
+2002,7,Arabs,
+2002,8,Arabs,
+2002,9,Arabs,
+2002,10,Arabs,
+2002,11,Arabs,
+2002,12,Arabs,
+2003,1,Arabs,
+2003,2,Arabs,
+2003,3,Arabs,
+2003,4,Arabs,
+2003,5,Arabs,
+2003,6,Arabs,
+2003,7,Arabs,
+2003,8,Arabs,
+2003,9,Arabs,
+2003,10,Arabs,
+2003,11,Arabs,
+2003,12,Arabs,
+2004,1,Arabs,
+2004,2,Arabs,
+2004,3,Arabs,
+2004,4,Arabs,
+2004,5,Arabs,
+2004,6,Arabs,
+2004,7,Arabs,
+2004,8,Arabs,
+2004,9,Arabs,
+2004,10,Arabs,
+2004,11,Arabs,
+2004,12,Arabs,
+2005,1,Arabs,
+2005,2,Arabs,
+2005,3,Arabs,
+2005,4,Arabs,
+2005,5,Arabs,
+2005,6,Arabs,
+2005,7,Arabs,
+2005,8,Arabs,
+2005,9,Arabs,
+2005,10,Arabs,
+2005,11,Arabs,
+2005,12,Arabs,
+2006,1,Arabs,
+2006,2,Arabs,
+2006,3,Arabs,
+2006,4,Arabs,
+2006,5,Arabs,
+2006,6,Arabs,
+2006,7,Arabs,
+2006,8,Arabs,
+2006,9,Arabs,
+2006,10,Arabs,
+2006,11,Arabs,
+2006,12,Arabs,
+2007,1,Arabs,105.0
+2007,2,Arabs,192.0
+2007,3,Arabs,125.0
+2007,4,Arabs,107.0
+2007,5,Arabs,132.0
+2007,6,Arabs,139.0
+2007,7,Arabs,239.0
+2007,8,Arabs,298.0
+2007,9,Arabs,105.0
+2007,10,Arabs,145.0
+2007,11,Arabs,142.0
+2007,12,Arabs,135.0
+2008,1,Arabs,105.0
+2008,2,Arabs,145.0
+2008,3,Arabs,151.0
+2008,4,Arabs,120.0
+2008,5,Arabs,128.0
+2008,6,Arabs,144.0
+2008,7,Arabs,253.0
+2008,8,Arabs,289.0
+2008,9,Arabs,120.0
+2008,10,Arabs,212.0
+2008,11,Arabs,232.0
+2008,12,Arabs,261.0
+2009,1,Arabs,179.0
+2009,2,Arabs,180.0
+2009,3,Arabs,204.0
+2009,4,Arabs,219.0
+2009,5,Arabs,214.0
+2009,6,Arabs,225.0
+2009,7,Arabs,358.0
+2009,8,Arabs,247.0
+2009,9,Arabs,158.0
+2009,10,Arabs,278.0
+2009,11,Arabs,257.0
+2009,12,Arabs,246.0
+2010,1,Arabs,200.0
+2010,2,Arabs,86.0
+2010,3,Arabs,151.0
+2010,4,Arabs,131.0
+2010,5,Arabs,136.0
+2010,6,Arabs,186.0
+2010,7,Arabs,266.0
+2010,8,Arabs,292.0
+2010,9,Arabs,118.0
+2010,10,Arabs,162.0
+2010,11,Arabs,161.0
+2010,12,Arabs,182.0
+2011,1,Arabs,195.0
+2011,2,Arabs,165.0
+2011,3,Arabs,132.0
+2011,4,Arabs,244.0
+2011,5,Arabs,229.0
+2011,6,Arabs,346.0
+2011,7,Arabs,406.0
+2011,8,Arabs,245.0
+2011,9,Arabs,263.0
+2011,10,Arabs,321.0
+2011,11,Arabs,282.0
+2011,12,Arabs,281.0
+2012,1,Arabs,327.0
+2012,2,Arabs,378.0
+2012,3,Arabs,348.0
+2012,4,Arabs,205.0
+2012,5,Arabs,204.0
+2012,6,Arabs,739.0
+2012,7,Arabs,665.0
+2012,8,Arabs,606.0
+2012,9,Arabs,592.0
+2012,10,Arabs,612.0
+2012,11,Arabs,524.0
+2012,12,Arabs,614.0
+2013,1,Arabs,248.0
+2013,2,Arabs,329.0
+2013,3,Arabs,283.0
+2013,4,Arabs,275.0
+2013,5,Arabs,319.0
+2013,6,Arabs,402.0
+2013,7,Arabs,320.0
+2013,8,Arabs,336.0
+2013,9,Arabs,361.0
+2013,10,Arabs,349.0
+2013,11,Arabs,332.0
+2013,12,Arabs,443.0
+2014,1,Arabs,399.0
+2014,2,Arabs,367.0
+2014,3,Arabs,389.0
+2014,4,Arabs,290.0
+2014,5,Arabs,378.0
+2014,6,Arabs,409.0
+2014,7,Arabs,319.0
+2014,8,Arabs,425.0
+2014,9,Arabs,377.0
+2014,10,Arabs,316.0
+2014,11,Arabs,379.0
+2014,12,Arabs,409.0
+2015,1,Arabs,470.0
+2015,2,Arabs,401.0
+2015,3,Arabs,367.0
+2015,4,Arabs,287.0
+2015,5,Arabs,320.0
+2015,6,Arabs,281.0
+2015,7,Arabs,253.0
+2015,8,Arabs,341.0
+2015,9,Arabs,236.0
+2015,10,Arabs,291.0
+2015,11,Arabs,250.0
+2015,12,Arabs,302.0
+2016,1,Arabs,404.0
+2016,2,Arabs,301.0
+2016,3,Arabs,350.0
+2016,4,Arabs,277.0
+2016,5,Arabs,315.0
+2016,6,Arabs,227.0
+2016,7,Arabs,370.0
+2016,8,Arabs,472.0
+2016,9,Arabs,233.0
+2016,10,Arabs,236.0
+2016,11,Arabs,245.0
+2016,12,Arabs,305.0
+2017,1,Arabs,197.0
+2017,2,Arabs,197.0
+2017,3,Arabs,330.0
+2017,4,Arabs,235.0
+2017,5,Arabs,195.0
+2017,6,Arabs,206.0
+2017,7,Arabs,443.0
+2017,8,Arabs,288.0
+2017,9,Arabs,284.0
+2017,10,Arabs,255.0
+2017,11,Arabs,187.0
+2017,12,Arabs,294.0
+2018,1,Arabs,214.0
+2018,2,Arabs,238.0
+2018,3,Arabs,334.0
+2018,4,Arabs,215.0
+2018,5,Arabs,230.0
+2018,6,Arabs,251.0
+2018,7,Arabs,286.0
+2018,8,Arabs,252.0
+2018,9,Arabs,221.0
+2018,10,Arabs,217.0
+2018,11,Arabs,298.0
+2018,12,Arabs,302.0
+2019,1,Arabs,288.0
+2019,2,Arabs,192.0
+2019,3,Arabs,219.0
+2019,4,Arabs,296.0
+2019,5,Arabs,226.0
+2019,6,Arabs,291.0
+2019,7,Arabs,373.0
+2019,8,Arabs,337.0
+2019,9,Arabs,279.0
+2019,10,Arabs,296.0
+2019,11,Arabs,279.0
+2019,12,Arabs,318.0
+2020,1,Arabs,302.0
+2020,2,Arabs,299.0
+2020,3,Arabs,118.0
+2020,4,Arabs,49.0
+2020,5,Arabs,41.0
+2020,6,Arabs,21.0
+2020,7,Arabs,7.0
+2020,8,Arabs,10.0
+2020,9,Arabs,35.0
+2020,10,Arabs,24.0
+2020,11,Arabs,1.0
+2020,12,Arabs,50.0
+2001,1,Germany,
+2001,2,Germany,
+2001,3,Germany,
+2001,4,Germany,
+2001,5,Germany,
+2001,6,Germany,
+2001,7,Germany,
+2001,8,Germany,
+2001,9,Germany,
+2001,10,Germany,
+2001,11,Germany,
+2001,12,Germany,
+2002,1,Germany,
+2002,2,Germany,
+2002,3,Germany,
+2002,4,Germany,
+2002,5,Germany,
+2002,6,Germany,
+2002,7,Germany,
+2002,8,Germany,
+2002,9,Germany,
+2002,10,Germany,
+2002,11,Germany,
+2002,12,Germany,
+2003,1,Germany,
+2003,2,Germany,
+2003,3,Germany,
+2003,4,Germany,
+2003,5,Germany,
+2003,6,Germany,
+2003,7,Germany,
+2003,8,Germany,
+2003,9,Germany,
+2003,10,Germany,
+2003,11,Germany,
+2003,12,Germany,
+2004,1,Germany,
+2004,2,Germany,
+2004,3,Germany,
+2004,4,Germany,
+2004,5,Germany,
+2004,6,Germany,
+2004,7,Germany,
+2004,8,Germany,
+2004,9,Germany,
+2004,10,Germany,
+2004,11,Germany,
+2004,12,Germany,
+2005,1,Germany,
+2005,2,Germany,
+2005,3,Germany,
+2005,4,Germany,
+2005,5,Germany,
+2005,6,Germany,
+2005,7,Germany,
+2005,8,Germany,
+2005,9,Germany,
+2005,10,Germany,
+2005,11,Germany,
+2005,12,Germany,
+2006,1,Germany,
+2006,2,Germany,
+2006,3,Germany,
+2006,4,Germany,
+2006,5,Germany,
+2006,6,Germany,
+2006,7,Germany,
+2006,8,Germany,
+2006,9,Germany,
+2006,10,Germany,
+2006,11,Germany,
+2006,12,Germany,
+2007,1,Germany,577.0
+2007,2,Germany,525.0
+2007,3,Germany,632.0
+2007,4,Germany,469.0
+2007,5,Germany,513.0
+2007,6,Germany,346.0
+2007,7,Germany,719.0
+2007,8,Germany,815.0
+2007,9,Germany,587.0
+2007,10,Germany,445.0
+2007,11,Germany,1692.0
+2007,12,Germany,441.0
+2008,1,Germany,402.0
+2008,2,Germany,308.0
+2008,3,Germany,885.0
+2008,4,Germany,511.0
+2008,5,Germany,317.0
+2008,6,Germany,140.0
+2008,7,Germany,913.0
+2008,8,Germany,962.0
+2008,9,Germany,597.0
+2008,10,Germany,565.0
+2008,11,Germany,530.0
+2008,12,Germany,504.0
+2009,1,Germany,838.0
+2009,2,Germany,243.0
+2009,3,Germany,952.0
+2009,4,Germany,707.0
+2009,5,Germany,671.0
+2009,6,Germany,622.0
+2009,7,Germany,690.0
+2009,8,Germany,887.0
+2009,9,Germany,550.0
+2009,10,Germany,519.0
+2009,11,Germany,602.0
+2009,12,Germany,388.0
+2010,1,Germany,552.0
+2010,2,Germany,129.0
+2010,3,Germany,503.0
+2010,4,Germany,345.0
+2010,5,Germany,459.0
+2010,6,Germany,497.0
+2010,7,Germany,562.0
+2010,8,Germany,727.0
+2010,9,Germany,621.0
+2010,10,Germany,574.0
+2010,11,Germany,532.0
+2010,12,Germany,361.0
+2011,1,Germany,469.0
+2011,2,Germany,605.0
+2011,3,Germany,460.0
+2011,4,Germany,583.0
+2011,5,Germany,798.0
+2011,6,Germany,506.0
+2011,7,Germany,806.0
+2011,8,Germany,885.0
+2011,9,Germany,607.0
+2011,10,Germany,594.0
+2011,11,Germany,461.0
+2011,12,Germany,424.0
+2012,1,Germany,443.0
+2012,2,Germany,569.0
+2012,3,Germany,1269.0
+2012,4,Germany,631.0
+2012,5,Germany,424.0
+2012,6,Germany,667.0
+2012,7,Germany,860.0
+2012,8,Germany,995.0
+2012,9,Germany,773.0
+2012,10,Germany,750.0
+2012,11,Germany,691.0
+2012,12,Germany,650.0
+2013,1,Germany,521.0
+2013,2,Germany,618.0
+2013,3,Germany,963.0
+2013,4,Germany,597.0
+2013,5,Germany,557.0
+2013,6,Germany,517.0
+2013,7,Germany,759.0
+2013,8,Germany,926.0
+2013,9,Germany,742.0
+2013,10,Germany,528.0
+2013,11,Germany,518.0
+2013,12,Germany,494.0
+2014,1,Germany,546.0
+2014,2,Germany,532.0
+2014,3,Germany,1308.0
+2014,4,Germany,805.0
+2014,5,Germany,543.0
+2014,6,Germany,414.0
+2014,7,Germany,649.0
+2014,8,Germany,984.0
+2014,9,Germany,804.0
+2014,10,Germany,675.0
+2014,11,Germany,464.0
+2014,12,Germany,458.0
+2015,1,Germany,393.0
+2015,2,Germany,534.0
+2015,3,Germany,752.0
+2015,4,Germany,617.0
+2015,5,Germany,498.0
+2015,6,Germany,430.0
+2015,7,Germany,681.0
+2015,8,Germany,963.0
+2015,9,Germany,696.0
+2015,10,Germany,515.0
+2015,11,Germany,488.0
+2015,12,Germany,309.0
+2016,1,Germany,436.0
+2016,2,Germany,890.0
+2016,3,Germany,781.0
+2016,4,Germany,566.0
+2016,5,Germany,458.0
+2016,6,Germany,462.0
+2016,7,Germany,731.0
+2016,8,Germany,985.0
+2016,9,Germany,754.0
+2016,10,Germany,539.0
+2016,11,Germany,452.0
+2016,12,Germany,323.0
+2017,1,Germany,372.0
+2017,2,Germany,510.0
+2017,3,Germany,779.0
+2017,4,Germany,727.0
+2017,5,Germany,550.0
+2017,6,Germany,477.0
+2017,7,Germany,797.0
+2017,8,Germany,1039.0
+2017,9,Germany,644.0
+2017,10,Germany,624.0
+2017,11,Germany,391.0
+2017,12,Germany,337.0
+2018,1,Germany,412.0
+2018,2,Germany,552.0
+2018,3,Germany,769.0
+2018,4,Germany,537.0
+2018,5,Germany,582.0
+2018,6,Germany,460.0
+2018,7,Germany,795.0
+2018,8,Germany,888.0
+2018,9,Germany,661.0
+2018,10,Germany,411.0
+2018,11,Germany,445.0
+2018,12,Germany,322.0
+2019,1,Germany,381.0
+2019,2,Germany,479.0
+2019,3,Germany,598.0
+2019,4,Germany,582.0
+2019,5,Germany,495.0
+2019,6,Germany,453.0
+2019,7,Germany,756.0
+2019,8,Germany,875.0
+2019,9,Germany,597.0
+2019,10,Germany,508.0
+2019,11,Germany,402.0
+2019,12,Germany,407.0
+2020,1,Germany,527.0
+2020,2,Germany,623.0
+2020,3,Germany,444.0
+2020,4,Germany,0.0
+2020,5,Germany,2.0
+2020,6,Germany,0.0
+2020,7,Germany,3.0
+2020,8,Germany,2.0
+2020,9,Germany,0.0
+2020,10,Germany,1.0
+2020,11,Germany,7.0
+2020,12,Germany,2.0
+2001,1,France,
+2001,2,France,
+2001,3,France,
+2001,4,France,
+2001,5,France,
+2001,6,France,
+2001,7,France,
+2001,8,France,
+2001,9,France,
+2001,10,France,
+2001,11,France,
+2001,12,France,
+2002,1,France,
+2002,2,France,
+2002,3,France,
+2002,4,France,
+2002,5,France,
+2002,6,France,
+2002,7,France,
+2002,8,France,
+2002,9,France,
+2002,10,France,
+2002,11,France,
+2002,12,France,
+2003,1,France,
+2003,2,France,
+2003,3,France,
+2003,4,France,
+2003,5,France,
+2003,6,France,
+2003,7,France,
+2003,8,France,
+2003,9,France,
+2003,10,France,
+2003,11,France,
+2003,12,France,
+2004,1,France,
+2004,2,France,
+2004,3,France,
+2004,4,France,
+2004,5,France,
+2004,6,France,
+2004,7,France,
+2004,8,France,
+2004,9,France,
+2004,10,France,
+2004,11,France,
+2004,12,France,
+2005,1,France,
+2005,2,France,
+2005,3,France,
+2005,4,France,
+2005,5,France,
+2005,6,France,
+2005,7,France,
+2005,8,France,
+2005,9,France,
+2005,10,France,
+2005,11,France,
+2005,12,France,
+2006,1,France,
+2006,2,France,
+2006,3,France,
+2006,4,France,
+2006,5,France,
+2006,6,France,
+2006,7,France,
+2006,8,France,
+2006,9,France,
+2006,10,France,
+2006,11,France,
+2006,12,France,
+2007,1,France,692.0
+2007,2,France,381.0
+2007,3,France,137.0
+2007,4,France,231.0
+2007,5,France,237.0
+2007,6,France,306.0
+2007,7,France,465.0
+2007,8,France,657.0
+2007,9,France,341.0
+2007,10,France,262.0
+2007,11,France,731.0
+2007,12,France,207.0
+2008,1,France,167.0
+2008,2,France,174.0
+2008,3,France,280.0
+2008,4,France,346.0
+2008,5,France,190.0
+2008,6,France,84.0
+2008,7,France,802.0
+2008,8,France,865.0
+2008,9,France,270.0
+2008,10,France,340.0
+2008,11,France,229.0
+2008,12,France,311.0
+2009,1,France,118.0
+2009,2,France,104.0
+2009,3,France,375.0
+2009,4,France,449.0
+2009,5,France,500.0
+2009,6,France,357.0
+2009,7,France,747.0
+2009,8,France,830.0
+2009,9,France,404.0
+2009,10,France,425.0
+2009,11,France,317.0
+2009,12,France,266.0
+2010,1,France,255.0
+2010,2,France,115.0
+2010,3,France,277.0
+2010,4,France,224.0
+2010,5,France,317.0
+2010,6,France,255.0
+2010,7,France,697.0
+2010,8,France,819.0
+2010,9,France,242.0
+2010,10,France,267.0
+2010,11,France,223.0
+2010,12,France,165.0
+2011,1,France,207.0
+2011,2,France,304.0
+2011,3,France,356.0
+2011,4,France,445.0
+2011,5,France,389.0
+2011,6,France,449.0
+2011,7,France,920.0
+2011,8,France,942.0
+2011,9,France,363.0
+2011,10,France,438.0
+2011,11,France,262.0
+2011,12,France,327.0
+2012,1,France,267.0
+2012,2,France,386.0
+2012,3,France,436.0
+2012,4,France,505.0
+2012,5,France,492.0
+2012,6,France,367.0
+2012,7,France,917.0
+2012,8,France,1011.0
+2012,9,France,350.0
+2012,10,France,485.0
+2012,11,France,274.0
+2012,12,France,304.0
+2013,1,France,272.0
+2013,2,France,294.0
+2013,3,France,493.0
+2013,4,France,464.0
+2013,5,France,512.0
+2013,6,France,425.0
+2013,7,France,910.0
+2013,8,France,979.0
+2013,9,France,399.0
+2013,10,France,424.0
+2013,11,France,319.0
+2013,12,France,400.0
+2014,1,France,513.0
+2014,2,France,368.0
+2014,3,France,538.0
+2014,4,France,534.0
+2014,5,France,491.0
+2014,6,France,443.0
+2014,7,France,1050.0
+2014,8,France,1206.0
+2014,9,France,428.0
+2014,10,France,439.0
+2014,11,France,246.0
+2014,12,France,314.0
+2015,1,France,259.0
+2015,2,France,360.0
+2015,3,France,398.0
+2015,4,France,484.0
+2015,5,France,420.0
+2015,6,France,316.0
+2015,7,France,763.0
+2015,8,France,998.0
+2015,9,France,383.0
+2015,10,France,365.0
+2015,11,France,301.0
+2015,12,France,254.0
+2016,1,France,246.0
+2016,2,France,378.0
+2016,3,France,347.0
+2016,4,France,518.0
+2016,5,France,348.0
+2016,6,France,257.0
+2016,7,France,857.0
+2016,8,France,856.0
+2016,9,France,383.0
+2016,10,France,371.0
+2016,11,France,277.0
+2016,12,France,231.0
+2017,1,France,287.0
+2017,2,France,352.0
+2017,3,France,418.0
+2017,4,France,495.0
+2017,5,France,400.0
+2017,6,France,494.0
+2017,7,France,1003.0
+2017,8,France,1010.0
+2017,9,France,429.0
+2017,10,France,476.0
+2017,11,France,249.0
+2017,12,France,252.0
+2018,1,France,303.0
+2018,2,France,350.0
+2018,3,France,529.0
+2018,4,France,522.0
+2018,5,France,405.0
+2018,6,France,405.0
+2018,7,France,1091.0
+2018,8,France,1111.0
+2018,9,France,450.0
+2018,10,France,311.0
+2018,11,France,322.0
+2018,12,France,227.0
+2019,1,France,263.0
+2019,2,France,335.0
+2019,3,France,411.0
+2019,4,France,566.0
+2019,5,France,437.0
+2019,6,France,461.0
+2019,7,France,1199.0
+2019,8,France,1269.0
+2019,9,France,558.0
+2019,10,France,411.0
+2019,11,France,182.0
+2019,12,France,233.0
+2020,1,France,270.0
+2020,2,France,324.0
+2020,3,France,159.0
+2020,4,France,0.0
+2020,5,France,9.0
+2020,6,France,0.0
+2020,7,France,12.0
+2020,8,France,0.0
+2020,9,France,1.0
+2020,10,France,0.0
+2020,11,France,0.0
+2020,12,France,0.0
+2001,1,Nor/Swe/Den/Fin,
+2001,2,Nor/Swe/Den/Fin,
+2001,3,Nor/Swe/Den/Fin,
+2001,4,Nor/Swe/Den/Fin,
+2001,5,Nor/Swe/Den/Fin,
+2001,6,Nor/Swe/Den/Fin,
+2001,7,Nor/Swe/Den/Fin,
+2001,8,Nor/Swe/Den/Fin,
+2001,9,Nor/Swe/Den/Fin,
+2001,10,Nor/Swe/Den/Fin,
+2001,11,Nor/Swe/Den/Fin,
+2001,12,Nor/Swe/Den/Fin,
+2002,1,Nor/Swe/Den/Fin,
+2002,2,Nor/Swe/Den/Fin,
+2002,3,Nor/Swe/Den/Fin,
+2002,4,Nor/Swe/Den/Fin,
+2002,5,Nor/Swe/Den/Fin,
+2002,6,Nor/Swe/Den/Fin,
+2002,7,Nor/Swe/Den/Fin,
+2002,8,Nor/Swe/Den/Fin,
+2002,9,Nor/Swe/Den/Fin,
+2002,10,Nor/Swe/Den/Fin,
+2002,11,Nor/Swe/Den/Fin,
+2002,12,Nor/Swe/Den/Fin,
+2003,1,Nor/Swe/Den/Fin,
+2003,2,Nor/Swe/Den/Fin,
+2003,3,Nor/Swe/Den/Fin,
+2003,4,Nor/Swe/Den/Fin,
+2003,5,Nor/Swe/Den/Fin,
+2003,6,Nor/Swe/Den/Fin,
+2003,7,Nor/Swe/Den/Fin,
+2003,8,Nor/Swe/Den/Fin,
+2003,9,Nor/Swe/Den/Fin,
+2003,10,Nor/Swe/Den/Fin,
+2003,11,Nor/Swe/Den/Fin,
+2003,12,Nor/Swe/Den/Fin,
+2004,1,Nor/Swe/Den/Fin,
+2004,2,Nor/Swe/Den/Fin,
+2004,3,Nor/Swe/Den/Fin,
+2004,4,Nor/Swe/Den/Fin,
+2004,5,Nor/Swe/Den/Fin,
+2004,6,Nor/Swe/Den/Fin,
+2004,7,Nor/Swe/Den/Fin,
+2004,8,Nor/Swe/Den/Fin,
+2004,9,Nor/Swe/Den/Fin,
+2004,10,Nor/Swe/Den/Fin,
+2004,11,Nor/Swe/Den/Fin,
+2004,12,Nor/Swe/Den/Fin,
+2005,1,Nor/Swe/Den/Fin,
+2005,2,Nor/Swe/Den/Fin,
+2005,3,Nor/Swe/Den/Fin,
+2005,4,Nor/Swe/Den/Fin,
+2005,5,Nor/Swe/Den/Fin,
+2005,6,Nor/Swe/Den/Fin,
+2005,7,Nor/Swe/Den/Fin,
+2005,8,Nor/Swe/Den/Fin,
+2005,9,Nor/Swe/Den/Fin,
+2005,10,Nor/Swe/Den/Fin,
+2005,11,Nor/Swe/Den/Fin,
+2005,12,Nor/Swe/Den/Fin,
+2006,1,Nor/Swe/Den/Fin,
+2006,2,Nor/Swe/Den/Fin,
+2006,3,Nor/Swe/Den/Fin,
+2006,4,Nor/Swe/Den/Fin,
+2006,5,Nor/Swe/Den/Fin,
+2006,6,Nor/Swe/Den/Fin,
+2006,7,Nor/Swe/Den/Fin,
+2006,8,Nor/Swe/Den/Fin,
+2006,9,Nor/Swe/Den/Fin,
+2006,10,Nor/Swe/Den/Fin,
+2006,11,Nor/Swe/Den/Fin,
+2006,12,Nor/Swe/Den/Fin,
+2007,1,Nor/Swe/Den/Fin,265.0
+2007,2,Nor/Swe/Den/Fin,379.0
+2007,3,Nor/Swe/Den/Fin,440.0
+2007,4,Nor/Swe/Den/Fin,318.0
+2007,5,Nor/Swe/Den/Fin,231.0
+2007,6,Nor/Swe/Den/Fin,231.0
+2007,7,Nor/Swe/Den/Fin,595.0
+2007,8,Nor/Swe/Den/Fin,361.0
+2007,9,Nor/Swe/Den/Fin,461.0
+2007,10,Nor/Swe/Den/Fin,207.0
+2007,11,Nor/Swe/Den/Fin,821.0
+2007,12,Nor/Swe/Den/Fin,344.0
+2008,1,Nor/Swe/Den/Fin,426.0
+2008,2,Nor/Swe/Den/Fin,404.0
+2008,3,Nor/Swe/Den/Fin,553.0
+2008,4,Nor/Swe/Den/Fin,417.0
+2008,5,Nor/Swe/Den/Fin,235.0
+2008,6,Nor/Swe/Den/Fin,115.0
+2008,7,Nor/Swe/Den/Fin,818.0
+2008,8,Nor/Swe/Den/Fin,724.0
+2008,9,Nor/Swe/Den/Fin,303.0
+2008,10,Nor/Swe/Den/Fin,326.0
+2008,11,Nor/Swe/Den/Fin,276.0
+2008,12,Nor/Swe/Den/Fin,380.0
+2009,1,Nor/Swe/Den/Fin,134.0
+2009,2,Nor/Swe/Den/Fin,169.0
+2009,3,Nor/Swe/Den/Fin,552.0
+2009,4,Nor/Swe/Den/Fin,459.0
+2009,5,Nor/Swe/Den/Fin,319.0
+2009,6,Nor/Swe/Den/Fin,397.0
+2009,7,Nor/Swe/Den/Fin,592.0
+2009,8,Nor/Swe/Den/Fin,337.0
+2009,9,Nor/Swe/Den/Fin,298.0
+2009,10,Nor/Swe/Den/Fin,379.0
+2009,11,Nor/Swe/Den/Fin,383.0
+2009,12,Nor/Swe/Den/Fin,357.0
+2010,1,Nor/Swe/Den/Fin,559.0
+2010,2,Nor/Swe/Den/Fin,129.0
+2010,3,Nor/Swe/Den/Fin,473.0
+2010,4,Nor/Swe/Den/Fin,210.0
+2010,5,Nor/Swe/Den/Fin,198.0
+2010,6,Nor/Swe/Den/Fin,341.0
+2010,7,Nor/Swe/Den/Fin,587.0
+2010,8,Nor/Swe/Den/Fin,350.0
+2010,9,Nor/Swe/Den/Fin,211.0
+2010,10,Nor/Swe/Den/Fin,344.0
+2010,11,Nor/Swe/Den/Fin,251.0
+2010,12,Nor/Swe/Den/Fin,264.0
+2011,1,Nor/Swe/Den/Fin,547.0
+2011,2,Nor/Swe/Den/Fin,509.0
+2011,3,Nor/Swe/Den/Fin,368.0
+2011,4,Nor/Swe/Den/Fin,448.0
+2011,5,Nor/Swe/Den/Fin,223.0
+2011,6,Nor/Swe/Den/Fin,307.0
+2011,7,Nor/Swe/Den/Fin,656.0
+2011,8,Nor/Swe/Den/Fin,331.0
+2011,9,Nor/Swe/Den/Fin,356.0
+2011,10,Nor/Swe/Den/Fin,429.0
+2011,11,Nor/Swe/Den/Fin,416.0
+2011,12,Nor/Swe/Den/Fin,397.0
+2012,1,Nor/Swe/Den/Fin,374.0
+2012,2,Nor/Swe/Den/Fin,484.0
+2012,3,Nor/Swe/Den/Fin,440.0
+2012,4,Nor/Swe/Den/Fin,423.0
+2012,5,Nor/Swe/Den/Fin,279.0
+2012,6,Nor/Swe/Den/Fin,430.0
+2012,7,Nor/Swe/Den/Fin,794.0
+2012,8,Nor/Swe/Den/Fin,452.0
+2012,9,Nor/Swe/Den/Fin,386.0
+2012,10,Nor/Swe/Den/Fin,521.0
+2012,11,Nor/Swe/Den/Fin,431.0
+2012,12,Nor/Swe/Den/Fin,519.0
+2013,1,Nor/Swe/Den/Fin,434.0
+2013,2,Nor/Swe/Den/Fin,578.0
+2013,3,Nor/Swe/Den/Fin,706.0
+2013,4,Nor/Swe/Den/Fin,422.0
+2013,5,Nor/Swe/Den/Fin,482.0
+2013,6,Nor/Swe/Den/Fin,475.0
+2013,7,Nor/Swe/Den/Fin,731.0
+2013,8,Nor/Swe/Den/Fin,593.0
+2013,9,Nor/Swe/Den/Fin,474.0
+2013,10,Nor/Swe/Den/Fin,741.0
+2013,11,Nor/Swe/Den/Fin,550.0
+2013,12,Nor/Swe/Den/Fin,513.0
+2014,1,Nor/Swe/Den/Fin,597.0
+2014,2,Nor/Swe/Den/Fin,545.0
+2014,3,Nor/Swe/Den/Fin,568.0
+2014,4,Nor/Swe/Den/Fin,464.0
+2014,5,Nor/Swe/Den/Fin,476.0
+2014,6,Nor/Swe/Den/Fin,479.0
+2014,7,Nor/Swe/Den/Fin,776.0
+2014,8,Nor/Swe/Den/Fin,470.0
+2014,9,Nor/Swe/Den/Fin,577.0
+2014,10,Nor/Swe/Den/Fin,615.0
+2014,11,Nor/Swe/Den/Fin,499.0
+2014,12,Nor/Swe/Den/Fin,456.0
+2015,1,Nor/Swe/Den/Fin,439.0
+2015,2,Nor/Swe/Den/Fin,477.0
+2015,3,Nor/Swe/Den/Fin,645.0
+2015,4,Nor/Swe/Den/Fin,422.0
+2015,5,Nor/Swe/Den/Fin,345.0
+2015,6,Nor/Swe/Den/Fin,365.0
+2015,7,Nor/Swe/Den/Fin,636.0
+2015,8,Nor/Swe/Den/Fin,388.0
+2015,9,Nor/Swe/Den/Fin,408.0
+2015,10,Nor/Swe/Den/Fin,479.0
+2015,11,Nor/Swe/Den/Fin,467.0
+2015,12,Nor/Swe/Den/Fin,345.0
+2016,1,Nor/Swe/Den/Fin,319.0
+2016,2,Nor/Swe/Den/Fin,535.0
+2016,3,Nor/Swe/Den/Fin,344.0
+2016,4,Nor/Swe/Den/Fin,317.0
+2016,5,Nor/Swe/Den/Fin,183.0
+2016,6,Nor/Swe/Den/Fin,278.0
+2016,7,Nor/Swe/Den/Fin,646.0
+2016,8,Nor/Swe/Den/Fin,349.0
+2016,9,Nor/Swe/Den/Fin,346.0
+2016,10,Nor/Swe/Den/Fin,416.0
+2016,11,Nor/Swe/Den/Fin,337.0
+2016,12,Nor/Swe/Den/Fin,232.0
+2017,1,Nor/Swe/Den/Fin,280.0
+2017,2,Nor/Swe/Den/Fin,309.0
+2017,3,Nor/Swe/Den/Fin,421.0
+2017,4,Nor/Swe/Den/Fin,369.0
+2017,5,Nor/Swe/Den/Fin,232.0
+2017,6,Nor/Swe/Den/Fin,292.0
+2017,7,Nor/Swe/Den/Fin,806.0
+2017,8,Nor/Swe/Den/Fin,301.0
+2017,9,Nor/Swe/Den/Fin,366.0
+2017,10,Nor/Swe/Den/Fin,518.0
+2017,11,Nor/Swe/Den/Fin,333.0
+2017,12,Nor/Swe/Den/Fin,239.0
+2018,1,Nor/Swe/Den/Fin,352.0
+2018,2,Nor/Swe/Den/Fin,331.0
+2018,3,Nor/Swe/Den/Fin,454.0
+2018,4,Nor/Swe/Den/Fin,290.0
+2018,5,Nor/Swe/Den/Fin,195.0
+2018,6,Nor/Swe/Den/Fin,262.0
+2018,7,Nor/Swe/Den/Fin,533.0
+2018,8,Nor/Swe/Den/Fin,327.0
+2018,9,Nor/Swe/Den/Fin,332.0
+2018,10,Nor/Swe/Den/Fin,335.0
+2018,11,Nor/Swe/Den/Fin,271.0
+2018,12,Nor/Swe/Den/Fin,224.0
+2019,1,Nor/Swe/Den/Fin,237.0
+2019,2,Nor/Swe/Den/Fin,285.0
+2019,3,Nor/Swe/Den/Fin,252.0
+2019,4,Nor/Swe/Den/Fin,289.0
+2019,5,Nor/Swe/Den/Fin,159.0
+2019,6,Nor/Swe/Den/Fin,251.0
+2019,7,Nor/Swe/Den/Fin,417.0
+2019,8,Nor/Swe/Den/Fin,275.0
+2019,9,Nor/Swe/Den/Fin,289.0
+2019,10,Nor/Swe/Den/Fin,265.0
+2019,11,Nor/Swe/Den/Fin,186.0
+2019,12,Nor/Swe/Den/Fin,178.0
+2020,1,Nor/Swe/Den/Fin,263.0
+2020,2,Nor/Swe/Den/Fin,396.0
+2020,3,Nor/Swe/Den/Fin,146.0
+2020,4,Nor/Swe/Den/Fin,0.0
+2020,5,Nor/Swe/Den/Fin,4.0
+2020,6,Nor/Swe/Den/Fin,9.0
+2020,7,Nor/Swe/Den/Fin,7.0
+2020,8,Nor/Swe/Den/Fin,4.0
+2020,9,Nor/Swe/Den/Fin,3.0
+2020,10,Nor/Swe/Den/Fin,3.0
+2020,11,Nor/Swe/Den/Fin,1.0
+2020,12,Nor/Swe/Den/Fin,0.0
+2001,1,Belg/Lux/Net,
+2001,2,Belg/Lux/Net,
+2001,3,Belg/Lux/Net,
+2001,4,Belg/Lux/Net,
+2001,5,Belg/Lux/Net,
+2001,6,Belg/Lux/Net,
+2001,7,Belg/Lux/Net,
+2001,8,Belg/Lux/Net,
+2001,9,Belg/Lux/Net,
+2001,10,Belg/Lux/Net,
+2001,11,Belg/Lux/Net,
+2001,12,Belg/Lux/Net,
+2002,1,Belg/Lux/Net,
+2002,2,Belg/Lux/Net,
+2002,3,Belg/Lux/Net,
+2002,4,Belg/Lux/Net,
+2002,5,Belg/Lux/Net,
+2002,6,Belg/Lux/Net,
+2002,7,Belg/Lux/Net,
+2002,8,Belg/Lux/Net,
+2002,9,Belg/Lux/Net,
+2002,10,Belg/Lux/Net,
+2002,11,Belg/Lux/Net,
+2002,12,Belg/Lux/Net,
+2003,1,Belg/Lux/Net,
+2003,2,Belg/Lux/Net,
+2003,3,Belg/Lux/Net,
+2003,4,Belg/Lux/Net,
+2003,5,Belg/Lux/Net,
+2003,6,Belg/Lux/Net,
+2003,7,Belg/Lux/Net,
+2003,8,Belg/Lux/Net,
+2003,9,Belg/Lux/Net,
+2003,10,Belg/Lux/Net,
+2003,11,Belg/Lux/Net,
+2003,12,Belg/Lux/Net,
+2004,1,Belg/Lux/Net,
+2004,2,Belg/Lux/Net,
+2004,3,Belg/Lux/Net,
+2004,4,Belg/Lux/Net,
+2004,5,Belg/Lux/Net,
+2004,6,Belg/Lux/Net,
+2004,7,Belg/Lux/Net,
+2004,8,Belg/Lux/Net,
+2004,9,Belg/Lux/Net,
+2004,10,Belg/Lux/Net,
+2004,11,Belg/Lux/Net,
+2004,12,Belg/Lux/Net,
+2005,1,Belg/Lux/Net,
+2005,2,Belg/Lux/Net,
+2005,3,Belg/Lux/Net,
+2005,4,Belg/Lux/Net,
+2005,5,Belg/Lux/Net,
+2005,6,Belg/Lux/Net,
+2005,7,Belg/Lux/Net,
+2005,8,Belg/Lux/Net,
+2005,9,Belg/Lux/Net,
+2005,10,Belg/Lux/Net,
+2005,11,Belg/Lux/Net,
+2005,12,Belg/Lux/Net,
+2006,1,Belg/Lux/Net,
+2006,2,Belg/Lux/Net,
+2006,3,Belg/Lux/Net,
+2006,4,Belg/Lux/Net,
+2006,5,Belg/Lux/Net,
+2006,6,Belg/Lux/Net,
+2006,7,Belg/Lux/Net,
+2006,8,Belg/Lux/Net,
+2006,9,Belg/Lux/Net,
+2006,10,Belg/Lux/Net,
+2006,11,Belg/Lux/Net,
+2006,12,Belg/Lux/Net,
+2007,1,Belg/Lux/Net,677.0
+2007,2,Belg/Lux/Net,777.0
+2007,3,Belg/Lux/Net,788.0
+2007,4,Belg/Lux/Net,806.0
+2007,5,Belg/Lux/Net,752.0
+2007,6,Belg/Lux/Net,634.0
+2007,7,Belg/Lux/Net,1574.0
+2007,8,Belg/Lux/Net,1344.0
+2007,9,Belg/Lux/Net,970.0
+2007,10,Belg/Lux/Net,1020.0
+2007,11,Belg/Lux/Net,1212.0
+2007,12,Belg/Lux/Net,640.0
+2008,1,Belg/Lux/Net,749.0
+2008,2,Belg/Lux/Net,586.0
+2008,3,Belg/Lux/Net,759.0
+2008,4,Belg/Lux/Net,734.0
+2008,5,Belg/Lux/Net,661.0
+2008,6,Belg/Lux/Net,447.0
+2008,7,Belg/Lux/Net,2124.0
+2008,8,Belg/Lux/Net,1686.0
+2008,9,Belg/Lux/Net,1103.0
+2008,10,Belg/Lux/Net,1076.0
+2008,11,Belg/Lux/Net,836.0
+2008,12,Belg/Lux/Net,788.0
+2009,1,Belg/Lux/Net,439.0
+2009,2,Belg/Lux/Net,476.0
+2009,3,Belg/Lux/Net,857.0
+2009,4,Belg/Lux/Net,933.0
+2009,5,Belg/Lux/Net,853.0
+2009,6,Belg/Lux/Net,936.0
+2009,7,Belg/Lux/Net,1788.0
+2009,8,Belg/Lux/Net,1560.0
+2009,9,Belg/Lux/Net,1215.0
+2009,10,Belg/Lux/Net,1287.0
+2009,11,Belg/Lux/Net,830.0
+2009,12,Belg/Lux/Net,782.0
+2010,1,Belg/Lux/Net,740.0
+2010,2,Belg/Lux/Net,407.0
+2010,3,Belg/Lux/Net,670.0
+2010,4,Belg/Lux/Net,401.0
+2010,5,Belg/Lux/Net,691.0
+2010,6,Belg/Lux/Net,859.0
+2010,7,Belg/Lux/Net,1547.0
+2010,8,Belg/Lux/Net,1166.0
+2010,9,Belg/Lux/Net,1009.0
+2010,10,Belg/Lux/Net,856.0
+2010,11,Belg/Lux/Net,591.0
+2010,12,Belg/Lux/Net,420.0
+2011,1,Belg/Lux/Net,535.0
+2011,2,Belg/Lux/Net,462.0
+2011,3,Belg/Lux/Net,547.0
+2011,4,Belg/Lux/Net,776.0
+2011,5,Belg/Lux/Net,873.0
+2011,6,Belg/Lux/Net,814.0
+2011,7,Belg/Lux/Net,1954.0
+2011,8,Belg/Lux/Net,1218.0
+2011,9,Belg/Lux/Net,1084.0
+2011,10,Belg/Lux/Net,1052.0
+2011,11,Belg/Lux/Net,696.0
+2011,12,Belg/Lux/Net,753.0
+2012,1,Belg/Lux/Net,717.0
+2012,2,Belg/Lux/Net,831.0
+2012,3,Belg/Lux/Net,864.0
+2012,4,Belg/Lux/Net,581.0
+2012,5,Belg/Lux/Net,615.0
+2012,6,Belg/Lux/Net,864.0
+2012,7,Belg/Lux/Net,1970.0
+2012,8,Belg/Lux/Net,1133.0
+2012,9,Belg/Lux/Net,1045.0
+2012,10,Belg/Lux/Net,766.0
+2012,11,Belg/Lux/Net,539.0
+2012,12,Belg/Lux/Net,695.0
+2013,1,Belg/Lux/Net,491.0
+2013,2,Belg/Lux/Net,614.0
+2013,3,Belg/Lux/Net,650.0
+2013,4,Belg/Lux/Net,526.0
+2013,5,Belg/Lux/Net,676.0
+2013,6,Belg/Lux/Net,706.0
+2013,7,Belg/Lux/Net,1639.0
+2013,8,Belg/Lux/Net,1098.0
+2013,9,Belg/Lux/Net,862.0
+2013,10,Belg/Lux/Net,740.0
+2013,11,Belg/Lux/Net,589.0
+2013,12,Belg/Lux/Net,571.0
+2014,1,Belg/Lux/Net,630.0
+2014,2,Belg/Lux/Net,519.0
+2014,3,Belg/Lux/Net,633.0
+2014,4,Belg/Lux/Net,707.0
+2014,5,Belg/Lux/Net,590.0
+2014,6,Belg/Lux/Net,686.0
+2014,7,Belg/Lux/Net,1716.0
+2014,8,Belg/Lux/Net,1313.0
+2014,9,Belg/Lux/Net,853.0
+2014,10,Belg/Lux/Net,808.0
+2014,11,Belg/Lux/Net,512.0
+2014,12,Belg/Lux/Net,898.0
+2015,1,Belg/Lux/Net,571.0
+2015,2,Belg/Lux/Net,618.0
+2015,3,Belg/Lux/Net,849.0
+2015,4,Belg/Lux/Net,833.0
+2015,5,Belg/Lux/Net,810.0
+2015,6,Belg/Lux/Net,594.0
+2015,7,Belg/Lux/Net,1521.0
+2015,8,Belg/Lux/Net,1163.0
+2015,9,Belg/Lux/Net,1001.0
+2015,10,Belg/Lux/Net,834.0
+2015,11,Belg/Lux/Net,765.0
+2015,12,Belg/Lux/Net,651.0
+2016,1,Belg/Lux/Net,576.0
+2016,2,Belg/Lux/Net,797.0
+2016,3,Belg/Lux/Net,541.0
+2016,4,Belg/Lux/Net,739.0
+2016,5,Belg/Lux/Net,692.0
+2016,6,Belg/Lux/Net,554.0
+2016,7,Belg/Lux/Net,1951.0
+2016,8,Belg/Lux/Net,1584.0
+2016,9,Belg/Lux/Net,802.0
+2016,10,Belg/Lux/Net,767.0
+2016,11,Belg/Lux/Net,606.0
+2016,12,Belg/Lux/Net,621.0
+2017,1,Belg/Lux/Net,554.0
+2017,2,Belg/Lux/Net,545.0
+2017,3,Belg/Lux/Net,792.0
+2017,4,Belg/Lux/Net,777.0
+2017,5,Belg/Lux/Net,666.0
+2017,6,Belg/Lux/Net,750.0
+2017,7,Belg/Lux/Net,2137.0
+2017,8,Belg/Lux/Net,1416.0
+2017,9,Belg/Lux/Net,939.0
+2017,10,Belg/Lux/Net,862.0
+2017,11,Belg/Lux/Net,500.0
+2017,12,Belg/Lux/Net,314.0
+2018,1,Belg/Lux/Net,408.0
+2018,2,Belg/Lux/Net,473.0
+2018,3,Belg/Lux/Net,692.0
+2018,4,Belg/Lux/Net,805.0
+2018,5,Belg/Lux/Net,750.0
+2018,6,Belg/Lux/Net,743.0
+2018,7,Belg/Lux/Net,2062.0
+2018,8,Belg/Lux/Net,1378.0
+2018,9,Belg/Lux/Net,890.0
+2018,10,Belg/Lux/Net,654.0
+2018,11,Belg/Lux/Net,552.0
+2018,12,Belg/Lux/Net,394.0
+2019,1,Belg/Lux/Net,450.0
+2019,2,Belg/Lux/Net,511.0
+2019,3,Belg/Lux/Net,551.0
+2019,4,Belg/Lux/Net,761.0
+2019,5,Belg/Lux/Net,536.0
+2019,6,Belg/Lux/Net,722.0
+2019,7,Belg/Lux/Net,2207.0
+2019,8,Belg/Lux/Net,1208.0
+2019,9,Belg/Lux/Net,881.0
+2019,10,Belg/Lux/Net,643.0
+2019,11,Belg/Lux/Net,339.0
+2019,12,Belg/Lux/Net,289.0
+2020,1,Belg/Lux/Net,471.0
+2020,2,Belg/Lux/Net,209.0
+2020,3,Belg/Lux/Net,89.0
+2020,4,Belg/Lux/Net,0.0
+2020,5,Belg/Lux/Net,1.0
+2020,6,Belg/Lux/Net,0.0
+2020,7,Belg/Lux/Net,0.0
+2020,8,Belg/Lux/Net,0.0
+2020,9,Belg/Lux/Net,2.0
+2020,10,Belg/Lux/Net,0.0
+2020,11,Belg/Lux/Net,0.0
+2020,12,Belg/Lux/Net,0.0
+2001,1,Europe,
+2001,2,Europe,
+2001,3,Europe,
+2001,4,Europe,
+2001,5,Europe,
+2001,6,Europe,
+2001,7,Europe,
+2001,8,Europe,
+2001,9,Europe,
+2001,10,Europe,
+2001,11,Europe,
+2001,12,Europe,
+2002,1,Europe,
+2002,2,Europe,
+2002,3,Europe,
+2002,4,Europe,
+2002,5,Europe,
+2002,6,Europe,
+2002,7,Europe,
+2002,8,Europe,
+2002,9,Europe,
+2002,10,Europe,
+2002,11,Europe,
+2002,12,Europe,
+2003,1,Europe,
+2003,2,Europe,
+2003,3,Europe,
+2003,4,Europe,
+2003,5,Europe,
+2003,6,Europe,
+2003,7,Europe,
+2003,8,Europe,
+2003,9,Europe,
+2003,10,Europe,
+2003,11,Europe,
+2003,12,Europe,
+2004,1,Europe,
+2004,2,Europe,
+2004,3,Europe,
+2004,4,Europe,
+2004,5,Europe,
+2004,6,Europe,
+2004,7,Europe,
+2004,8,Europe,
+2004,9,Europe,
+2004,10,Europe,
+2004,11,Europe,
+2004,12,Europe,
+2005,1,Europe,
+2005,2,Europe,
+2005,3,Europe,
+2005,4,Europe,
+2005,5,Europe,
+2005,6,Europe,
+2005,7,Europe,
+2005,8,Europe,
+2005,9,Europe,
+2005,10,Europe,
+2005,11,Europe,
+2005,12,Europe,
+2006,1,Europe,
+2006,2,Europe,
+2006,3,Europe,
+2006,4,Europe,
+2006,5,Europe,
+2006,6,Europe,
+2006,7,Europe,
+2006,8,Europe,
+2006,9,Europe,
+2006,10,Europe,
+2006,11,Europe,
+2006,12,Europe,
+2007,1,Europe,194.0
+2007,2,Europe,455.0
+2007,3,Europe,545.0
+2007,4,Europe,420.0
+2007,5,Europe,379.0
+2007,6,Europe,284.0
+2007,7,Europe,396.0
+2007,8,Europe,1076.0
+2007,9,Europe,559.0
+2007,10,Europe,491.0
+2007,11,Europe,679.0
+2007,12,Europe,362.0
+2008,1,Europe,661.0
+2008,2,Europe,405.0
+2008,3,Europe,470.0
+2008,4,Europe,517.0
+2008,5,Europe,366.0
+2008,6,Europe,506.0
+2008,7,Europe,1385.0
+2008,8,Europe,1471.0
+2008,9,Europe,466.0
+2008,10,Europe,660.0
+2008,11,Europe,514.0
+2008,12,Europe,622.0
+2009,1,Europe,561.0
+2009,2,Europe,389.0
+2009,3,Europe,648.0
+2009,4,Europe,749.0
+2009,5,Europe,372.0
+2009,6,Europe,744.0
+2009,7,Europe,1394.0
+2009,8,Europe,2563.0
+2009,9,Europe,1090.0
+2009,10,Europe,656.0
+2009,11,Europe,640.0
+2009,12,Europe,732.0
+2010,1,Europe,471.0
+2010,2,Europe,540.0
+2010,3,Europe,643.0
+2010,4,Europe,453.0
+2010,5,Europe,709.0
+2010,6,Europe,368.0
+2010,7,Europe,1031.0
+2010,8,Europe,2187.0
+2010,9,Europe,513.0
+2010,10,Europe,690.0
+2010,11,Europe,539.0
+2010,12,Europe,522.0
+2011,1,Europe,706.0
+2011,2,Europe,700.0
+2011,3,Europe,681.0
+2011,4,Europe,759.0
+2011,5,Europe,638.0
+2011,6,Europe,728.0
+2011,7,Europe,1420.0
+2011,8,Europe,2264.0
+2011,9,Europe,854.0
+2011,10,Europe,840.0
+2011,11,Europe,716.0
+2011,12,Europe,843.0
+2012,1,Europe,801.0
+2012,2,Europe,963.0
+2012,3,Europe,1023.0
+2012,4,Europe,980.0
+2012,5,Europe,877.0
+2012,6,Europe,1103.0
+2012,7,Europe,1662.0
+2012,8,Europe,2574.0
+2012,9,Europe,1363.0
+2012,10,Europe,1337.0
+2012,11,Europe,1425.0
+2012,12,Europe,1331.0
+2013,1,Europe,922.0
+2013,2,Europe,848.0
+2013,3,Europe,1297.0
+2013,4,Europe,1118.0
+2013,5,Europe,1182.0
+2013,6,Europe,1395.0
+2013,7,Europe,2138.0
+2013,8,Europe,2640.0
+2013,9,Europe,1592.0
+2013,10,Europe,1433.0
+2013,11,Europe,1359.0
+2013,12,Europe,1389.0
+2014,1,Europe,1490.0
+2014,2,Europe,1876.0
+2014,3,Europe,1346.0
+2014,4,Europe,1315.0
+2014,5,Europe,1618.0
+2014,6,Europe,1267.0
+2014,7,Europe,2307.0
+2014,8,Europe,2954.0
+2014,9,Europe,1624.0
+2014,10,Europe,1954.0
+2014,11,Europe,1391.0
+2014,12,Europe,1070.0
+2015,1,Europe,1165.0
+2015,2,Europe,1357.0
+2015,3,Europe,1614.0
+2015,4,Europe,1552.0
+2015,5,Europe,1272.0
+2015,6,Europe,1481.0
+2015,7,Europe,1893.0
+2015,8,Europe,2859.0
+2015,9,Europe,1157.0
+2015,10,Europe,1443.0
+2015,11,Europe,1013.0
+2015,12,Europe,689.0
+2016,1,Europe,894.0
+2016,2,Europe,1591.0
+2016,3,Europe,915.0
+2016,4,Europe,831.0
+2016,5,Europe,593.0
+2016,6,Europe,793.0
+2016,7,Europe,1816.0
+2016,8,Europe,2780.0
+2016,9,Europe,1182.0
+2016,10,Europe,940.0
+2016,11,Europe,876.0
+2016,12,Europe,713.0
+2017,1,Europe,901.0
+2017,2,Europe,1044.0
+2017,3,Europe,1369.0
+2017,4,Europe,1057.0
+2017,5,Europe,802.0
+2017,6,Europe,930.0
+2017,7,Europe,1954.0
+2017,8,Europe,2705.0
+2017,9,Europe,983.0
+2017,10,Europe,953.0
+2017,11,Europe,866.0
+2017,12,Europe,990.0
+2018,1,Europe,940.0
+2018,2,Europe,1162.0
+2018,3,Europe,1378.0
+2018,4,Europe,909.0
+2018,5,Europe,854.0
+2018,6,Europe,867.0
+2018,7,Europe,1984.0
+2018,8,Europe,2809.0
+2018,9,Europe,1097.0
+2018,10,Europe,818.0
+2018,11,Europe,1116.0
+2018,12,Europe,718.0
+2019,1,Europe,752.0
+2019,2,Europe,989.0
+2019,3,Europe,991.0
+2019,4,Europe,1032.0
+2019,5,Europe,813.0
+2019,6,Europe,845.0
+2019,7,Europe,1873.0
+2019,8,Europe,3169.0
+2019,9,Europe,1496.0
+2019,10,Europe,998.0
+2019,11,Europe,790.0
+2019,12,Europe,874.0
+2020,1,Europe,1006.0
+2020,2,Europe,700.0
+2020,3,Europe,295.0
+2020,4,Europe,3.0
+2020,5,Europe,11.0
+2020,6,Europe,22.0
+2020,7,Europe,5.0
+2020,8,Europe,3.0
+2020,9,Europe,9.0
+2020,10,Europe,4.0
+2020,11,Europe,2.0
+2020,12,Europe,5.0
+2001,1,Philippines,3358.0
+2001,2,Philippines,3260.0
+2001,3,Philippines,3207.0
+2001,4,Philippines,3340.0
+2001,5,Philippines,3636.0
+2001,6,Philippines,3539.0
+2001,7,Philippines,4102.0
+2001,8,Philippines,4253.0
+2001,9,Philippines,4744.0
+2001,10,Philippines,5039.0
+2001,11,Philippines,4319.0
+2001,12,Philippines,6131.0
+2002,1,Philippines,4420.0
+2002,2,Philippines,5114.0
+2002,3,Philippines,4681.0
+2002,4,Philippines,4459.0
+2002,5,Philippines,4853.0
+2002,6,Philippines,4459.0
+2002,7,Philippines,4550.0
+2002,8,Philippines,5231.0
+2002,9,Philippines,4970.0
+2002,10,Philippines,5324.0
+2002,11,Philippines,5287.0
+2002,12,Philippines,6708.0
+2003,1,Philippines,5694.0
+2003,2,Philippines,2598.0
+2003,3,Philippines,2238.0
+2003,4,Philippines,1410.0
+2003,5,Philippines,5830.0
+2003,6,Philippines,6359.0
+2003,7,Philippines,7229.0
+2003,8,Philippines,8375.0
+2003,9,Philippines,5343.0
+2003,10,Philippines,10065.0
+2003,11,Philippines,6653.0
+2003,12,Philippines,7194.0
+2004,1,Philippines,10791.0
+2004,2,Philippines,10400.0
+2004,3,Philippines,10860.0
+2004,4,Philippines,10582.0
+2004,5,Philippines,4585.0
+2004,6,Philippines,5336.0
+2004,7,Philippines,10987.0
+2004,8,Philippines,10261.0
+2004,9,Philippines,7488.0
+2004,10,Philippines,8103.0
+2004,11,Philippines,8572.0
+2004,12,Philippines,6159.0
+2005,1,Philippines,8661.0
+2005,2,Philippines,8668.0
+2005,3,Philippines,9423.0
+2005,4,Philippines,8852.0
+2005,5,Philippines,9454.0
+2005,6,Philippines,8651.0
+2005,7,Philippines,8327.0
+2005,8,Philippines,7825.0
+2005,9,Philippines,8409.0
+2005,10,Philippines,8059.0
+2005,11,Philippines,2382.0
+2005,12,Philippines,8577.0
+2006,1,Philippines,9137.0
+2006,2,Philippines,7327.0
+2006,3,Philippines,7325.0
+2006,4,Philippines,6922.0
+2006,5,Philippines,2892.0
+2006,6,Philippines,5884.0
+2006,7,Philippines,6526.0
+2006,8,Philippines,5992.0
+2006,9,Philippines,6083.0
+2006,10,Philippines,6466.0
+2006,11,Philippines,6421.0
+2006,12,Philippines,3638.0
+2007,1,Philippines,6240.0
+2007,2,Philippines,6967.0
+2007,3,Philippines,6632.0
+2007,4,Philippines,6375.0
+2007,5,Philippines,9408.0
+2007,6,Philippines,6666.0
+2007,7,Philippines,7245.0
+2007,8,Philippines,7534.0
+2007,9,Philippines,7326.0
+2007,10,Philippines,7796.0
+2007,11,Philippines,7885.0
+2007,12,Philippines,9566.0
+2008,1,Philippines,9421.0
+2008,2,Philippines,8153.0
+2008,3,Philippines,6903.0
+2008,4,Philippines,7081.0
+2008,5,Philippines,7881.0
+2008,6,Philippines,7808.0
+2008,7,Philippines,8048.0
+2008,8,Philippines,7401.0
+2008,9,Philippines,7488.0
+2008,10,Philippines,8599.0
+2008,11,Philippines,8460.0
+2008,12,Philippines,10576.0
+2009,1,Philippines,8879.0
+2009,2,Philippines,7600.0
+2009,3,Philippines,8451.0
+2009,4,Philippines,9416.0
+2009,5,Philippines,9552.0
+2009,6,Philippines,9624.0
+2009,7,Philippines,8425.0
+2009,8,Philippines,9764.0
+2009,9,Philippines,8856.0
+2009,10,Philippines,8257.0
+2009,11,Philippines,8836.0
+2009,12,Philippines,8577.0
+2010,1,Philippines,7345.0
+2010,2,Philippines,6614.0
+2010,3,Philippines,6784.0
+2010,4,Philippines,5528.0
+2010,5,Philippines,5433.0
+2010,6,Philippines,5236.0
+2010,7,Philippines,4730.0
+2010,8,Philippines,5346.0
+2010,9,Philippines,5311.0
+2010,10,Philippines,5500.0
+2010,11,Philippines,5339.0
+2010,12,Philippines,7604.0
+2011,1,Philippines,6648.0
+2011,2,Philippines,6288.0
+2011,3,Philippines,6600.0
+2011,4,Philippines,6448.0
+2011,5,Philippines,6750.0
+2011,6,Philippines,5307.0
+2011,7,Philippines,6296.0
+2011,8,Philippines,5661.0
+2011,9,Philippines,5747.0
+2011,10,Philippines,5328.0
+2011,11,Philippines,7607.0
+2011,12,Philippines,8972.0
+2012,1,Philippines,8805.0
+2012,2,Philippines,8251.0
+2012,3,Philippines,9238.0
+2012,4,Philippines,9726.0
+2012,5,Philippines,9141.0
+2012,6,Philippines,8774.0
+2012,7,Philippines,9193.0
+2012,8,Philippines,9387.0
+2012,9,Philippines,10264.0
+2012,10,Philippines,9992.0
+2012,11,Philippines,9568.0
+2012,12,Philippines,10835.0
+2013,1,Philippines,10335.0
+2013,2,Philippines,10031.0
+2013,3,Philippines,9221.0
+2013,4,Philippines,10424.0
+2013,5,Philippines,9506.0
+2013,6,Philippines,9000.0
+2013,7,Philippines,8930.0
+2013,8,Philippines,9999.0
+2013,9,Philippines,11130.0
+2013,10,Philippines,10108.0
+2013,11,Philippines,9811.0
+2013,12,Philippines,11075.0
+2014,1,Philippines,11028.0
+2014,2,Philippines,10244.0
+2014,3,Philippines,10183.0
+2014,4,Philippines,11047.0
+2014,5,Philippines,11636.0
+2014,6,Philippines,10784.0
+2014,7,Philippines,11795.0
+2014,8,Philippines,11731.0
+2014,9,Philippines,10835.0
+2014,10,Philippines,13001.0
+2014,11,Philippines,11314.0
+2014,12,Philippines,12263.0
+2015,1,Philippines,11383.0
+2015,2,Philippines,11458.0
+2015,3,Philippines,11461.0
+2015,4,Philippines,12327.0
+2015,5,Philippines,10253.0
+2015,6,Philippines,8046.0
+2015,7,Philippines,8693.0
+2015,8,Philippines,8233.0
+2015,9,Philippines,7689.0
+2015,10,Philippines,7598.0
+2015,11,Philippines,6474.0
+2015,12,Philippines,8001.0
+2016,1,Philippines,6098.0
+2016,2,Philippines,6712.0
+2016,3,Philippines,6970.0
+2016,4,Philippines,6563.0
+2016,5,Philippines,6092.0
+2016,6,Philippines,5291.0
+2016,7,Philippines,6388.0
+2016,8,Philippines,5750.0
+2016,9,Philippines,5502.0
+2016,10,Philippines,5742.0
+2016,11,Philippines,5232.0
+2016,12,Philippines,7317.0
+2017,1,Philippines,6226.0
+2017,2,Philippines,6174.0
+2017,3,Philippines,5716.0
+2017,4,Philippines,5515.0
+2017,5,Philippines,5870.0
+2017,6,Philippines,6100.0
+2017,7,Philippines,5921.0
+2017,8,Philippines,5172.0
+2017,9,Philippines,5780.0
+2017,10,Philippines,5266.0
+2017,11,Philippines,5090.0
+2017,12,Philippines,5550.0
+2018,1,Philippines,4142.0
+2018,2,Philippines,4743.0
+2018,3,Philippines,5168.0
+2018,4,Philippines,5025.0
+2018,5,Philippines,4989.0
+2018,6,Philippines,5341.0
+2018,7,Philippines,4564.0
+2018,8,Philippines,5032.0
+2018,9,Philippines,4684.0
+2018,10,Philippines,4340.0
+2018,11,Philippines,4999.0
+2018,12,Philippines,4904.0
+2019,1,Philippines,3905.0
+2019,2,Philippines,5245.0
+2019,3,Philippines,5269.0
+2019,4,Philippines,4652.0
+2019,5,Philippines,5358.0
+2019,6,Philippines,5674.0
+2019,7,Philippines,5535.0
+2019,8,Philippines,5490.0
+2019,9,Philippines,5751.0
+2019,10,Philippines,4922.0
+2019,11,Philippines,5501.0
+2019,12,Philippines,5936.0
+2020,1,Philippines,5485.0
+2020,2,Philippines,3494.0
+2020,3,Philippines,1787.0
+2020,4,Philippines,372.0
+2020,5,Philippines,252.0
+2020,6,Philippines,409.0
+2020,7,Philippines,563.0
+2020,8,Philippines,467.0
+2020,9,Philippines,400.0
+2020,10,Philippines,428.0
+2020,11,Philippines,146.0
+2020,12,Philippines,269.0
+2001,1,Thailand,608.0
+2001,2,Thailand,634.0
+2001,3,Thailand,608.0
+2001,4,Thailand,719.0
+2001,5,Thailand,693.0
+2001,6,Thailand,753.0
+2001,7,Thailand,915.0
+2001,8,Thailand,892.0
+2001,9,Thailand,996.0
+2001,10,Thailand,947.0
+2001,11,Thailand,1053.0
+2001,12,Thailand,1035.0
+2002,1,Thailand,918.0
+2002,2,Thailand,913.0
+2002,3,Thailand,976.0
+2002,4,Thailand,1024.0
+2002,5,Thailand,957.0
+2002,6,Thailand,932.0
+2002,7,Thailand,953.0
+2002,8,Thailand,1116.0
+2002,9,Thailand,1159.0
+2002,10,Thailand,1133.0
+2002,11,Thailand,1189.0
+2002,12,Thailand,1184.0
+2003,1,Thailand,917.0
+2003,2,Thailand,229.0
+2003,3,Thailand,358.0
+2003,4,Thailand,203.0
+2003,5,Thailand,997.0
+2003,6,Thailand,1191.0
+2003,7,Thailand,1223.0
+2003,8,Thailand,1105.0
+2003,9,Thailand,1323.0
+2003,10,Thailand,1193.0
+2003,11,Thailand,1199.0
+2003,12,Thailand,1225.0
+2004,1,Thailand,1617.0
+2004,2,Thailand,1563.0
+2004,3,Thailand,1585.0
+2004,4,Thailand,1536.0
+2004,5,Thailand,7024.0
+2004,6,Thailand,1148.0
+2004,7,Thailand,1597.0
+2004,8,Thailand,1462.0
+2004,9,Thailand,1371.0
+2004,10,Thailand,1473.0
+2004,11,Thailand,1361.0
+2004,12,Thailand,1393.0
+2005,1,Thailand,1653.0
+2005,2,Thailand,1676.0
+2005,3,Thailand,1742.0
+2005,4,Thailand,1762.0
+2005,5,Thailand,1650.0
+2005,6,Thailand,1603.0
+2005,7,Thailand,1361.0
+2005,8,Thailand,1406.0
+2005,9,Thailand,1561.0
+2005,10,Thailand,1439.0
+2005,11,Thailand,371.0
+2005,12,Thailand,1207.0
+2006,1,Thailand,1544.0
+2006,2,Thailand,1390.0
+2006,3,Thailand,1283.0
+2006,4,Thailand,1093.0
+2006,5,Thailand,447.0
+2006,6,Thailand,1109.0
+2006,7,Thailand,938.0
+2006,8,Thailand,1183.0
+2006,9,Thailand,1327.0
+2006,10,Thailand,1484.0
+2006,11,Thailand,1498.0
+2006,12,Thailand,492.0
+2007,1,Thailand,1172.0
+2007,2,Thailand,1627.0
+2007,3,Thailand,1434.0
+2007,4,Thailand,1353.0
+2007,5,Thailand,2023.0
+2007,6,Thailand,1353.0
+2007,7,Thailand,1628.0
+2007,8,Thailand,1597.0
+2007,9,Thailand,1622.0
+2007,10,Thailand,1825.0
+2007,11,Thailand,2303.0
+2007,12,Thailand,2007.0
+2008,1,Thailand,2007.0
+2008,2,Thailand,1747.0
+2008,3,Thailand,1603.0
+2008,4,Thailand,1884.0
+2008,5,Thailand,1729.0
+2008,6,Thailand,1967.0
+2008,7,Thailand,1943.0
+2008,8,Thailand,1838.0
+2008,9,Thailand,1507.0
+2008,10,Thailand,1658.0
+2008,11,Thailand,1796.0
+2008,12,Thailand,1728.0
+2009,1,Thailand,1807.0
+2009,2,Thailand,1453.0
+2009,3,Thailand,1656.0
+2009,4,Thailand,1908.0
+2009,5,Thailand,1581.0
+2009,6,Thailand,1671.0
+2009,7,Thailand,1363.0
+2009,8,Thailand,1547.0
+2009,9,Thailand,1522.0
+2009,10,Thailand,1733.0
+2009,11,Thailand,1659.0
+2009,12,Thailand,1428.0
+2010,1,Thailand,1364.0
+2010,2,Thailand,1192.0
+2010,3,Thailand,1122.0
+2010,4,Thailand,954.0
+2010,5,Thailand,1135.0
+2010,6,Thailand,1002.0
+2010,7,Thailand,1037.0
+2010,8,Thailand,872.0
+2010,9,Thailand,1247.0
+2010,10,Thailand,1428.0
+2010,11,Thailand,1268.0
+2010,12,Thailand,2872.0
+2011,1,Thailand,1526.0
+2011,2,Thailand,1289.0
+2011,3,Thailand,1070.0
+2011,4,Thailand,1216.0
+2011,5,Thailand,1481.0
+2011,6,Thailand,1060.0
+2011,7,Thailand,1197.0
+2011,8,Thailand,1079.0
+2011,9,Thailand,1013.0
+2011,10,Thailand,1014.0
+2011,11,Thailand,2933.0
+2011,12,Thailand,3252.0
+2012,1,Thailand,2961.0
+2012,2,Thailand,2614.0
+2012,3,Thailand,3069.0
+2012,4,Thailand,3086.0
+2012,5,Thailand,2383.0
+2012,6,Thailand,2490.0
+2012,7,Thailand,2394.0
+2012,8,Thailand,2505.0
+2012,9,Thailand,2958.0
+2012,10,Thailand,2839.0
+2012,11,Thailand,2409.0
+2012,12,Thailand,2613.0
+2013,1,Thailand,2806.0
+2013,2,Thailand,3100.0
+2013,3,Thailand,3201.0
+2013,4,Thailand,2950.0
+2013,5,Thailand,2462.0
+2013,6,Thailand,2362.0
+2013,7,Thailand,2265.0
+2013,8,Thailand,2224.0
+2013,9,Thailand,2862.0
+2013,10,Thailand,2516.0
+2013,11,Thailand,2366.0
+2013,12,Thailand,2342.0
+2014,1,Thailand,3143.0
+2014,2,Thailand,2611.0
+2014,3,Thailand,2827.0
+2014,4,Thailand,2873.0
+2014,5,Thailand,2517.0
+2014,6,Thailand,2350.0
+2014,7,Thailand,2313.0
+2014,8,Thailand,2649.0
+2014,9,Thailand,2952.0
+2014,10,Thailand,2835.0
+2014,11,Thailand,2436.0
+2014,12,Thailand,2449.0
+2015,1,Thailand,2934.0
+2015,2,Thailand,2829.0
+2015,3,Thailand,3283.0
+2015,4,Thailand,3097.0
+2015,5,Thailand,2573.0
+2015,6,Thailand,2348.0
+2015,7,Thailand,2402.0
+2015,8,Thailand,2422.0
+2015,9,Thailand,2276.0
+2015,10,Thailand,2324.0
+2015,11,Thailand,1286.0
+2015,12,Thailand,1714.0
+2016,1,Thailand,1138.0
+2016,2,Thailand,1196.0
+2016,3,Thailand,1777.0
+2016,4,Thailand,1269.0
+2016,5,Thailand,1196.0
+2016,6,Thailand,1288.0
+2016,7,Thailand,1337.0
+2016,8,Thailand,1308.0
+2016,9,Thailand,1198.0
+2016,10,Thailand,1283.0
+2016,11,Thailand,1214.0
+2016,12,Thailand,1405.0
+2017,1,Thailand,1381.0
+2017,2,Thailand,1227.0
+2017,3,Thailand,1325.0
+2017,4,Thailand,1274.0
+2017,5,Thailand,1368.0
+2017,6,Thailand,1284.0
+2017,7,Thailand,1550.0
+2017,8,Thailand,1406.0
+2017,9,Thailand,1358.0
+2017,10,Thailand,1474.0
+2017,11,Thailand,1271.0
+2017,12,Thailand,1050.0
+2018,1,Thailand,1013.0
+2018,2,Thailand,998.0
+2018,3,Thailand,1083.0
+2018,4,Thailand,1035.0
+2018,5,Thailand,1075.0
+2018,6,Thailand,1028.0
+2018,7,Thailand,1173.0
+2018,8,Thailand,1031.0
+2018,9,Thailand,1071.0
+2018,10,Thailand,1032.0
+2018,11,Thailand,1101.0
+2018,12,Thailand,965.0
+2019,1,Thailand,835.0
+2019,2,Thailand,1136.0
+2019,3,Thailand,1027.0
+2019,4,Thailand,1040.0
+2019,5,Thailand,912.0
+2019,6,Thailand,1128.0
+2019,7,Thailand,1249.0
+2019,8,Thailand,1067.0
+2019,9,Thailand,1155.0
+2019,10,Thailand,1073.0
+2019,11,Thailand,1193.0
+2019,12,Thailand,913.0
+2020,1,Thailand,1024.0
+2020,2,Thailand,925.0
+2020,3,Thailand,540.0
+2020,4,Thailand,146.0
+2020,5,Thailand,164.0
+2020,6,Thailand,169.0
+2020,7,Thailand,183.0
+2020,8,Thailand,166.0
+2020,9,Thailand,115.0
+2020,10,Thailand,122.0
+2020,11,Thailand,27.0
+2020,12,Thailand,51.0
+2001,1,Taiwan,1012.0
+2001,2,Taiwan,755.0
+2001,3,Taiwan,903.0
+2001,4,Taiwan,757.0
+2001,5,Taiwan,815.0
+2001,6,Taiwan,788.0
+2001,7,Taiwan,1282.0
+2001,8,Taiwan,1308.0
+2001,9,Taiwan,691.0
+2001,10,Taiwan,557.0
+2001,11,Taiwan,668.0
+2001,12,Taiwan,711.0
+2002,1,Taiwan,879.0
+2002,2,Taiwan,992.0
+2002,3,Taiwan,957.0
+2002,4,Taiwan,726.0
+2002,5,Taiwan,776.0
+2002,6,Taiwan,685.0
+2002,7,Taiwan,1228.0
+2002,8,Taiwan,1120.0
+2002,9,Taiwan,819.0
+2002,10,Taiwan,628.0
+2002,11,Taiwan,719.0
+2002,12,Taiwan,660.0
+2003,1,Taiwan,373.0
+2003,2,Taiwan,464.0
+2003,3,Taiwan,551.0
+2003,4,Taiwan,241.0
+2003,5,Taiwan,222.0
+2003,6,Taiwan,449.0
+2003,7,Taiwan,545.0
+2003,8,Taiwan,782.0
+2003,9,Taiwan,664.0
+2003,10,Taiwan,779.0
+2003,11,Taiwan,700.0
+2003,12,Taiwan,701.0
+2004,1,Taiwan,628.0
+2004,2,Taiwan,840.0
+2004,3,Taiwan,424.0
+2004,4,Taiwan,645.0
+2004,5,Taiwan,381.0
+2004,6,Taiwan,888.0
+2004,7,Taiwan,885.0
+2004,8,Taiwan,1019.0
+2004,9,Taiwan,774.0
+2004,10,Taiwan,647.0
+2004,11,Taiwan,691.0
+2004,12,Taiwan,553.0
+2005,1,Taiwan,670.0
+2005,2,Taiwan,671.0
+2005,3,Taiwan,505.0
+2005,4,Taiwan,516.0
+2005,5,Taiwan,620.0
+2005,6,Taiwan,586.0
+2005,7,Taiwan,727.0
+2005,8,Taiwan,721.0
+2005,9,Taiwan,668.0
+2005,10,Taiwan,607.0
+2005,11,Taiwan,468.0
+2005,12,Taiwan,1207.0
+2006,1,Taiwan,724.0
+2006,2,Taiwan,660.0
+2006,3,Taiwan,617.0
+2006,4,Taiwan,514.0
+2006,5,Taiwan,484.0
+2006,6,Taiwan,715.0
+2006,7,Taiwan,997.0
+2006,8,Taiwan,786.0
+2006,9,Taiwan,411.0
+2006,10,Taiwan,452.0
+2006,11,Taiwan,549.0
+2006,12,Taiwan,472.0
+2007,1,Taiwan,413.0
+2007,2,Taiwan,583.0
+2007,3,Taiwan,424.0
+2007,4,Taiwan,387.0
+2007,5,Taiwan,422.0
+2007,6,Taiwan,385.0
+2007,7,Taiwan,701.0
+2007,8,Taiwan,726.0
+2007,9,Taiwan,555.0
+2007,10,Taiwan,474.0
+2007,11,Taiwan,1313.0
+2007,12,Taiwan,710.0
+2008,1,Taiwan,770.0
+2008,2,Taiwan,433.0
+2008,3,Taiwan,546.0
+2008,4,Taiwan,429.0
+2008,5,Taiwan,403.0
+2008,6,Taiwan,526.0
+2008,7,Taiwan,878.0
+2008,8,Taiwan,1074.0
+2008,9,Taiwan,703.0
+2008,10,Taiwan,755.0
+2008,11,Taiwan,609.0
+2008,12,Taiwan,594.0
+2009,1,Taiwan,656.0
+2009,2,Taiwan,526.0
+2009,3,Taiwan,619.0
+2009,4,Taiwan,544.0
+2009,5,Taiwan,779.0
+2009,6,Taiwan,619.0
+2009,7,Taiwan,628.0
+2009,8,Taiwan,794.0
+2009,9,Taiwan,736.0
+2009,10,Taiwan,755.0
+2009,11,Taiwan,629.0
+2009,12,Taiwan,701.0
+2010,1,Taiwan,596.0
+2010,2,Taiwan,924.0
+2010,3,Taiwan,464.0
+2010,4,Taiwan,317.0
+2010,5,Taiwan,483.0
+2010,6,Taiwan,610.0
+2010,7,Taiwan,664.0
+2010,8,Taiwan,646.0
+2010,9,Taiwan,398.0
+2010,10,Taiwan,467.0
+2010,11,Taiwan,562.0
+2010,12,Taiwan,647.0
+2011,1,Taiwan,644.0
+2011,2,Taiwan,513.0
+2011,3,Taiwan,441.0
+2011,4,Taiwan,589.0
+2011,5,Taiwan,767.0
+2011,6,Taiwan,653.0
+2011,7,Taiwan,1040.0
+2011,8,Taiwan,965.0
+2011,9,Taiwan,1010.0
+2011,10,Taiwan,691.0
+2011,11,Taiwan,661.0
+2011,12,Taiwan,769.0
+2012,1,Taiwan,761.0
+2012,2,Taiwan,613.0
+2012,3,Taiwan,721.0
+2012,4,Taiwan,889.0
+2012,5,Taiwan,590.0
+2012,6,Taiwan,581.0
+2012,7,Taiwan,884.0
+2012,8,Taiwan,768.0
+2012,9,Taiwan,987.0
+2012,10,Taiwan,801.0
+2012,11,Taiwan,638.0
+2012,12,Taiwan,677.0
+2013,1,Taiwan,703.0
+2013,2,Taiwan,989.0
+2013,3,Taiwan,885.0
+2013,4,Taiwan,636.0
+2013,5,Taiwan,601.0
+2013,6,Taiwan,598.0
+2013,7,Taiwan,615.0
+2013,8,Taiwan,753.0
+2013,9,Taiwan,623.0
+2013,10,Taiwan,506.0
+2013,11,Taiwan,647.0
+2013,12,Taiwan,614.0
+2014,1,Taiwan,664.0
+2014,2,Taiwan,709.0
+2014,3,Taiwan,618.0
+2014,4,Taiwan,554.0
+2014,5,Taiwan,497.0
+2014,6,Taiwan,750.0
+2014,7,Taiwan,1035.0
+2014,8,Taiwan,961.0
+2014,9,Taiwan,654.0
+2014,10,Taiwan,893.0
+2014,11,Taiwan,615.0
+2014,12,Taiwan,483.0
+2015,1,Taiwan,455.0
+2015,2,Taiwan,627.0
+2015,3,Taiwan,511.0
+2015,4,Taiwan,498.0
+2015,5,Taiwan,529.0
+2015,6,Taiwan,646.0
+2015,7,Taiwan,789.0
+2015,8,Taiwan,717.0
+2015,9,Taiwan,669.0
+2015,10,Taiwan,552.0
+2015,11,Taiwan,788.0
+2015,12,Taiwan,648.0
+2016,1,Taiwan,658.0
+2016,2,Taiwan,918.0
+2016,3,Taiwan,719.0
+2016,4,Taiwan,513.0
+2016,5,Taiwan,502.0
+2016,6,Taiwan,673.0
+2016,7,Taiwan,1158.0
+2016,8,Taiwan,943.0
+2016,9,Taiwan,831.0
+2016,10,Taiwan,691.0
+2016,11,Taiwan,855.0
+2016,12,Taiwan,714.0
+2017,1,Taiwan,1086.0
+2017,2,Taiwan,675.0
+2017,3,Taiwan,1106.0
+2017,4,Taiwan,690.0
+2017,5,Taiwan,834.0
+2017,6,Taiwan,814.0
+2017,7,Taiwan,1618.0
+2017,8,Taiwan,1222.0
+2017,9,Taiwan,853.0
+2017,10,Taiwan,1005.0
+2017,11,Taiwan,696.0
+2017,12,Taiwan,622.0
+2018,1,Taiwan,736.0
+2018,2,Taiwan,859.0
+2018,3,Taiwan,860.0
+2018,4,Taiwan,805.0
+2018,5,Taiwan,597.0
+2018,6,Taiwan,642.0
+2018,7,Taiwan,1245.0
+2018,8,Taiwan,882.0
+2018,9,Taiwan,622.0
+2018,10,Taiwan,654.0
+2018,11,Taiwan,738.0
+2018,12,Taiwan,631.0
+2019,1,Taiwan,749.0
+2019,2,Taiwan,751.0
+2019,3,Taiwan,698.0
+2019,4,Taiwan,659.0
+2019,5,Taiwan,637.0
+2019,6,Taiwan,798.0
+2019,7,Taiwan,1259.0
+2019,8,Taiwan,1252.0
+2019,9,Taiwan,808.0
+2019,10,Taiwan,685.0
+2019,11,Taiwan,880.0
+2019,12,Taiwan,828.0
+2020,1,Taiwan,1055.0
+2020,2,Taiwan,685.0
+2020,3,Taiwan,98.0
+2020,4,Taiwan,14.0
+2020,5,Taiwan,14.0
+2020,6,Taiwan,1.0
+2020,7,Taiwan,9.0
+2020,8,Taiwan,20.0
+2020,9,Taiwan,42.0
+2020,10,Taiwan,4.0
+2020,11,Taiwan,15.0
+2020,12,Taiwan,3.0
+2001,1,Indonesia,30681.0
+2001,2,Indonesia,25436.0
+2001,3,Indonesia,24325.0
+2001,4,Indonesia,25462.0
+2001,5,Indonesia,25749.0
+2001,6,Indonesia,25060.0
+2001,7,Indonesia,26771.0
+2001,8,Indonesia,25308.0
+2001,9,Indonesia,22776.0
+2001,10,Indonesia,22693.0
+2001,11,Indonesia,21949.0
+2001,12,Indonesia,24156.0
+2002,1,Indonesia,26074.0
+2002,2,Indonesia,21975.0
+2002,3,Indonesia,25078.0
+2002,4,Indonesia,26166.0
+2002,5,Indonesia,24736.0
+2002,6,Indonesia,24130.0
+2002,7,Indonesia,25794.0
+2002,8,Indonesia,26169.0
+2002,9,Indonesia,26252.0
+2002,10,Indonesia,25434.0
+2002,11,Indonesia,25515.0
+2002,12,Indonesia,42419.0
+2003,1,Indonesia,27200.0
+2003,2,Indonesia,24518.0
+2003,3,Indonesia,28647.0
+2003,4,Indonesia,20601.0
+2003,5,Indonesia,28648.0
+2003,6,Indonesia,29103.0
+2003,7,Indonesia,33803.0
+2003,8,Indonesia,32038.0
+2003,9,Indonesia,30784.0
+2003,10,Indonesia,32677.0
+2003,11,Indonesia,43003.0
+2003,12,Indonesia,30752.0
+2004,1,Indonesia,37805.0
+2004,2,Indonesia,34899.0
+2004,3,Indonesia,33348.0
+2004,4,Indonesia,33212.0
+2004,5,Indonesia,18872.0
+2004,6,Indonesia,28907.0
+2004,7,Indonesia,38103.0
+2004,8,Indonesia,34706.0
+2004,9,Indonesia,31367.0
+2004,10,Indonesia,45536.0
+2004,11,Indonesia,26903.0
+2004,12,Indonesia,37894.0
+2005,1,Indonesia,35043.0
+2005,2,Indonesia,34386.0
+2005,3,Indonesia,17432.0
+2005,4,Indonesia,36056.0
+2005,5,Indonesia,38011.0
+2005,6,Indonesia,34293.0
+2005,7,Indonesia,36710.0
+2005,8,Indonesia,33257.0
+2005,9,Indonesia,41878.0
+2005,10,Indonesia,46707.0
+2005,11,Indonesia,30623.0
+2005,12,Indonesia,44174.0
+2006,1,Indonesia,40683.0
+2006,2,Indonesia,28723.0
+2006,3,Indonesia,31214.0
+2006,4,Indonesia,35394.0
+2006,5,Indonesia,36630.0
+2006,6,Indonesia,32838.0
+2006,7,Indonesia,37364.0
+2006,8,Indonesia,34073.0
+2006,9,Indonesia,35295.0
+2006,10,Indonesia,29406.0
+2006,11,Indonesia,29333.0
+2006,12,Indonesia,36470.0
+2007,1,Indonesia,35808.0
+2007,2,Indonesia,34399.0
+2007,3,Indonesia,32394.0
+2007,4,Indonesia,26329.0
+2007,5,Indonesia,38911.0
+2007,6,Indonesia,35201.0
+2007,7,Indonesia,38631.0
+2007,8,Indonesia,29001.0
+2007,9,Indonesia,28354.0
+2007,10,Indonesia,42923.0
+2007,11,Indonesia,32017.0
+2007,12,Indonesia,36831.0
+2008,1,Indonesia,39396.0
+2008,2,Indonesia,39354.0
+2008,3,Indonesia,26392.0
+2008,4,Indonesia,38158.0
+2008,5,Indonesia,29683.0
+2008,6,Indonesia,33734.0
+2008,7,Indonesia,42009.0
+2008,8,Indonesia,40904.0
+2008,9,Indonesia,37093.0
+2008,10,Indonesia,37007.0
+2008,11,Indonesia,38031.0
+2008,12,Indonesia,41395.0
+2009,1,Indonesia,30453.0
+2009,2,Indonesia,31762.0
+2009,3,Indonesia,46549.0
+2009,4,Indonesia,43046.0
+2009,5,Indonesia,47535.0
+2009,6,Indonesia,42391.0
+2009,7,Indonesia,45563.0
+2009,8,Indonesia,38790.0
+2009,9,Indonesia,40108.0
+2009,10,Indonesia,42842.0
+2009,11,Indonesia,38511.0
+2009,12,Indonesia,51454.0
+2010,1,Indonesia,43032.0
+2010,2,Indonesia,28308.0
+2010,3,Indonesia,21156.0
+2010,4,Indonesia,29586.0
+2010,5,Indonesia,31320.0
+2010,6,Indonesia,33199.0
+2010,7,Indonesia,33971.0
+2010,8,Indonesia,36789.0
+2010,9,Indonesia,38344.0
+2010,10,Indonesia,29943.0
+2010,11,Indonesia,28289.0
+2010,12,Indonesia,29773.0
+2011,1,Indonesia,35507.0
+2011,2,Indonesia,37437.0
+2011,3,Indonesia,41388.0
+2011,4,Indonesia,38862.0
+2011,5,Indonesia,27338.0
+2011,6,Indonesia,35722.0
+2011,7,Indonesia,37136.0
+2011,8,Indonesia,27535.0
+2011,9,Indonesia,30748.0
+2011,10,Indonesia,31420.0
+2011,11,Indonesia,33747.0
+2011,12,Indonesia,38427.0
+2012,1,Indonesia,33052.0
+2012,2,Indonesia,31888.0
+2012,3,Indonesia,34664.0
+2012,4,Indonesia,32286.0
+2012,5,Indonesia,30326.0
+2012,6,Indonesia,31445.0
+2012,7,Indonesia,32366.0
+2012,8,Indonesia,35223.0
+2012,9,Indonesia,37161.0
+2012,10,Indonesia,38568.0
+2012,11,Indonesia,37726.0
+2012,12,Indonesia,42367.0
+2013,1,Indonesia,40701.0
+2013,2,Indonesia,39660.0
+2013,3,Indonesia,39724.0
+2013,4,Indonesia,36080.0
+2013,5,Indonesia,32494.0
+2013,6,Indonesia,34163.0
+2013,7,Indonesia,35119.0
+2013,8,Indonesia,44244.0
+2013,9,Indonesia,38922.0
+2013,10,Indonesia,37590.0
+2013,11,Indonesia,40863.0
+2013,12,Indonesia,45101.0
+2014,1,Indonesia,42099.0
+2014,2,Indonesia,37250.0
+2014,3,Indonesia,40087.0
+2014,4,Indonesia,42870.0
+2014,5,Indonesia,45507.0
+2014,6,Indonesia,44289.0
+2014,7,Indonesia,41116.0
+2014,8,Indonesia,57945.0
+2014,9,Indonesia,49656.0
+2014,10,Indonesia,50780.0
+2014,11,Indonesia,48246.0
+2014,12,Indonesia,47313.0
+2015,1,Indonesia,42539.0
+2015,2,Indonesia,41433.0
+2015,3,Indonesia,50643.0
+2015,4,Indonesia,46801.0
+2015,5,Indonesia,37030.0
+2015,6,Indonesia,34253.0
+2015,7,Indonesia,36717.0
+2015,8,Indonesia,39376.0
+2015,9,Indonesia,35163.0
+2015,10,Indonesia,38332.0
+2015,11,Indonesia,35604.0
+2015,12,Indonesia,45280.0
+2016,1,Indonesia,43462.0
+2016,2,Indonesia,37137.0
+2016,3,Indonesia,37749.0
+2016,4,Indonesia,34256.0
+2016,5,Indonesia,38504.0
+2016,6,Indonesia,32824.0
+2016,7,Indonesia,48504.0
+2016,8,Indonesia,41863.0
+2016,9,Indonesia,40034.0
+2016,10,Indonesia,40647.0
+2016,11,Indonesia,38595.0
+2016,12,Indonesia,47006.0
+2017,1,Indonesia,44381.0
+2017,2,Indonesia,41578.0
+2017,3,Indonesia,40618.0
+2017,4,Indonesia,40550.0
+2017,5,Indonesia,37439.0
+2017,6,Indonesia,53647.0
+2017,7,Indonesia,56382.0
+2017,8,Indonesia,45737.0
+2017,9,Indonesia,39349.0
+2017,10,Indonesia,39633.0
+2017,11,Indonesia,33904.0
+2017,12,Indonesia,40224.0
+2018,1,Indonesia,35182.0
+2018,2,Indonesia,38014.0
+2018,3,Indonesia,33302.0
+2018,4,Indonesia,32308.0
+2018,5,Indonesia,31387.0
+2018,6,Indonesia,35993.0
+2018,7,Indonesia,36382.0
+2018,8,Indonesia,34647.0
+2018,9,Indonesia,35007.0
+2018,10,Indonesia,37176.0
+2018,11,Indonesia,29807.0
+2018,12,Indonesia,38569.0
+2019,1,Indonesia,35450.0
+2019,2,Indonesia,32178.0
+2019,3,Indonesia,26675.0
+2019,4,Indonesia,28410.0
+2019,5,Indonesia,29364.0
+2019,6,Indonesia,39906.0
+2019,7,Indonesia,43834.0
+2019,8,Indonesia,34595.0
+2019,9,Indonesia,32553.0
+2019,10,Indonesia,33381.0
+2019,11,Indonesia,31511.0
+2019,12,Indonesia,50604.0
+2020,1,Indonesia,49766.0
+2020,2,Indonesia,30856.0
+2020,3,Indonesia,16158.0
+2020,4,Indonesia,637.0
+2020,5,Indonesia,548.0
+2020,6,Indonesia,886.0
+2020,7,Indonesia,1329.0
+2020,8,Indonesia,1082.0
+2020,9,Indonesia,1158.0
+2020,10,Indonesia,942.0
+2020,11,Indonesia,546.0
+2020,12,Indonesia,472.0
+2001,1,Pakistan,
+2001,2,Pakistan,
+2001,3,Pakistan,
+2001,4,Pakistan,
+2001,5,Pakistan,
+2001,6,Pakistan,
+2001,7,Pakistan,
+2001,8,Pakistan,
+2001,9,Pakistan,
+2001,10,Pakistan,
+2001,11,Pakistan,
+2001,12,Pakistan,
+2002,1,Pakistan,
+2002,2,Pakistan,
+2002,3,Pakistan,
+2002,4,Pakistan,
+2002,5,Pakistan,
+2002,6,Pakistan,
+2002,7,Pakistan,
+2002,8,Pakistan,
+2002,9,Pakistan,
+2002,10,Pakistan,
+2002,11,Pakistan,
+2002,12,Pakistan,
+2003,1,Pakistan,
+2003,2,Pakistan,
+2003,3,Pakistan,
+2003,4,Pakistan,
+2003,5,Pakistan,
+2003,6,Pakistan,
+2003,7,Pakistan,
+2003,8,Pakistan,
+2003,9,Pakistan,
+2003,10,Pakistan,
+2003,11,Pakistan,
+2003,12,Pakistan,
+2004,1,Pakistan,
+2004,2,Pakistan,
+2004,3,Pakistan,
+2004,4,Pakistan,
+2004,5,Pakistan,
+2004,6,Pakistan,
+2004,7,Pakistan,
+2004,8,Pakistan,
+2004,9,Pakistan,
+2004,10,Pakistan,
+2004,11,Pakistan,
+2004,12,Pakistan,
+2005,1,Pakistan,
+2005,2,Pakistan,
+2005,3,Pakistan,
+2005,4,Pakistan,
+2005,5,Pakistan,
+2005,6,Pakistan,
+2005,7,Pakistan,
+2005,8,Pakistan,
+2005,9,Pakistan,
+2005,10,Pakistan,
+2005,11,Pakistan,
+2005,12,Pakistan,
+2006,1,Pakistan,
+2006,2,Pakistan,
+2006,3,Pakistan,
+2006,4,Pakistan,
+2006,5,Pakistan,
+2006,6,Pakistan,
+2006,7,Pakistan,
+2006,8,Pakistan,
+2006,9,Pakistan,
+2006,10,Pakistan,
+2006,11,Pakistan,
+2006,12,Pakistan,
+2007,1,Pakistan,242.0
+2007,2,Pakistan,246.0
+2007,3,Pakistan,295.0
+2007,4,Pakistan,253.0
+2007,5,Pakistan,272.0
+2007,6,Pakistan,286.0
+2007,7,Pakistan,333.0
+2007,8,Pakistan,295.0
+2007,9,Pakistan,256.0
+2007,10,Pakistan,303.0
+2007,11,Pakistan,394.0
+2007,12,Pakistan,314.0
+2008,1,Pakistan,437.0
+2008,2,Pakistan,273.0
+2008,3,Pakistan,238.0
+2008,4,Pakistan,274.0
+2008,5,Pakistan,328.0
+2008,6,Pakistan,264.0
+2008,7,Pakistan,402.0
+2008,8,Pakistan,318.0
+2008,9,Pakistan,217.0
+2008,10,Pakistan,393.0
+2008,11,Pakistan,307.0
+2008,12,Pakistan,369.0
+2009,1,Pakistan,320.0
+2009,2,Pakistan,376.0
+2009,3,Pakistan,349.0
+2009,4,Pakistan,405.0
+2009,5,Pakistan,336.0
+2009,6,Pakistan,432.0
+2009,7,Pakistan,363.0
+2009,8,Pakistan,394.0
+2009,9,Pakistan,316.0
+2009,10,Pakistan,359.0
+2009,11,Pakistan,342.0
+2009,12,Pakistan,352.0
+2010,1,Pakistan,423.0
+2010,2,Pakistan,231.0
+2010,3,Pakistan,384.0
+2010,4,Pakistan,229.0
+2010,5,Pakistan,263.0
+2010,6,Pakistan,319.0
+2010,7,Pakistan,307.0
+2010,8,Pakistan,396.0
+2010,9,Pakistan,317.0
+2010,10,Pakistan,333.0
+2010,11,Pakistan,319.0
+2010,12,Pakistan,311.0
+2011,1,Pakistan,435.0
+2011,2,Pakistan,319.0
+2011,3,Pakistan,304.0
+2011,4,Pakistan,297.0
+2011,5,Pakistan,268.0
+2011,6,Pakistan,333.0
+2011,7,Pakistan,395.0
+2011,8,Pakistan,277.0
+2011,9,Pakistan,321.0
+2011,10,Pakistan,263.0
+2011,11,Pakistan,266.0
+2011,12,Pakistan,320.0
+2012,1,Pakistan,269.0
+2012,2,Pakistan,365.0
+2012,3,Pakistan,369.0
+2012,4,Pakistan,358.0
+2012,5,Pakistan,343.0
+2012,6,Pakistan,471.0
+2012,7,Pakistan,340.0
+2012,8,Pakistan,424.0
+2012,9,Pakistan,450.0
+2012,10,Pakistan,377.0
+2012,11,Pakistan,305.0
+2012,12,Pakistan,360.0
+2013,1,Pakistan,1163.0
+2013,2,Pakistan,348.0
+2013,3,Pakistan,367.0
+2013,4,Pakistan,331.0
+2013,5,Pakistan,334.0
+2013,6,Pakistan,379.0
+2013,7,Pakistan,235.0
+2013,8,Pakistan,349.0
+2013,9,Pakistan,377.0
+2013,10,Pakistan,417.0
+2013,11,Pakistan,364.0
+2013,12,Pakistan,397.0
+2014,1,Pakistan,340.0
+2014,2,Pakistan,336.0
+2014,3,Pakistan,339.0
+2014,4,Pakistan,340.0
+2014,5,Pakistan,344.0
+2014,6,Pakistan,358.0
+2014,7,Pakistan,314.0
+2014,8,Pakistan,411.0
+2014,9,Pakistan,342.0
+2014,10,Pakistan,351.0
+2014,11,Pakistan,239.0
+2014,12,Pakistan,263.0
+2015,1,Pakistan,308.0
+2015,2,Pakistan,210.0
+2015,3,Pakistan,217.0
+2015,4,Pakistan,344.0
+2015,5,Pakistan,337.0
+2015,6,Pakistan,317.0
+2015,7,Pakistan,314.0
+2015,8,Pakistan,322.0
+2015,9,Pakistan,284.0
+2015,10,Pakistan,317.0
+2015,11,Pakistan,275.0
+2015,12,Pakistan,317.0
+2016,1,Pakistan,299.0
+2016,2,Pakistan,1772.0
+2016,3,Pakistan,317.0
+2016,4,Pakistan,323.0
+2016,5,Pakistan,240.0
+2016,6,Pakistan,233.0
+2016,7,Pakistan,390.0
+2016,8,Pakistan,351.0
+2016,9,Pakistan,317.0
+2016,10,Pakistan,334.0
+2016,11,Pakistan,348.0
+2016,12,Pakistan,434.0
+2017,1,Pakistan,397.0
+2017,2,Pakistan,415.0
+2017,3,Pakistan,434.0
+2017,4,Pakistan,380.0
+2017,5,Pakistan,302.0
+2017,6,Pakistan,289.0
+2017,7,Pakistan,369.0
+2017,8,Pakistan,378.0
+2017,9,Pakistan,415.0
+2017,10,Pakistan,294.0
+2017,11,Pakistan,265.0
+2017,12,Pakistan,284.0
+2018,1,Pakistan,361.0
+2018,2,Pakistan,309.0
+2018,3,Pakistan,292.0
+2018,4,Pakistan,279.0
+2018,5,Pakistan,203.0
+2018,6,Pakistan,272.0
+2018,7,Pakistan,280.0
+2018,8,Pakistan,319.0
+2018,9,Pakistan,240.0
+2018,10,Pakistan,225.0
+2018,11,Pakistan,237.0
+2018,12,Pakistan,332.0
+2019,1,Pakistan,268.0
+2019,2,Pakistan,344.0
+2019,3,Pakistan,277.0
+2019,4,Pakistan,289.0
+2019,5,Pakistan,176.0
+2019,6,Pakistan,287.0
+2019,7,Pakistan,336.0
+2019,8,Pakistan,300.0
+2019,9,Pakistan,290.0
+2019,10,Pakistan,209.0
+2019,11,Pakistan,231.0
+2019,12,Pakistan,421.0
+2020,1,Pakistan,368.0
+2020,2,Pakistan,384.0
+2020,3,Pakistan,170.0
+2020,4,Pakistan,5.0
+2020,5,Pakistan,1.0
+2020,6,Pakistan,3.0
+2020,7,Pakistan,17.0
+2020,8,Pakistan,8.0
+2020,9,Pakistan,26.0
+2020,10,Pakistan,7.0
+2020,11,Pakistan,8.0
+2020,12,Pakistan,4.0
+2001,1,Japan,830.0
+2001,2,Japan,1027.0
+2001,3,Japan,1170.0
+2001,4,Japan,797.0
+2001,5,Japan,973.0
+2001,6,Japan,1034.0
+2001,7,Japan,621.0
+2001,8,Japan,1062.0
+2001,9,Japan,908.0
+2001,10,Japan,642.0
+2001,11,Japan,725.0
+2001,12,Japan,754.0
+2002,1,Japan,591.0
+2002,2,Japan,871.0
+2002,3,Japan,1097.0
+2002,4,Japan,953.0
+2002,5,Japan,947.0
+2002,6,Japan,909.0
+2002,7,Japan,1051.0
+2002,8,Japan,1083.0
+2002,9,Japan,932.0
+2002,10,Japan,840.0
+2002,11,Japan,802.0
+2002,12,Japan,880.0
+2003,1,Japan,374.0
+2003,2,Japan,660.0
+2003,3,Japan,805.0
+2003,4,Japan,484.0
+2003,5,Japan,473.0
+2003,6,Japan,796.0
+2003,7,Japan,919.0
+2003,8,Japan,608.0
+2003,9,Japan,969.0
+2003,10,Japan,580.0
+2003,11,Japan,839.0
+2003,12,Japan,799.0
+2004,1,Japan,720.0
+2004,2,Japan,906.0
+2004,3,Japan,896.0
+2004,4,Japan,996.0
+2004,5,Japan,662.0
+2004,6,Japan,1136.0
+2004,7,Japan,943.0
+2004,8,Japan,1222.0
+2004,9,Japan,743.0
+2004,10,Japan,802.0
+2004,11,Japan,768.0
+2004,12,Japan,772.0
+2005,1,Japan,709.0
+2005,2,Japan,782.0
+2005,3,Japan,891.0
+2005,4,Japan,772.0
+2005,5,Japan,849.0
+2005,6,Japan,814.0
+2005,7,Japan,892.0
+2005,8,Japan,900.0
+2005,9,Japan,1007.0
+2005,10,Japan,803.0
+2005,11,Japan,555.0
+2005,12,Japan,779.0
+2006,1,Japan,1201.0
+2006,2,Japan,991.0
+2006,3,Japan,830.0
+2006,4,Japan,736.0
+2006,5,Japan,743.0
+2006,6,Japan,1425.0
+2006,7,Japan,956.0
+2006,8,Japan,955.0
+2006,9,Japan,737.0
+2006,10,Japan,805.0
+2006,11,Japan,818.0
+2006,12,Japan,809.0
+2007,1,Japan,566.0
+2007,2,Japan,729.0
+2007,3,Japan,838.0
+2007,4,Japan,564.0
+2007,5,Japan,630.0
+2007,6,Japan,591.0
+2007,7,Japan,751.0
+2007,8,Japan,943.0
+2007,9,Japan,840.0
+2007,10,Japan,716.0
+2007,11,Japan,1113.0
+2007,12,Japan,720.0
+2008,1,Japan,782.0
+2008,2,Japan,685.0
+2008,3,Japan,669.0
+2008,4,Japan,917.0
+2008,5,Japan,582.0
+2008,6,Japan,828.0
+2008,7,Japan,967.0
+2008,8,Japan,1067.0
+2008,9,Japan,811.0
+2008,10,Japan,881.0
+2008,11,Japan,845.0
+2008,12,Japan,840.0
+2009,1,Japan,614.0
+2009,2,Japan,719.0
+2009,3,Japan,901.0
+2009,4,Japan,756.0
+2009,5,Japan,765.0
+2009,6,Japan,776.0
+2009,7,Japan,733.0
+2009,8,Japan,943.0
+2009,9,Japan,854.0
+2009,10,Japan,936.0
+2009,11,Japan,946.0
+2009,12,Japan,820.0
+2010,1,Japan,872.0
+2010,2,Japan,700.0
+2010,3,Japan,598.0
+2010,4,Japan,432.0
+2010,5,Japan,647.0
+2010,6,Japan,974.0
+2010,7,Japan,997.0
+2010,8,Japan,949.0
+2010,9,Japan,792.0
+2010,10,Japan,881.0
+2010,11,Japan,877.0
+2010,12,Japan,756.0
+2011,1,Japan,782.0
+2011,2,Japan,689.0
+2011,3,Japan,693.0
+2011,4,Japan,767.0
+2011,5,Japan,779.0
+2011,6,Japan,864.0
+2011,7,Japan,966.0
+2011,8,Japan,1010.0
+2011,9,Japan,930.0
+2011,10,Japan,946.0
+2011,11,Japan,898.0
+2011,12,Japan,925.0
+2012,1,Japan,887.0
+2012,2,Japan,1465.0
+2012,3,Japan,1165.0
+2012,4,Japan,1146.0
+2012,5,Japan,1205.0
+2012,6,Japan,1361.0
+2012,7,Japan,1192.0
+2012,8,Japan,1388.0
+2012,9,Japan,1373.0
+2012,10,Japan,1415.0
+2012,11,Japan,1259.0
+2012,12,Japan,1338.0
+2013,1,Japan,1105.0
+2013,2,Japan,1101.0
+2013,3,Japan,1181.0
+2013,4,Japan,1124.0
+2013,5,Japan,1246.0
+2013,6,Japan,1158.0
+2013,7,Japan,1096.0
+2013,8,Japan,1254.0
+2013,9,Japan,947.0
+2013,10,Japan,1008.0
+2013,11,Japan,1078.0
+2013,12,Japan,982.0
+2014,1,Japan,971.0
+2014,2,Japan,1038.0
+2014,3,Japan,1298.0
+2014,4,Japan,895.0
+2014,5,Japan,1048.0
+2014,6,Japan,1118.0
+2014,7,Japan,1084.0
+2014,8,Japan,1343.0
+2014,9,Japan,1231.0
+2014,10,Japan,1088.0
+2014,11,Japan,838.0
+2014,12,Japan,748.0
+2015,1,Japan,700.0
+2015,2,Japan,701.0
+2015,3,Japan,909.0
+2015,4,Japan,669.0
+2015,5,Japan,870.0
+2015,6,Japan,987.0
+2015,7,Japan,824.0
+2015,8,Japan,1108.0
+2015,9,Japan,897.0
+2015,10,Japan,874.0
+2015,11,Japan,1016.0
+2015,12,Japan,915.0
+2016,1,Japan,1063.0
+2016,2,Japan,1016.0
+2016,3,Japan,1017.0
+2016,4,Japan,814.0
+2016,5,Japan,836.0
+2016,6,Japan,813.0
+2016,7,Japan,897.0
+2016,8,Japan,1247.0
+2016,9,Japan,956.0
+2016,10,Japan,924.0
+2016,11,Japan,1050.0
+2016,12,Japan,845.0
+2017,1,Japan,903.0
+2017,2,Japan,811.0
+2017,3,Japan,1105.0
+2017,4,Japan,834.0
+2017,5,Japan,829.0
+2017,6,Japan,838.0
+2017,7,Japan,976.0
+2017,8,Japan,1140.0
+2017,9,Japan,970.0
+2017,10,Japan,798.0
+2017,11,Japan,846.0
+2017,12,Japan,767.0
+2018,1,Japan,721.0
+2018,2,Japan,758.0
+2018,3,Japan,877.0
+2018,4,Japan,746.0
+2018,5,Japan,618.0
+2018,6,Japan,750.0
+2018,7,Japan,937.0
+2018,8,Japan,1097.0
+2018,9,Japan,785.0
+2018,10,Japan,673.0
+2018,11,Japan,752.0
+2018,12,Japan,594.0
+2019,1,Japan,628.0
+2019,2,Japan,758.0
+2019,3,Japan,805.0
+2019,4,Japan,763.0
+2019,5,Japan,746.0
+2019,6,Japan,714.0
+2019,7,Japan,888.0
+2019,8,Japan,1276.0
+2019,9,Japan,1025.0
+2019,10,Japan,697.0
+2019,11,Japan,977.0
+2019,12,Japan,814.0
+2020,1,Japan,865.0
+2020,2,Japan,708.0
+2020,3,Japan,272.0
+2020,4,Japan,0.0
+2020,5,Japan,0.0
+2020,6,Japan,7.0
+2020,7,Japan,21.0
+2020,8,Japan,8.0
+2020,9,Japan,34.0
+2020,10,Japan,4.0
+2020,11,Japan,11.0
+2020,12,Japan,7.0
+2001,1,South Korea,
+2001,2,South Korea,
+2001,3,South Korea,
+2001,4,South Korea,
+2001,5,South Korea,
+2001,6,South Korea,
+2001,7,South Korea,
+2001,8,South Korea,
+2001,9,South Korea,
+2001,10,South Korea,
+2001,11,South Korea,
+2001,12,South Korea,
+2002,1,South Korea,
+2002,2,South Korea,
+2002,3,South Korea,
+2002,4,South Korea,
+2002,5,South Korea,
+2002,6,South Korea,
+2002,7,South Korea,
+2002,8,South Korea,
+2002,9,South Korea,
+2002,10,South Korea,
+2002,11,South Korea,
+2002,12,South Korea,
+2003,1,South Korea,
+2003,2,South Korea,
+2003,3,South Korea,
+2003,4,South Korea,
+2003,5,South Korea,
+2003,6,South Korea,
+2003,7,South Korea,
+2003,8,South Korea,
+2003,9,South Korea,
+2003,10,South Korea,
+2003,11,South Korea,
+2003,12,South Korea,
+2004,1,South Korea,
+2004,2,South Korea,
+2004,3,South Korea,
+2004,4,South Korea,
+2004,5,South Korea,
+2004,6,South Korea,
+2004,7,South Korea,
+2004,8,South Korea,
+2004,9,South Korea,
+2004,10,South Korea,
+2004,11,South Korea,
+2004,12,South Korea,
+2005,1,South Korea,
+2005,2,South Korea,
+2005,3,South Korea,
+2005,4,South Korea,
+2005,5,South Korea,
+2005,6,South Korea,
+2005,7,South Korea,
+2005,8,South Korea,
+2005,9,South Korea,
+2005,10,South Korea,
+2005,11,South Korea,
+2005,12,South Korea,
+2006,1,South Korea,
+2006,2,South Korea,
+2006,3,South Korea,
+2006,4,South Korea,
+2006,5,South Korea,
+2006,6,South Korea,
+2006,7,South Korea,
+2006,8,South Korea,
+2006,9,South Korea,
+2006,10,South Korea,
+2006,11,South Korea,
+2006,12,South Korea,
+2007,1,South Korea,408.0
+2007,2,South Korea,355.0
+2007,3,South Korea,405.0
+2007,4,South Korea,221.0
+2007,5,South Korea,305.0
+2007,6,South Korea,305.0
+2007,7,South Korea,412.0
+2007,8,South Korea,464.0
+2007,9,South Korea,318.0
+2007,10,South Korea,322.0
+2007,11,South Korea,350.0
+2007,12,South Korea,418.0
+2008,1,South Korea,575.0
+2008,2,South Korea,285.0
+2008,3,South Korea,294.0
+2008,4,South Korea,357.0
+2008,5,South Korea,349.0
+2008,6,South Korea,269.0
+2008,7,South Korea,580.0
+2008,8,South Korea,532.0
+2008,9,South Korea,326.0
+2008,10,South Korea,505.0
+2008,11,South Korea,423.0
+2008,12,South Korea,555.0
+2009,1,South Korea,223.0
+2009,2,South Korea,278.0
+2009,3,South Korea,384.0
+2009,4,South Korea,376.0
+2009,5,South Korea,596.0
+2009,6,South Korea,533.0
+2009,7,South Korea,472.0
+2009,8,South Korea,434.0
+2009,9,South Korea,318.0
+2009,10,South Korea,347.0
+2009,11,South Korea,432.0
+2009,12,South Korea,643.0
+2010,1,South Korea,950.0
+2010,2,South Korea,229.0
+2010,3,South Korea,330.0
+2010,4,South Korea,243.0
+2010,5,South Korea,388.0
+2010,6,South Korea,399.0
+2010,7,South Korea,573.0
+2010,8,South Korea,474.0
+2010,9,South Korea,407.0
+2010,10,South Korea,387.0
+2010,11,South Korea,435.0
+2010,12,South Korea,512.0
+2011,1,South Korea,659.0
+2011,2,South Korea,451.0
+2011,3,South Korea,320.0
+2011,4,South Korea,348.0
+2011,5,South Korea,415.0
+2011,6,South Korea,516.0
+2011,7,South Korea,536.0
+2011,8,South Korea,502.0
+2011,9,South Korea,405.0
+2011,10,South Korea,472.0
+2011,11,South Korea,501.0
+2011,12,South Korea,552.0
+2012,1,South Korea,702.0
+2012,2,South Korea,480.0
+2012,3,South Korea,417.0
+2012,4,South Korea,412.0
+2012,5,South Korea,391.0
+2012,6,South Korea,563.0
+2012,7,South Korea,595.0
+2012,8,South Korea,583.0
+2012,9,South Korea,528.0
+2012,10,South Korea,525.0
+2012,11,South Korea,570.0
+2012,12,South Korea,521.0
+2013,1,South Korea,643.0
+2013,2,South Korea,525.0
+2013,3,South Korea,577.0
+2013,4,South Korea,452.0
+2013,5,South Korea,571.0
+2013,6,South Korea,647.0
+2013,7,South Korea,547.0
+2013,8,South Korea,661.0
+2013,9,South Korea,496.0
+2013,10,South Korea,490.0
+2013,11,South Korea,499.0
+2013,12,South Korea,612.0
+2014,1,South Korea,703.0
+2014,2,South Korea,569.0
+2014,3,South Korea,599.0
+2014,4,South Korea,552.0
+2014,5,South Korea,546.0
+2014,6,South Korea,647.0
+2014,7,South Korea,658.0
+2014,8,South Korea,755.0
+2014,9,South Korea,617.0
+2014,10,South Korea,667.0
+2014,11,South Korea,506.0
+2014,12,South Korea,629.0
+2015,1,South Korea,652.0
+2015,2,South Korea,517.0
+2015,3,South Korea,740.0
+2015,4,South Korea,643.0
+2015,5,South Korea,493.0
+2015,6,South Korea,781.0
+2015,7,South Korea,741.0
+2015,8,South Korea,799.0
+2015,9,South Korea,705.0
+2015,10,South Korea,563.0
+2015,11,South Korea,612.0
+2015,12,South Korea,739.0
+2016,1,South Korea,789.0
+2016,2,South Korea,720.0
+2016,3,South Korea,591.0
+2016,4,South Korea,571.0
+2016,5,South Korea,647.0
+2016,6,South Korea,795.0
+2016,7,South Korea,865.0
+2016,8,South Korea,866.0
+2016,9,South Korea,665.0
+2016,10,South Korea,625.0
+2016,11,South Korea,766.0
+2016,12,South Korea,826.0
+2017,1,South Korea,1053.0
+2017,2,South Korea,972.0
+2017,3,South Korea,806.0
+2017,4,South Korea,739.0
+2017,5,South Korea,954.0
+2017,6,South Korea,1015.0
+2017,7,South Korea,1143.0
+2017,8,South Korea,976.0
+2017,9,South Korea,957.0
+2017,10,South Korea,926.0
+2017,11,South Korea,707.0
+2017,12,South Korea,863.0
+2018,1,South Korea,1117.0
+2018,2,South Korea,920.0
+2018,3,South Korea,868.0
+2018,4,South Korea,748.0
+2018,5,South Korea,772.0
+2018,6,South Korea,832.0
+2018,7,South Korea,1161.0
+2018,8,South Korea,1157.0
+2018,9,South Korea,815.0
+2018,10,South Korea,751.0
+2018,11,South Korea,788.0
+2018,12,South Korea,854.0
+2019,1,South Korea,1338.0
+2019,2,South Korea,931.0
+2019,3,South Korea,841.0
+2019,4,South Korea,807.0
+2019,5,South Korea,681.0
+2019,6,South Korea,905.0
+2019,7,South Korea,865.0
+2019,8,South Korea,935.0
+2019,9,South Korea,980.0
+2019,10,South Korea,721.0
+2019,11,South Korea,971.0
+2019,12,South Korea,845.0
+2020,1,South Korea,1620.0
+2020,2,South Korea,660.0
+2020,3,South Korea,134.0
+2020,4,South Korea,10.0
+2020,5,South Korea,11.0
+2020,6,South Korea,13.0
+2020,7,South Korea,47.0
+2020,8,South Korea,16.0
+2020,9,South Korea,46.0
+2020,10,South Korea,28.0
+2020,11,South Korea,15.0
+2020,12,South Korea,8.0
+2001,1,Others,13689.0
+2001,2,Others,11662.0
+2001,3,Others,12726.0
+2001,4,Others,13591.0
+2001,5,Others,11399.0
+2001,6,Others,11441.0
+2001,7,Others,12254.0
+2001,8,Others,14968.0
+2001,9,Others,17957.0
+2001,10,Others,12014.0
+2001,11,Others,13010.0
+2001,12,Others,19327.0
+2002,1,Others,20085.0
+2002,2,Others,13181.0
+2002,3,Others,14161.0
+2002,4,Others,13010.0
+2002,5,Others,13264.0
+2002,6,Others,11394.0
+2002,7,Others,11455.0
+2002,8,Others,12699.0
+2002,9,Others,9384.0
+2002,10,Others,8577.0
+2002,11,Others,11615.0
+2002,12,Others,13951.0
+2003,1,Others,15231.0
+2003,2,Others,12396.0
+2003,3,Others,14611.0
+2003,4,Others,9830.0
+2003,5,Others,11846.0
+2003,6,Others,15503.0
+2003,7,Others,12752.0
+2003,8,Others,17444.0
+2003,9,Others,19371.0
+2003,10,Others,15005.0
+2003,11,Others,21205.0
+2003,12,Others,11548.0
+2004,1,Others,21412.0
+2004,2,Others,20419.0
+2004,3,Others,25519.0
+2004,4,Others,18648.0
+2004,5,Others,17808.0
+2004,6,Others,19311.0
+2004,7,Others,16811.0
+2004,8,Others,17955.0
+2004,9,Others,19758.0
+2004,10,Others,23859.0
+2004,11,Others,21177.0
+2004,12,Others,27623.0
+2005,1,Others,12731.0
+2005,2,Others,21523.0
+2005,3,Others,2880.0
+2005,4,Others,16857.0
+2005,5,Others,18070.0
+2005,6,Others,17156.0
+2005,7,Others,17995.0
+2005,8,Others,15096.0
+2005,9,Others,20053.0
+2005,10,Others,15078.0
+2005,11,Others,13572.0
+2005,12,Others,21524.0
+2006,1,Others,17966.0
+2006,2,Others,3146.0
+2006,3,Others,2796.0
+2006,4,Others,13581.0
+2006,5,Others,13145.0
+2006,6,Others,20094.0
+2006,7,Others,11302.0
+2006,8,Others,10337.0
+2006,9,Others,14009.0
+2006,10,Others,15199.0
+2006,11,Others,11268.0
+2006,12,Others,19644.0
+2007,1,Others,11567.0
+2007,2,Others,13978.0
+2007,3,Others,14947.0
+2007,4,Others,10154.0
+2007,5,Others,11065.0
+2007,6,Others,11879.0
+2007,7,Others,13405.0
+2007,8,Others,12425.0
+2007,9,Others,11456.0
+2007,10,Others,16012.0
+2007,11,Others,14118.0
+2007,12,Others,21869.0
+2008,1,Others,15499.0
+2008,2,Others,9135.0
+2008,3,Others,687.0
+2008,4,Others,1058.0
+2008,5,Others,1712.0
+2008,6,Others,1633.0
+2008,7,Others,1562.0
+2008,8,Others,1566.0
+2008,9,Others,832.0
+2008,10,Others,1161.0
+2008,11,Others,1585.0
+2008,12,Others,1837.0
+2009,1,Others,1387.0
+2009,2,Others,1204.0
+2009,3,Others,1420.0
+2009,4,Others,1838.0
+2009,5,Others,1545.0
+2009,6,Others,1346.0
+2009,7,Others,1802.0
+2009,8,Others,1573.0
+2009,9,Others,1344.0
+2009,10,Others,1693.0
+2009,11,Others,1489.0
+2009,12,Others,1760.0
+2010,1,Others,1776.0
+2010,2,Others,1452.0
+2010,3,Others,1387.0
+2010,4,Others,1338.0
+2010,5,Others,1587.0
+2010,6,Others,1018.0
+2010,7,Others,1363.0
+2010,8,Others,1895.0
+2010,9,Others,2369.0
+2010,10,Others,1851.0
+2010,11,Others,1831.0
+2010,12,Others,2008.0
+2011,1,Others,2281.0
+2011,2,Others,1913.0
+2011,3,Others,2351.0
+2011,4,Others,2166.0
+2011,5,Others,2083.0
+2011,6,Others,2115.0
+2011,7,Others,2640.0
+2011,8,Others,2305.0
+2011,9,Others,2164.0
+2011,10,Others,1743.0
+2011,11,Others,1732.0
+2011,12,Others,2577.0
+2012,1,Others,2219.0
+2012,2,Others,2255.0
+2012,3,Others,2492.0
+2012,4,Others,2047.0
+2012,5,Others,1821.0
+2012,6,Others,2813.0
+2012,7,Others,2417.0
+2012,8,Others,3009.0
+2012,9,Others,3097.0
+2012,10,Others,3098.0
+2012,11,Others,2592.0
+2012,12,Others,2944.0
+2013,1,Others,2822.0
+2013,2,Others,2478.0
+2013,3,Others,2982.0
+2013,4,Others,2737.0
+2013,5,Others,2772.0
+2013,6,Others,2779.0
+2013,7,Others,2525.0
+2013,8,Others,2922.0
+2013,9,Others,2354.0
+2013,10,Others,2783.0
+2013,11,Others,2475.0
+2013,12,Others,2710.0
+2014,1,Others,2690.0
+2014,2,Others,1964.0
+2014,3,Others,2487.0
+2014,4,Others,2772.0
+2014,5,Others,2462.0
+2014,6,Others,2524.0
+2014,7,Others,2555.0
+2014,8,Others,2913.0
+2014,9,Others,2320.0
+2014,10,Others,2053.0
+2014,11,Others,2113.0
+2014,12,Others,2402.0
+2015,1,Others,2244.0
+2015,2,Others,1970.0
+2015,3,Others,2276.0
+2015,4,Others,2407.0
+2015,5,Others,2483.0
+2015,6,Others,2475.0
+2015,7,Others,2568.0
+2015,8,Others,2835.0
+2015,9,Others,2083.0
+2015,10,Others,1961.0
+2015,11,Others,2169.0
+2015,12,Others,2637.0
+2016,1,Others,3245.0
+2016,2,Others,2821.0
+2016,3,Others,1967.0
+2016,4,Others,2438.0
+2016,5,Others,1838.0
+2016,6,Others,1956.0
+2016,7,Others,2129.0
+2016,8,Others,2446.0
+2016,9,Others,2025.0
+2016,10,Others,2205.0
+2016,11,Others,1945.0
+2016,12,Others,2739.0
+2017,1,Others,2167.0
+2017,2,Others,2066.0
+2017,3,Others,2695.0
+2017,4,Others,2219.0
+2017,5,Others,2045.0
+2017,6,Others,1967.0
+2017,7,Others,2011.0
+2017,8,Others,2098.0
+2017,9,Others,1813.0
+2017,10,Others,1776.0
+2017,11,Others,1730.0
+2017,12,Others,2248.0
+2018,1,Others,2417.0
+2018,2,Others,2389.0
+2018,3,Others,2266.0
+2018,4,Others,2207.0
+2018,5,Others,1727.0
+2018,6,Others,1740.0
+2018,7,Others,2302.0
+2018,8,Others,2144.0
+2018,9,Others,1667.0
+2018,10,Others,2458.0
+2018,11,Others,2307.0
+2018,12,Others,2766.0
+2019,1,Others,1528.0
+2019,2,Others,1629.0
+2019,3,Others,2080.0
+2019,4,Others,1890.0
+2019,5,Others,1580.0
+2019,6,Others,1956.0
+2019,7,Others,2354.0
+2019,8,Others,2567.0
+2019,9,Others,2302.0
+2019,10,Others,2085.0
+2019,11,Others,2020.0
+2019,12,Others,1974.0
+2020,1,Others,2080.0
+2020,2,Others,2021.0
+2020,3,Others,1157.0
+2020,4,Others,219.0
+2020,5,Others,304.0
+2020,6,Others,456.0
+2020,7,Others,446.0
+2020,8,Others,394.0
+2020,9,Others,564.0
+2020,10,Others,499.0
+2020,11,Others,137.0
+2020,12,Others,140.0
+2001,1,Peninsular Malaysia,30406.0
+2001,2,Peninsular Malaysia,17763.0
+2001,3,Peninsular Malaysia,27103.0
+2001,4,Peninsular Malaysia,20518.0
+2001,5,Peninsular Malaysia,26748.0
+2001,6,Peninsular Malaysia,27552.0
+2001,7,Peninsular Malaysia,21344.0
+2001,8,Peninsular Malaysia,21515.0
+2001,9,Peninsular Malaysia,33306.0
+2001,10,Peninsular Malaysia,32030.0
+2001,11,Peninsular Malaysia,30187.0
+2001,12,Peninsular Malaysia,38338.0
+2002,1,Peninsular Malaysia,20689.0
+2002,2,Peninsular Malaysia,28039.0
+2002,3,Peninsular Malaysia,25104.0
+2002,4,Peninsular Malaysia,30074.0
+2002,5,Peninsular Malaysia,37598.0
+2002,6,Peninsular Malaysia,29025.0
+2002,7,Peninsular Malaysia,30948.0
+2002,8,Peninsular Malaysia,22861.0
+2002,9,Peninsular Malaysia,23480.0
+2002,10,Peninsular Malaysia,27640.0
+2002,11,Peninsular Malaysia,28263.0
+2002,12,Peninsular Malaysia,27476.0
+2003,1,Peninsular Malaysia,10288.0
+2003,2,Peninsular Malaysia,21712.0
+2003,3,Peninsular Malaysia,21590.0
+2003,4,Peninsular Malaysia,15880.0
+2003,5,Peninsular Malaysia,21898.0
+2003,6,Peninsular Malaysia,36733.0
+2003,7,Peninsular Malaysia,25369.0
+2003,8,Peninsular Malaysia,32500.0
+2003,9,Peninsular Malaysia,31794.0
+2003,10,Peninsular Malaysia,18476.0
+2003,11,Peninsular Malaysia,26169.0
+2003,12,Peninsular Malaysia,30115.0
+2004,1,Peninsular Malaysia,17706.0
+2004,2,Peninsular Malaysia,14526.0
+2004,3,Peninsular Malaysia,23344.0
+2004,4,Peninsular Malaysia,22055.0
+2004,5,Peninsular Malaysia,22663.0
+2004,6,Peninsular Malaysia,23053.0
+2004,7,Peninsular Malaysia,13792.0
+2004,8,Peninsular Malaysia,17271.0
+2004,9,Peninsular Malaysia,15729.0
+2004,10,Peninsular Malaysia,15297.0
+2004,11,Peninsular Malaysia,22573.0
+2004,12,Peninsular Malaysia,26199.0
+2005,1,Peninsular Malaysia,18400.0
+2005,2,Peninsular Malaysia,24691.0
+2005,3,Peninsular Malaysia,38393.0
+2005,4,Peninsular Malaysia,29127.0
+2005,5,Peninsular Malaysia,46805.0
+2005,6,Peninsular Malaysia,48262.0
+2005,7,Peninsular Malaysia,20704.0
+2005,8,Peninsular Malaysia,33034.0
+2005,9,Peninsular Malaysia,32386.0
+2005,10,Peninsular Malaysia,32409.0
+2005,11,Peninsular Malaysia,52537.0
+2005,12,Peninsular Malaysia,70217.0
+2006,1,Peninsular Malaysia,84507.0
+2006,2,Peninsular Malaysia,45293.0
+2006,3,Peninsular Malaysia,40344.0
+2006,4,Peninsular Malaysia,39526.0
+2006,5,Peninsular Malaysia,43510.0
+2006,6,Peninsular Malaysia,48592.0
+2006,7,Peninsular Malaysia,46277.0
+2006,8,Peninsular Malaysia,61359.0
+2006,9,Peninsular Malaysia,48414.0
+2006,10,Peninsular Malaysia,44695.0
+2006,11,Peninsular Malaysia,47049.0
+2006,12,Peninsular Malaysia,58829.0
+2007,1,Peninsular Malaysia,43063.0
+2007,2,Peninsular Malaysia,40368.0
+2007,3,Peninsular Malaysia,60990.0
+2007,4,Peninsular Malaysia,61883.0
+2007,5,Peninsular Malaysia,70311.0
+2007,6,Peninsular Malaysia,53546.0
+2007,7,Peninsular Malaysia,77494.0
+2007,8,Peninsular Malaysia,105310.0
+2007,9,Peninsular Malaysia,55711.0
+2007,10,Peninsular Malaysia,53160.0
+2007,11,Peninsular Malaysia,54446.0
+2007,12,Peninsular Malaysia,57117.0
+2008,1,Peninsular Malaysia,47319.0
+2008,2,Peninsular Malaysia,45804.0
+2008,3,Peninsular Malaysia,48577.0
+2008,4,Peninsular Malaysia,33183.0
+2008,5,Peninsular Malaysia,66880.0
+2008,6,Peninsular Malaysia,53883.0
+2008,7,Peninsular Malaysia,84828.0
+2008,8,Peninsular Malaysia,60850.0
+2008,9,Peninsular Malaysia,44907.0
+2008,10,Peninsular Malaysia,87900.0
+2008,11,Peninsular Malaysia,51323.0
+2008,12,Peninsular Malaysia,82776.0
+2009,1,Peninsular Malaysia,65937.0
+2009,2,Peninsular Malaysia,37233.0
+2009,3,Peninsular Malaysia,34834.0
+2009,4,Peninsular Malaysia,60115.0
+2009,5,Peninsular Malaysia,58007.0
+2009,6,Peninsular Malaysia,84733.0
+2009,7,Peninsular Malaysia,115100.0
+2009,8,Peninsular Malaysia,66442.0
+2009,9,Peninsular Malaysia,55136.0
+2009,10,Peninsular Malaysia,50323.0
+2009,11,Peninsular Malaysia,59597.0
+2009,12,Peninsular Malaysia,101114.0
+2010,1,Peninsular Malaysia,53550.0
+2010,2,Peninsular Malaysia,57159.0
+2010,3,Peninsular Malaysia,60807.0
+2010,4,Peninsular Malaysia,55430.0
+2010,5,Peninsular Malaysia,62441.0
+2010,6,Peninsular Malaysia,55040.0
+2010,7,Peninsular Malaysia,104074.0
+2010,8,Peninsular Malaysia,49906.0
+2010,9,Peninsular Malaysia,60759.0
+2010,10,Peninsular Malaysia,56075.0
+2010,11,Peninsular Malaysia,57974.0
+2010,12,Peninsular Malaysia,73842.0
+2011,1,Peninsular Malaysia,62244.0
+2011,2,Peninsular Malaysia,53191.0
+2011,3,Peninsular Malaysia,53005.0
+2011,4,Peninsular Malaysia,63143.0
+2011,5,Peninsular Malaysia,60508.0
+2011,6,Peninsular Malaysia,85783.0
+2011,7,Peninsular Malaysia,61989.0
+2011,8,Peninsular Malaysia,61971.0
+2011,9,Peninsular Malaysia,70893.0
+2011,10,Peninsular Malaysia,61151.0
+2011,11,Peninsular Malaysia,69371.0
+2011,12,Peninsular Malaysia,91529.0
+2012,1,Peninsular Malaysia,73003.0
+2012,2,Peninsular Malaysia,55987.0
+2012,3,Peninsular Malaysia,64369.0
+2012,4,Peninsular Malaysia,65905.0
+2012,5,Peninsular Malaysia,70024.0
+2012,6,Peninsular Malaysia,75608.0
+2012,7,Peninsular Malaysia,64000.0
+2012,8,Peninsular Malaysia,71161.0
+2012,9,Peninsular Malaysia,64123.0
+2012,10,Peninsular Malaysia,69709.0
+2012,11,Peninsular Malaysia,80715.0
+2012,12,Peninsular Malaysia,105154.0
+2013,1,Peninsular Malaysia,74239.0
+2013,2,Peninsular Malaysia,81853.0
+2013,3,Peninsular Malaysia,86977.0
+2013,4,Peninsular Malaysia,78221.0
+2013,5,Peninsular Malaysia,97715.0
+2013,6,Peninsular Malaysia,111731.0
+2013,7,Peninsular Malaysia,88391.0
+2013,8,Peninsular Malaysia,102858.0
+2013,9,Peninsular Malaysia,86505.0
+2013,10,Peninsular Malaysia,83146.0
+2013,11,Peninsular Malaysia,104854.0
+2013,12,Peninsular Malaysia,125394.0
+2014,1,Peninsular Malaysia,86253.0
+2014,2,Peninsular Malaysia,74805.0
+2014,3,Peninsular Malaysia,93070.0
+2014,4,Peninsular Malaysia,89466.0
+2014,5,Peninsular Malaysia,97941.0
+2014,6,Peninsular Malaysia,103166.0
+2014,7,Peninsular Malaysia,78106.0
+2014,8,Peninsular Malaysia,88490.0
+2014,9,Peninsular Malaysia,90996.0
+2014,10,Peninsular Malaysia,89065.0
+2014,11,Peninsular Malaysia,92016.0
+2014,12,Peninsular Malaysia,117111.0
+2015,1,Peninsular Malaysia,81773.0
+2015,2,Peninsular Malaysia,85243.0
+2015,3,Peninsular Malaysia,97669.0
+2015,4,Peninsular Malaysia,88882.0
+2015,5,Peninsular Malaysia,98129.0
+2015,6,Peninsular Malaysia,101033.0
+2015,7,Peninsular Malaysia,92072.0
+2015,8,Peninsular Malaysia,80817.0
+2015,9,Peninsular Malaysia,86711.0
+2015,10,Peninsular Malaysia,85347.0
+2015,11,Peninsular Malaysia,95162.0
+2015,12,Peninsular Malaysia,122420.0
+2016,1,Peninsular Malaysia,78342.0
+2016,2,Peninsular Malaysia,95686.0
+2016,3,Peninsular Malaysia,96441.0
+2016,4,Peninsular Malaysia,86427.0
+2016,5,Peninsular Malaysia,99925.0
+2016,6,Peninsular Malaysia,90912.0
+2016,7,Peninsular Malaysia,118400.0
+2016,8,Peninsular Malaysia,102708.0
+2016,9,Peninsular Malaysia,114796.0
+2016,10,Peninsular Malaysia,109911.0
+2016,11,Peninsular Malaysia,110794.0
+2016,12,Peninsular Malaysia,136623.0
+2017,1,Peninsular Malaysia,113794.0
+2017,2,Peninsular Malaysia,96838.0
+2017,3,Peninsular Malaysia,117815.0
+2017,4,Peninsular Malaysia,106088.0
+2017,5,Peninsular Malaysia,127027.0
+2017,6,Peninsular Malaysia,104536.0
+2017,7,Peninsular Malaysia,100902.0
+2017,8,Peninsular Malaysia,71673.0
+2017,9,Peninsular Malaysia,102634.0
+2017,10,Peninsular Malaysia,107639.0
+2017,11,Peninsular Malaysia,99736.0
+2017,12,Peninsular Malaysia,115840.0
+2018,1,Peninsular Malaysia,86539.0
+2018,2,Peninsular Malaysia,141954.0
+2018,3,Peninsular Malaysia,104306.0
+2018,4,Peninsular Malaysia,83275.0
+2018,5,Peninsular Malaysia,104867.0
+2018,6,Peninsular Malaysia,114167.0
+2018,7,Peninsular Malaysia,130902.0
+2018,8,Peninsular Malaysia,84808.0
+2018,9,Peninsular Malaysia,134905.0
+2018,10,Peninsular Malaysia,138224.0
+2018,11,Peninsular Malaysia,135446.0
+2018,12,Peninsular Malaysia,202046.0
+2019,1,Peninsular Malaysia,145447.0
+2019,2,Peninsular Malaysia,111320.0
+2019,3,Peninsular Malaysia,100676.0
+2019,4,Peninsular Malaysia,117066.0
+2019,5,Peninsular Malaysia,95256.0
+2019,6,Peninsular Malaysia,177168.0
+2019,7,Peninsular Malaysia,94524.0
+2019,8,Peninsular Malaysia,97009.0
+2019,9,Peninsular Malaysia,171055.0
+2019,10,Peninsular Malaysia,158190.0
+2019,11,Peninsular Malaysia,161891.0
+2019,12,Peninsular Malaysia,174896.0
+2020,1,Peninsular Malaysia,172124.0
+2020,2,Peninsular Malaysia,132871.0
+2020,3,Peninsular Malaysia,78583.0
+2020,4,Peninsular Malaysia,3593.0
+2020,5,Peninsular Malaysia,8118.0
+2020,6,Peninsular Malaysia,14810.0
+2020,7,Peninsular Malaysia,39864.0
+2020,8,Peninsular Malaysia,27508.0
+2020,9,Peninsular Malaysia,47898.0
+2020,10,Peninsular Malaysia,8889.0
+2020,11,Peninsular Malaysia,6899.0
+2020,12,Peninsular Malaysia,5363.0
+2001,1,Sabah,24904.0
+2001,2,Sabah,18522.0
+2001,3,Sabah,18657.0
+2001,4,Sabah,20998.0
+2001,5,Sabah,24237.0
+2001,6,Sabah,21107.0
+2001,7,Sabah,16739.0
+2001,8,Sabah,21773.0
+2001,9,Sabah,38447.0
+2001,10,Sabah,14651.0
+2001,11,Sabah,22084.0
+2001,12,Sabah,30224.0
+2002,1,Sabah,18497.0
+2002,2,Sabah,21383.0
+2002,3,Sabah,19395.0
+2002,4,Sabah,14216.0
+2002,5,Sabah,20867.0
+2002,6,Sabah,25754.0
+2002,7,Sabah,16701.0
+2002,8,Sabah,16584.0
+2002,9,Sabah,22202.0
+2002,10,Sabah,53571.0
+2002,11,Sabah,52812.0
+2002,12,Sabah,33767.0
+2003,1,Sabah,14405.0
+2003,2,Sabah,8579.0
+2003,3,Sabah,19020.0
+2003,4,Sabah,8048.0
+2003,5,Sabah,16749.0
+2003,6,Sabah,26244.0
+2003,7,Sabah,18938.0
+2003,8,Sabah,19042.0
+2003,9,Sabah,20630.0
+2003,10,Sabah,17037.0
+2003,11,Sabah,28390.0
+2003,12,Sabah,30511.0
+2004,1,Sabah,15306.0
+2004,2,Sabah,13254.0
+2004,3,Sabah,15185.0
+2004,4,Sabah,14159.0
+2004,5,Sabah,14806.0
+2004,6,Sabah,17399.0
+2004,7,Sabah,10049.0
+2004,8,Sabah,16614.0
+2004,9,Sabah,13891.0
+2004,10,Sabah,14467.0
+2004,11,Sabah,16406.0
+2004,12,Sabah,14039.0
+2005,1,Sabah,13464.0
+2005,2,Sabah,20616.0
+2005,3,Sabah,25997.0
+2005,4,Sabah,22823.0
+2005,5,Sabah,14088.0
+2005,6,Sabah,21191.0
+2005,7,Sabah,19947.0
+2005,8,Sabah,21927.0
+2005,9,Sabah,26609.0
+2005,10,Sabah,25323.0
+2005,11,Sabah,37829.0
+2005,12,Sabah,64543.0
+2006,1,Sabah,33378.0
+2006,2,Sabah,26480.0
+2006,3,Sabah,23918.0
+2006,4,Sabah,18710.0
+2006,5,Sabah,16335.0
+2006,6,Sabah,26879.0
+2006,7,Sabah,22698.0
+2006,8,Sabah,22489.0
+2006,9,Sabah,25294.0
+2006,10,Sabah,23104.0
+2006,11,Sabah,22219.0
+2006,12,Sabah,28732.0
+2007,1,Sabah,22266.0
+2007,2,Sabah,20762.0
+2007,3,Sabah,40869.0
+2007,4,Sabah,40560.0
+2007,5,Sabah,40791.0
+2007,6,Sabah,30162.0
+2007,7,Sabah,40913.0
+2007,8,Sabah,53795.0
+2007,9,Sabah,38223.0
+2007,10,Sabah,33056.0
+2007,11,Sabah,47132.0
+2007,12,Sabah,52140.0
+2008,1,Sabah,29360.0
+2008,2,Sabah,37485.0
+2008,3,Sabah,34129.0
+2008,4,Sabah,31936.0
+2008,5,Sabah,40882.0
+2008,6,Sabah,40126.0
+2008,7,Sabah,37374.0
+2008,8,Sabah,32021.0
+2008,9,Sabah,31496.0
+2008,10,Sabah,27615.0
+2008,11,Sabah,40775.0
+2008,12,Sabah,57575.0
+2009,1,Sabah,35747.0
+2009,2,Sabah,19139.0
+2009,3,Sabah,32861.0
+2009,4,Sabah,24779.0
+2009,5,Sabah,35809.0
+2009,6,Sabah,36219.0
+2009,7,Sabah,15303.0
+2009,8,Sabah,30754.0
+2009,9,Sabah,29176.0
+2009,10,Sabah,32345.0
+2009,11,Sabah,26336.0
+2009,12,Sabah,56170.0
+2010,1,Sabah,51845.0
+2010,2,Sabah,35218.0
+2010,3,Sabah,44467.0
+2010,4,Sabah,51261.0
+2010,5,Sabah,47308.0
+2010,6,Sabah,49596.0
+2010,7,Sabah,46191.0
+2010,8,Sabah,57992.0
+2010,9,Sabah,48922.0
+2010,10,Sabah,51422.0
+2010,11,Sabah,51266.0
+2010,12,Sabah,90170.0
+2011,1,Sabah,53311.0
+2011,2,Sabah,48066.0
+2011,3,Sabah,52922.0
+2011,4,Sabah,50698.0
+2011,5,Sabah,39672.0
+2011,6,Sabah,67889.0
+2011,7,Sabah,47660.0
+2011,8,Sabah,56695.0
+2011,9,Sabah,56195.0
+2011,10,Sabah,52700.0
+2011,11,Sabah,56669.0
+2011,12,Sabah,74882.0
+2012,1,Sabah,57337.0
+2012,2,Sabah,40067.0
+2012,3,Sabah,46109.0
+2012,4,Sabah,42943.0
+2012,5,Sabah,49808.0
+2012,6,Sabah,47779.0
+2012,7,Sabah,43913.0
+2012,8,Sabah,53406.0
+2012,9,Sabah,40782.0
+2012,10,Sabah,42704.0
+2012,11,Sabah,49007.0
+2012,12,Sabah,60695.0
+2013,1,Sabah,43632.0
+2013,2,Sabah,42207.0
+2013,3,Sabah,43517.0
+2013,4,Sabah,38630.0
+2013,5,Sabah,49216.0
+2013,6,Sabah,59647.0
+2013,7,Sabah,38779.0
+2013,8,Sabah,56309.0
+2013,9,Sabah,44337.0
+2013,10,Sabah,40986.0
+2013,11,Sabah,50860.0
+2013,12,Sabah,77062.0
+2014,1,Sabah,57172.0
+2014,2,Sabah,51867.0
+2014,3,Sabah,63514.0
+2014,4,Sabah,57489.0
+2014,5,Sabah,68079.0
+2014,6,Sabah,69667.0
+2014,7,Sabah,44238.0
+2014,8,Sabah,64312.0
+2014,9,Sabah,64580.0
+2014,10,Sabah,67161.0
+2014,11,Sabah,66417.0
+2014,12,Sabah,87031.0
+2015,1,Sabah,59155.0
+2015,2,Sabah,71582.0
+2015,3,Sabah,74689.0
+2015,4,Sabah,70193.0
+2015,5,Sabah,73573.0
+2015,6,Sabah,74373.0
+2015,7,Sabah,89229.0
+2015,8,Sabah,73469.0
+2015,9,Sabah,77915.0
+2015,10,Sabah,70835.0
+2015,11,Sabah,77045.0
+2015,12,Sabah,92847.0
+2016,1,Sabah,57581.0
+2016,2,Sabah,99744.0
+2016,3,Sabah,110116.0
+2016,4,Sabah,102225.0
+2016,5,Sabah,106585.0
+2016,6,Sabah,105563.0
+2016,7,Sabah,131998.0
+2016,8,Sabah,87829.0
+2016,9,Sabah,87592.0
+2016,10,Sabah,91592.0
+2016,11,Sabah,78397.0
+2016,12,Sabah,102257.0
+2017,1,Sabah,76772.0
+2017,2,Sabah,71740.0
+2017,3,Sabah,85071.0
+2017,4,Sabah,75666.0
+2017,5,Sabah,80421.0
+2017,6,Sabah,86109.0
+2017,7,Sabah,77298.0
+2017,8,Sabah,84908.0
+2017,9,Sabah,86955.0
+2017,10,Sabah,78586.0
+2017,11,Sabah,67764.0
+2017,12,Sabah,81554.0
+2018,1,Sabah,68178.0
+2018,2,Sabah,71559.0
+2018,3,Sabah,67421.0
+2018,4,Sabah,76598.0
+2018,5,Sabah,74078.0
+2018,6,Sabah,76768.0
+2018,7,Sabah,68807.0
+2018,8,Sabah,64940.0
+2018,9,Sabah,72516.0
+2018,10,Sabah,66683.0
+2018,11,Sabah,71888.0
+2018,12,Sabah,77071.0
+2019,1,Sabah,68888.0
+2019,2,Sabah,69242.0
+2019,3,Sabah,141988.0
+2019,4,Sabah,89739.0
+2019,5,Sabah,58974.0
+2019,6,Sabah,69387.0
+2019,7,Sabah,64809.0
+2019,8,Sabah,61526.0
+2019,9,Sabah,87375.0
+2019,10,Sabah,84531.0
+2019,11,Sabah,89704.0
+2019,12,Sabah,89314.0
+2020,1,Sabah,75948.0
+2020,2,Sabah,67022.0
+2020,3,Sabah,38249.0
+2020,4,Sabah,4425.0
+2020,5,Sabah,6399.0
+2020,6,Sabah,12481.0
+2020,7,Sabah,29112.0
+2020,8,Sabah,13620.0
+2020,9,Sabah,26174.0
+2020,10,Sabah,6482.0
+2020,11,Sabah,4837.0
+2020,12,Sabah,5299.0
+2001,1,Australia & New Zealand,2135.0
+2001,2,Australia & New Zealand,1457.0
+2001,3,Australia & New Zealand,1632.0
+2001,4,Australia & New Zealand,1703.0
+2001,5,Australia & New Zealand,1587.0
+2001,6,Australia & New Zealand,1739.0
+2001,7,Australia & New Zealand,2082.0
+2001,8,Australia & New Zealand,2007.0
+2001,9,Australia & New Zealand,1965.0
+2001,10,Australia & New Zealand,1735.0
+2001,11,Australia & New Zealand,1435.0
+2001,12,Australia & New Zealand,1708.0
+2002,1,Australia & New Zealand,1823.0
+2002,2,Australia & New Zealand,1755.0
+2002,3,Australia & New Zealand,1935.0
+2002,4,Australia & New Zealand,1904.0
+2002,5,Australia & New Zealand,1763.0
+2002,6,Australia & New Zealand,2149.0
+2002,7,Australia & New Zealand,1929.0
+2002,8,Australia & New Zealand,2022.0
+2002,9,Australia & New Zealand,1777.0
+2002,10,Australia & New Zealand,1842.0
+2002,11,Australia & New Zealand,1540.0
+2002,12,Australia & New Zealand,1608.0
+2003,1,Australia & New Zealand,1100.0
+2003,2,Australia & New Zealand,1072.0
+2003,3,Australia & New Zealand,1196.0
+2003,4,Australia & New Zealand,918.0
+2003,5,Australia & New Zealand,1328.0
+2003,6,Australia & New Zealand,2113.0
+2003,7,Australia & New Zealand,1969.0
+2003,8,Australia & New Zealand,1933.0
+2003,9,Australia & New Zealand,2211.0
+2003,10,Australia & New Zealand,2089.0
+2003,11,Australia & New Zealand,1812.0
+2003,12,Australia & New Zealand,1527.0
+2004,1,Australia & New Zealand,2566.0
+2004,2,Australia & New Zealand,2199.0
+2004,3,Australia & New Zealand,1932.0
+2004,4,Australia & New Zealand,2462.0
+2004,5,Australia & New Zealand,2751.0
+2004,6,Australia & New Zealand,2442.0
+2004,7,Australia & New Zealand,2797.0
+2004,8,Australia & New Zealand,2353.0
+2004,9,Australia & New Zealand,2546.0
+2004,10,Australia & New Zealand,2228.0
+2004,11,Australia & New Zealand,2397.0
+2004,12,Australia & New Zealand,2836.0
+2005,1,Australia & New Zealand,2953.0
+2005,2,Australia & New Zealand,2131.0
+2005,3,Australia & New Zealand,2554.0
+2005,4,Australia & New Zealand,2346.0
+2005,5,Australia & New Zealand,1888.0
+2005,6,Australia & New Zealand,2595.0
+2005,7,Australia & New Zealand,2799.0
+2005,8,Australia & New Zealand,2192.0
+2005,9,Australia & New Zealand,2209.0
+2005,10,Australia & New Zealand,2166.0
+2005,11,Australia & New Zealand,1625.0
+2005,12,Australia & New Zealand,2294.0
+2006,1,Australia & New Zealand,2091.0
+2006,2,Australia & New Zealand,1735.0
+2006,3,Australia & New Zealand,2019.0
+2006,4,Australia & New Zealand,2286.0
+2006,5,Australia & New Zealand,1963.0
+2006,6,Australia & New Zealand,2083.0
+2006,7,Australia & New Zealand,2923.0
+2006,8,Australia & New Zealand,1920.0
+2006,9,Australia & New Zealand,2232.0
+2006,10,Australia & New Zealand,2165.0
+2006,11,Australia & New Zealand,1685.0
+2006,12,Australia & New Zealand,2401.0
+2007,1,Australia & New Zealand,
+2007,2,Australia & New Zealand,
+2007,3,Australia & New Zealand,
+2007,4,Australia & New Zealand,
+2007,5,Australia & New Zealand,
+2007,6,Australia & New Zealand,
+2007,7,Australia & New Zealand,
+2007,8,Australia & New Zealand,
+2007,9,Australia & New Zealand,
+2007,10,Australia & New Zealand,
+2007,11,Australia & New Zealand,
+2007,12,Australia & New Zealand,
+2008,1,Australia & New Zealand,
+2008,2,Australia & New Zealand,
+2008,3,Australia & New Zealand,
+2008,4,Australia & New Zealand,
+2008,5,Australia & New Zealand,
+2008,6,Australia & New Zealand,
+2008,7,Australia & New Zealand,
+2008,8,Australia & New Zealand,
+2008,9,Australia & New Zealand,
+2008,10,Australia & New Zealand,
+2008,11,Australia & New Zealand,
+2008,12,Australia & New Zealand,
+2009,1,Australia & New Zealand,
+2009,2,Australia & New Zealand,
+2009,3,Australia & New Zealand,
+2009,4,Australia & New Zealand,
+2009,5,Australia & New Zealand,
+2009,6,Australia & New Zealand,
+2009,7,Australia & New Zealand,
+2009,8,Australia & New Zealand,
+2009,9,Australia & New Zealand,
+2009,10,Australia & New Zealand,
+2009,11,Australia & New Zealand,
+2009,12,Australia & New Zealand,
+2010,1,Australia & New Zealand,
+2010,2,Australia & New Zealand,
+2010,3,Australia & New Zealand,
+2010,4,Australia & New Zealand,
+2010,5,Australia & New Zealand,
+2010,6,Australia & New Zealand,
+2010,7,Australia & New Zealand,
+2010,8,Australia & New Zealand,
+2010,9,Australia & New Zealand,
+2010,10,Australia & New Zealand,
+2010,11,Australia & New Zealand,
+2010,12,Australia & New Zealand,
+2011,1,Australia & New Zealand,
+2011,2,Australia & New Zealand,
+2011,3,Australia & New Zealand,
+2011,4,Australia & New Zealand,
+2011,5,Australia & New Zealand,
+2011,6,Australia & New Zealand,
+2011,7,Australia & New Zealand,
+2011,8,Australia & New Zealand,
+2011,9,Australia & New Zealand,
+2011,10,Australia & New Zealand,
+2011,11,Australia & New Zealand,
+2011,12,Australia & New Zealand,
+2012,1,Australia & New Zealand,
+2012,2,Australia & New Zealand,
+2012,3,Australia & New Zealand,
+2012,4,Australia & New Zealand,
+2012,5,Australia & New Zealand,
+2012,6,Australia & New Zealand,
+2012,7,Australia & New Zealand,
+2012,8,Australia & New Zealand,
+2012,9,Australia & New Zealand,
+2012,10,Australia & New Zealand,
+2012,11,Australia & New Zealand,
+2012,12,Australia & New Zealand,
+2013,1,Australia & New Zealand,
+2013,2,Australia & New Zealand,
+2013,3,Australia & New Zealand,
+2013,4,Australia & New Zealand,
+2013,5,Australia & New Zealand,
+2013,6,Australia & New Zealand,
+2013,7,Australia & New Zealand,
+2013,8,Australia & New Zealand,
+2013,9,Australia & New Zealand,
+2013,10,Australia & New Zealand,
+2013,11,Australia & New Zealand,
+2013,12,Australia & New Zealand,
+2014,1,Australia & New Zealand,
+2014,2,Australia & New Zealand,
+2014,3,Australia & New Zealand,
+2014,4,Australia & New Zealand,
+2014,5,Australia & New Zealand,
+2014,6,Australia & New Zealand,
+2014,7,Australia & New Zealand,
+2014,8,Australia & New Zealand,
+2014,9,Australia & New Zealand,
+2014,10,Australia & New Zealand,
+2014,11,Australia & New Zealand,
+2014,12,Australia & New Zealand,
+2015,1,Australia & New Zealand,
+2015,2,Australia & New Zealand,
+2015,3,Australia & New Zealand,
+2015,4,Australia & New Zealand,
+2015,5,Australia & New Zealand,
+2015,6,Australia & New Zealand,
+2015,7,Australia & New Zealand,
+2015,8,Australia & New Zealand,
+2015,9,Australia & New Zealand,
+2015,10,Australia & New Zealand,
+2015,11,Australia & New Zealand,
+2015,12,Australia & New Zealand,
+2016,1,Australia & New Zealand,
+2016,2,Australia & New Zealand,
+2016,3,Australia & New Zealand,
+2016,4,Australia & New Zealand,
+2016,5,Australia & New Zealand,
+2016,6,Australia & New Zealand,
+2016,7,Australia & New Zealand,
+2016,8,Australia & New Zealand,
+2016,9,Australia & New Zealand,
+2016,10,Australia & New Zealand,
+2016,11,Australia & New Zealand,
+2016,12,Australia & New Zealand,
+2017,1,Australia & New Zealand,
+2017,2,Australia & New Zealand,
+2017,3,Australia & New Zealand,
+2017,4,Australia & New Zealand,
+2017,5,Australia & New Zealand,
+2017,6,Australia & New Zealand,
+2017,7,Australia & New Zealand,
+2017,8,Australia & New Zealand,
+2017,9,Australia & New Zealand,
+2017,10,Australia & New Zealand,
+2017,11,Australia & New Zealand,
+2017,12,Australia & New Zealand,
+2018,1,Australia & New Zealand,
+2018,2,Australia & New Zealand,
+2018,3,Australia & New Zealand,
+2018,4,Australia & New Zealand,
+2018,5,Australia & New Zealand,
+2018,6,Australia & New Zealand,
+2018,7,Australia & New Zealand,
+2018,8,Australia & New Zealand,
+2018,9,Australia & New Zealand,
+2018,10,Australia & New Zealand,
+2018,11,Australia & New Zealand,
+2018,12,Australia & New Zealand,
+2019,1,Australia & New Zealand,
+2019,2,Australia & New Zealand,
+2019,3,Australia & New Zealand,
+2019,4,Australia & New Zealand,
+2019,5,Australia & New Zealand,
+2019,6,Australia & New Zealand,
+2019,7,Australia & New Zealand,
+2019,8,Australia & New Zealand,
+2019,9,Australia & New Zealand,
+2019,10,Australia & New Zealand,
+2019,11,Australia & New Zealand,
+2019,12,Australia & New Zealand,
+2020,1,Australia & New Zealand,
+2020,2,Australia & New Zealand,
+2020,3,Australia & New Zealand,
+2020,4,Australia & New Zealand,
+2020,5,Australia & New Zealand,
+2020,6,Australia & New Zealand,
+2020,7,Australia & New Zealand,
+2020,8,Australia & New Zealand,
+2020,9,Australia & New Zealand,
+2020,10,Australia & New Zealand,
+2020,11,Australia & New Zealand,
+2020,12,Australia & New Zealand,
+2001,1,United Kingdom & Ireland,2402.0
+2001,2,United Kingdom & Ireland,2947.0
+2001,3,United Kingdom & Ireland,3074.0
+2001,4,United Kingdom & Ireland,3054.0
+2001,5,United Kingdom & Ireland,2612.0
+2001,6,United Kingdom & Ireland,3006.0
+2001,7,United Kingdom & Ireland,3324.0
+2001,8,United Kingdom & Ireland,3655.0
+2001,9,United Kingdom & Ireland,3075.0
+2001,10,United Kingdom & Ireland,3082.0
+2001,11,United Kingdom & Ireland,2673.0
+2001,12,United Kingdom & Ireland,3313.0
+2002,1,United Kingdom & Ireland,2878.0
+2002,2,United Kingdom & Ireland,3140.0
+2002,3,United Kingdom & Ireland,3486.0
+2002,4,United Kingdom & Ireland,3138.0
+2002,5,United Kingdom & Ireland,2979.0
+2002,6,United Kingdom & Ireland,3107.0
+2002,7,United Kingdom & Ireland,3295.0
+2002,8,United Kingdom & Ireland,3707.0
+2002,9,United Kingdom & Ireland,3095.0
+2002,10,United Kingdom & Ireland,2922.0
+2002,11,United Kingdom & Ireland,2782.0
+2002,12,United Kingdom & Ireland,2784.0
+2003,1,United Kingdom & Ireland,1878.0
+2003,2,United Kingdom & Ireland,2007.0
+2003,3,United Kingdom & Ireland,2301.0
+2003,4,United Kingdom & Ireland,1991.0
+2003,5,United Kingdom & Ireland,2613.0
+2003,6,United Kingdom & Ireland,2996.0
+2003,7,United Kingdom & Ireland,3403.0
+2003,8,United Kingdom & Ireland,3780.0
+2003,9,United Kingdom & Ireland,3378.0
+2003,10,United Kingdom & Ireland,2951.0
+2003,11,United Kingdom & Ireland,3098.0
+2003,12,United Kingdom & Ireland,2861.0
+2004,1,United Kingdom & Ireland,3528.0
+2004,2,United Kingdom & Ireland,3767.0
+2004,3,United Kingdom & Ireland,3230.0
+2004,4,United Kingdom & Ireland,3531.0
+2004,5,United Kingdom & Ireland,3016.0
+2004,6,United Kingdom & Ireland,3737.0
+2004,7,United Kingdom & Ireland,4154.0
+2004,8,United Kingdom & Ireland,4035.0
+2004,9,United Kingdom & Ireland,3787.0
+2004,10,United Kingdom & Ireland,4416.0
+2004,11,United Kingdom & Ireland,3618.0
+2004,12,United Kingdom & Ireland,3679.0
+2005,1,United Kingdom & Ireland,4364.0
+2005,2,United Kingdom & Ireland,3692.0
+2005,3,United Kingdom & Ireland,4271.0
+2005,4,United Kingdom & Ireland,3355.0
+2005,5,United Kingdom & Ireland,3118.0
+2005,6,United Kingdom & Ireland,3539.0
+2005,7,United Kingdom & Ireland,4397.0
+2005,8,United Kingdom & Ireland,3581.0
+2005,9,United Kingdom & Ireland,3511.0
+2005,10,United Kingdom & Ireland,3347.0
+2005,11,United Kingdom & Ireland,1829.0
+2005,12,United Kingdom & Ireland,3379.0
+2006,1,United Kingdom & Ireland,3353.0
+2006,2,United Kingdom & Ireland,2936.0
+2006,3,United Kingdom & Ireland,3289.0
+2006,4,United Kingdom & Ireland,3302.0
+2006,5,United Kingdom & Ireland,2953.0
+2006,6,United Kingdom & Ireland,2985.0
+2006,7,United Kingdom & Ireland,3634.0
+2006,8,United Kingdom & Ireland,3377.0
+2006,9,United Kingdom & Ireland,3288.0
+2006,10,United Kingdom & Ireland,3536.0
+2006,11,United Kingdom & Ireland,2638.0
+2006,12,United Kingdom & Ireland,3371.0
+2007,1,United Kingdom & Ireland,
+2007,2,United Kingdom & Ireland,
+2007,3,United Kingdom & Ireland,
+2007,4,United Kingdom & Ireland,
+2007,5,United Kingdom & Ireland,
+2007,6,United Kingdom & Ireland,
+2007,7,United Kingdom & Ireland,
+2007,8,United Kingdom & Ireland,
+2007,9,United Kingdom & Ireland,
+2007,10,United Kingdom & Ireland,
+2007,11,United Kingdom & Ireland,
+2007,12,United Kingdom & Ireland,
+2008,1,United Kingdom & Ireland,
+2008,2,United Kingdom & Ireland,
+2008,3,United Kingdom & Ireland,
+2008,4,United Kingdom & Ireland,
+2008,5,United Kingdom & Ireland,
+2008,6,United Kingdom & Ireland,
+2008,7,United Kingdom & Ireland,
+2008,8,United Kingdom & Ireland,
+2008,9,United Kingdom & Ireland,
+2008,10,United Kingdom & Ireland,
+2008,11,United Kingdom & Ireland,
+2008,12,United Kingdom & Ireland,
+2009,1,United Kingdom & Ireland,
+2009,2,United Kingdom & Ireland,
+2009,3,United Kingdom & Ireland,
+2009,4,United Kingdom & Ireland,
+2009,5,United Kingdom & Ireland,
+2009,6,United Kingdom & Ireland,
+2009,7,United Kingdom & Ireland,
+2009,8,United Kingdom & Ireland,
+2009,9,United Kingdom & Ireland,
+2009,10,United Kingdom & Ireland,
+2009,11,United Kingdom & Ireland,
+2009,12,United Kingdom & Ireland,
+2010,1,United Kingdom & Ireland,
+2010,2,United Kingdom & Ireland,
+2010,3,United Kingdom & Ireland,
+2010,4,United Kingdom & Ireland,
+2010,5,United Kingdom & Ireland,
+2010,6,United Kingdom & Ireland,
+2010,7,United Kingdom & Ireland,
+2010,8,United Kingdom & Ireland,
+2010,9,United Kingdom & Ireland,
+2010,10,United Kingdom & Ireland,
+2010,11,United Kingdom & Ireland,
+2010,12,United Kingdom & Ireland,
+2011,1,United Kingdom & Ireland,
+2011,2,United Kingdom & Ireland,
+2011,3,United Kingdom & Ireland,
+2011,4,United Kingdom & Ireland,
+2011,5,United Kingdom & Ireland,
+2011,6,United Kingdom & Ireland,
+2011,7,United Kingdom & Ireland,
+2011,8,United Kingdom & Ireland,
+2011,9,United Kingdom & Ireland,
+2011,10,United Kingdom & Ireland,
+2011,11,United Kingdom & Ireland,
+2011,12,United Kingdom & Ireland,
+2012,1,United Kingdom & Ireland,
+2012,2,United Kingdom & Ireland,
+2012,3,United Kingdom & Ireland,
+2012,4,United Kingdom & Ireland,
+2012,5,United Kingdom & Ireland,
+2012,6,United Kingdom & Ireland,
+2012,7,United Kingdom & Ireland,
+2012,8,United Kingdom & Ireland,
+2012,9,United Kingdom & Ireland,
+2012,10,United Kingdom & Ireland,
+2012,11,United Kingdom & Ireland,
+2012,12,United Kingdom & Ireland,
+2013,1,United Kingdom & Ireland,
+2013,2,United Kingdom & Ireland,
+2013,3,United Kingdom & Ireland,
+2013,4,United Kingdom & Ireland,
+2013,5,United Kingdom & Ireland,
+2013,6,United Kingdom & Ireland,
+2013,7,United Kingdom & Ireland,
+2013,8,United Kingdom & Ireland,
+2013,9,United Kingdom & Ireland,
+2013,10,United Kingdom & Ireland,
+2013,11,United Kingdom & Ireland,
+2013,12,United Kingdom & Ireland,
+2014,1,United Kingdom & Ireland,
+2014,2,United Kingdom & Ireland,
+2014,3,United Kingdom & Ireland,
+2014,4,United Kingdom & Ireland,
+2014,5,United Kingdom & Ireland,
+2014,6,United Kingdom & Ireland,
+2014,7,United Kingdom & Ireland,
+2014,8,United Kingdom & Ireland,
+2014,9,United Kingdom & Ireland,
+2014,10,United Kingdom & Ireland,
+2014,11,United Kingdom & Ireland,
+2014,12,United Kingdom & Ireland,
+2015,1,United Kingdom & Ireland,
+2015,2,United Kingdom & Ireland,
+2015,3,United Kingdom & Ireland,
+2015,4,United Kingdom & Ireland,
+2015,5,United Kingdom & Ireland,
+2015,6,United Kingdom & Ireland,
+2015,7,United Kingdom & Ireland,
+2015,8,United Kingdom & Ireland,
+2015,9,United Kingdom & Ireland,
+2015,10,United Kingdom & Ireland,
+2015,11,United Kingdom & Ireland,
+2015,12,United Kingdom & Ireland,
+2016,1,United Kingdom & Ireland,
+2016,2,United Kingdom & Ireland,
+2016,3,United Kingdom & Ireland,
+2016,4,United Kingdom & Ireland,
+2016,5,United Kingdom & Ireland,
+2016,6,United Kingdom & Ireland,
+2016,7,United Kingdom & Ireland,
+2016,8,United Kingdom & Ireland,
+2016,9,United Kingdom & Ireland,
+2016,10,United Kingdom & Ireland,
+2016,11,United Kingdom & Ireland,
+2016,12,United Kingdom & Ireland,
+2017,1,United Kingdom & Ireland,
+2017,2,United Kingdom & Ireland,
+2017,3,United Kingdom & Ireland,
+2017,4,United Kingdom & Ireland,
+2017,5,United Kingdom & Ireland,
+2017,6,United Kingdom & Ireland,
+2017,7,United Kingdom & Ireland,
+2017,8,United Kingdom & Ireland,
+2017,9,United Kingdom & Ireland,
+2017,10,United Kingdom & Ireland,
+2017,11,United Kingdom & Ireland,
+2017,12,United Kingdom & Ireland,
+2018,1,United Kingdom & Ireland,
+2018,2,United Kingdom & Ireland,
+2018,3,United Kingdom & Ireland,
+2018,4,United Kingdom & Ireland,
+2018,5,United Kingdom & Ireland,
+2018,6,United Kingdom & Ireland,
+2018,7,United Kingdom & Ireland,
+2018,8,United Kingdom & Ireland,
+2018,9,United Kingdom & Ireland,
+2018,10,United Kingdom & Ireland,
+2018,11,United Kingdom & Ireland,
+2018,12,United Kingdom & Ireland,
+2019,1,United Kingdom & Ireland,
+2019,2,United Kingdom & Ireland,
+2019,3,United Kingdom & Ireland,
+2019,4,United Kingdom & Ireland,
+2019,5,United Kingdom & Ireland,
+2019,6,United Kingdom & Ireland,
+2019,7,United Kingdom & Ireland,
+2019,8,United Kingdom & Ireland,
+2019,9,United Kingdom & Ireland,
+2019,10,United Kingdom & Ireland,
+2019,11,United Kingdom & Ireland,
+2019,12,United Kingdom & Ireland,
+2020,1,United Kingdom & Ireland,
+2020,2,United Kingdom & Ireland,
+2020,3,United Kingdom & Ireland,
+2020,4,United Kingdom & Ireland,
+2020,5,United Kingdom & Ireland,
+2020,6,United Kingdom & Ireland,
+2020,7,United Kingdom & Ireland,
+2020,8,United Kingdom & Ireland,
+2020,9,United Kingdom & Ireland,
+2020,10,United Kingdom & Ireland,
+2020,11,United Kingdom & Ireland,
+2020,12,United Kingdom & Ireland,
+2001,1,Western Europe,729.0
+2001,2,Western Europe,985.0
+2001,3,Western Europe,948.0
+2001,4,Western Europe,939.0
+2001,5,Western Europe,1079.0
+2001,6,Western Europe,968.0
+2001,7,Western Europe,1110.0
+2001,8,Western Europe,1519.0
+2001,9,Western Europe,803.0
+2001,10,Western Europe,929.0
+2001,11,Western Europe,697.0
+2001,12,Western Europe,525.0
+2002,1,Western Europe,920.0
+2002,2,Western Europe,1091.0
+2002,3,Western Europe,1437.0
+2002,4,Western Europe,1039.0
+2002,5,Western Europe,477.0
+2002,6,Western Europe,845.0
+2002,7,Western Europe,1348.0
+2002,8,Western Europe,1723.0
+2002,9,Western Europe,2371.0
+2002,10,Western Europe,1928.0
+2002,11,Western Europe,1219.0
+2002,12,Western Europe,914.0
+2003,1,Western Europe,281.0
+2003,2,Western Europe,999.0
+2003,3,Western Europe,1907.0
+2003,4,Western Europe,1064.0
+2003,5,Western Europe,891.0
+2003,6,Western Europe,963.0
+2003,7,Western Europe,1486.0
+2003,8,Western Europe,1442.0
+2003,9,Western Europe,1778.0
+2003,10,Western Europe,1263.0
+2003,11,Western Europe,892.0
+2003,12,Western Europe,1211.0
+2004,1,Western Europe,1283.0
+2004,2,Western Europe,1427.0
+2004,3,Western Europe,1892.0
+2004,4,Western Europe,1139.0
+2004,5,Western Europe,820.0
+2004,6,Western Europe,1410.0
+2004,7,Western Europe,2341.0
+2004,8,Western Europe,2040.0
+2004,9,Western Europe,2150.0
+2004,10,Western Europe,2056.0
+2004,11,Western Europe,1666.0
+2004,12,Western Europe,1282.0
+2005,1,Western Europe,1246.0
+2005,2,Western Europe,303.0
+2005,3,Western Europe,2358.0
+2005,4,Western Europe,2143.0
+2005,5,Western Europe,1877.0
+2005,6,Western Europe,2656.0
+2005,7,Western Europe,2791.0
+2005,8,Western Europe,3461.0
+2005,9,Western Europe,2196.0
+2005,10,Western Europe,1941.0
+2005,11,Western Europe,997.0
+2005,12,Western Europe,624.0
+2006,1,Western Europe,568.0
+2006,2,Western Europe,1339.0
+2006,3,Western Europe,1464.0
+2006,4,Western Europe,1596.0
+2006,5,Western Europe,1098.0
+2006,6,Western Europe,226.0
+2006,7,Western Europe,3372.0
+2006,8,Western Europe,2870.0
+2006,9,Western Europe,2353.0
+2006,10,Western Europe,1582.0
+2006,11,Western Europe,1468.0
+2006,12,Western Europe,1984.0
+2007,1,Western Europe,
+2007,2,Western Europe,
+2007,3,Western Europe,
+2007,4,Western Europe,
+2007,5,Western Europe,
+2007,6,Western Europe,
+2007,7,Western Europe,
+2007,8,Western Europe,
+2007,9,Western Europe,
+2007,10,Western Europe,
+2007,11,Western Europe,
+2007,12,Western Europe,
+2008,1,Western Europe,
+2008,2,Western Europe,
+2008,3,Western Europe,
+2008,4,Western Europe,
+2008,5,Western Europe,
+2008,6,Western Europe,
+2008,7,Western Europe,
+2008,8,Western Europe,
+2008,9,Western Europe,
+2008,10,Western Europe,
+2008,11,Western Europe,
+2008,12,Western Europe,
+2009,1,Western Europe,
+2009,2,Western Europe,
+2009,3,Western Europe,
+2009,4,Western Europe,
+2009,5,Western Europe,
+2009,6,Western Europe,
+2009,7,Western Europe,
+2009,8,Western Europe,
+2009,9,Western Europe,
+2009,10,Western Europe,
+2009,11,Western Europe,
+2009,12,Western Europe,
+2010,1,Western Europe,
+2010,2,Western Europe,
+2010,3,Western Europe,
+2010,4,Western Europe,
+2010,5,Western Europe,
+2010,6,Western Europe,
+2010,7,Western Europe,
+2010,8,Western Europe,
+2010,9,Western Europe,
+2010,10,Western Europe,
+2010,11,Western Europe,
+2010,12,Western Europe,
+2011,1,Western Europe,
+2011,2,Western Europe,
+2011,3,Western Europe,
+2011,4,Western Europe,
+2011,5,Western Europe,
+2011,6,Western Europe,
+2011,7,Western Europe,
+2011,8,Western Europe,
+2011,9,Western Europe,
+2011,10,Western Europe,
+2011,11,Western Europe,
+2011,12,Western Europe,
+2012,1,Western Europe,
+2012,2,Western Europe,
+2012,3,Western Europe,
+2012,4,Western Europe,
+2012,5,Western Europe,
+2012,6,Western Europe,
+2012,7,Western Europe,
+2012,8,Western Europe,
+2012,9,Western Europe,
+2012,10,Western Europe,
+2012,11,Western Europe,
+2012,12,Western Europe,
+2013,1,Western Europe,
+2013,2,Western Europe,
+2013,3,Western Europe,
+2013,4,Western Europe,
+2013,5,Western Europe,
+2013,6,Western Europe,
+2013,7,Western Europe,
+2013,8,Western Europe,
+2013,9,Western Europe,
+2013,10,Western Europe,
+2013,11,Western Europe,
+2013,12,Western Europe,
+2014,1,Western Europe,
+2014,2,Western Europe,
+2014,3,Western Europe,
+2014,4,Western Europe,
+2014,5,Western Europe,
+2014,6,Western Europe,
+2014,7,Western Europe,
+2014,8,Western Europe,
+2014,9,Western Europe,
+2014,10,Western Europe,
+2014,11,Western Europe,
+2014,12,Western Europe,
+2015,1,Western Europe,
+2015,2,Western Europe,
+2015,3,Western Europe,
+2015,4,Western Europe,
+2015,5,Western Europe,
+2015,6,Western Europe,
+2015,7,Western Europe,
+2015,8,Western Europe,
+2015,9,Western Europe,
+2015,10,Western Europe,
+2015,11,Western Europe,
+2015,12,Western Europe,
+2016,1,Western Europe,
+2016,2,Western Europe,
+2016,3,Western Europe,
+2016,4,Western Europe,
+2016,5,Western Europe,
+2016,6,Western Europe,
+2016,7,Western Europe,
+2016,8,Western Europe,
+2016,9,Western Europe,
+2016,10,Western Europe,
+2016,11,Western Europe,
+2016,12,Western Europe,
+2017,1,Western Europe,
+2017,2,Western Europe,
+2017,3,Western Europe,
+2017,4,Western Europe,
+2017,5,Western Europe,
+2017,6,Western Europe,
+2017,7,Western Europe,
+2017,8,Western Europe,
+2017,9,Western Europe,
+2017,10,Western Europe,
+2017,11,Western Europe,
+2017,12,Western Europe,
+2018,1,Western Europe,
+2018,2,Western Europe,
+2018,3,Western Europe,
+2018,4,Western Europe,
+2018,5,Western Europe,
+2018,6,Western Europe,
+2018,7,Western Europe,
+2018,8,Western Europe,
+2018,9,Western Europe,
+2018,10,Western Europe,
+2018,11,Western Europe,
+2018,12,Western Europe,
+2019,1,Western Europe,
+2019,2,Western Europe,
+2019,3,Western Europe,
+2019,4,Western Europe,
+2019,5,Western Europe,
+2019,6,Western Europe,
+2019,7,Western Europe,
+2019,8,Western Europe,
+2019,9,Western Europe,
+2019,10,Western Europe,
+2019,11,Western Europe,
+2019,12,Western Europe,
+2020,1,Western Europe,
+2020,2,Western Europe,
+2020,3,Western Europe,
+2020,4,Western Europe,
+2020,5,Western Europe,
+2020,6,Western Europe,
+2020,7,Western Europe,
+2020,8,Western Europe,
+2020,9,Western Europe,
+2020,10,Western Europe,
+2020,11,Western Europe,
+2020,12,Western Europe,
+2001,1,Eastern Europe,76.0
+2001,2,Eastern Europe,108.0
+2001,3,Eastern Europe,199.0
+2001,4,Eastern Europe,72.0
+2001,5,Eastern Europe,138.0
+2001,6,Eastern Europe,127.0
+2001,7,Eastern Europe,340.0
+2001,8,Eastern Europe,111.0
+2001,9,Eastern Europe,194.0
+2001,10,Eastern Europe,90.0
+2001,11,Eastern Europe,37.0
+2001,12,Eastern Europe,41.0
+2002,1,Eastern Europe,65.0
+2002,2,Eastern Europe,118.0
+2002,3,Eastern Europe,50.0
+2002,4,Eastern Europe,119.0
+2002,5,Eastern Europe,64.0
+2002,6,Eastern Europe,56.0
+2002,7,Eastern Europe,55.0
+2002,8,Eastern Europe,79.0
+2002,9,Eastern Europe,49.0
+2002,10,Eastern Europe,61.0
+2002,11,Eastern Europe,57.0
+2002,12,Eastern Europe,119.0
+2003,1,Eastern Europe,21.0
+2003,2,Eastern Europe,130.0
+2003,3,Eastern Europe,42.0
+2003,4,Eastern Europe,44.0
+2003,5,Eastern Europe,13.0
+2003,6,Eastern Europe,74.0
+2003,7,Eastern Europe,130.0
+2003,8,Eastern Europe,62.0
+2003,9,Eastern Europe,198.0
+2003,10,Eastern Europe,60.0
+2003,11,Eastern Europe,124.0
+2003,12,Eastern Europe,72.0
+2004,1,Eastern Europe,42.0
+2004,2,Eastern Europe,75.0
+2004,3,Eastern Europe,87.0
+2004,4,Eastern Europe,35.0
+2004,5,Eastern Europe,145.0
+2004,6,Eastern Europe,103.0
+2004,7,Eastern Europe,115.0
+2004,8,Eastern Europe,72.0
+2004,9,Eastern Europe,83.0
+2004,10,Eastern Europe,45.0
+2004,11,Eastern Europe,77.0
+2004,12,Eastern Europe,102.0
+2005,1,Eastern Europe,102.0
+2005,2,Eastern Europe,45.0
+2005,3,Eastern Europe,56.0
+2005,4,Eastern Europe,738.0
+2005,5,Eastern Europe,59.0
+2005,6,Eastern Europe,49.0
+2005,7,Eastern Europe,38.0
+2005,8,Eastern Europe,231.0
+2005,9,Eastern Europe,71.0
+2005,10,Eastern Europe,66.0
+2005,11,Eastern Europe,396.0
+2005,12,Eastern Europe,180.0
+2006,1,Eastern Europe,194.0
+2006,2,Eastern Europe,151.0
+2006,3,Eastern Europe,632.0
+2006,4,Eastern Europe,475.0
+2006,5,Eastern Europe,142.0
+2006,6,Eastern Europe,1328.0
+2006,7,Eastern Europe,537.0
+2006,8,Eastern Europe,907.0
+2006,9,Eastern Europe,633.0
+2006,10,Eastern Europe,391.0
+2006,11,Eastern Europe,212.0
+2006,12,Eastern Europe,229.0
+2007,1,Eastern Europe,
+2007,2,Eastern Europe,
+2007,3,Eastern Europe,
+2007,4,Eastern Europe,
+2007,5,Eastern Europe,
+2007,6,Eastern Europe,
+2007,7,Eastern Europe,
+2007,8,Eastern Europe,
+2007,9,Eastern Europe,
+2007,10,Eastern Europe,
+2007,11,Eastern Europe,
+2007,12,Eastern Europe,
+2008,1,Eastern Europe,
+2008,2,Eastern Europe,
+2008,3,Eastern Europe,
+2008,4,Eastern Europe,
+2008,5,Eastern Europe,
+2008,6,Eastern Europe,
+2008,7,Eastern Europe,
+2008,8,Eastern Europe,
+2008,9,Eastern Europe,
+2008,10,Eastern Europe,
+2008,11,Eastern Europe,
+2008,12,Eastern Europe,
+2009,1,Eastern Europe,
+2009,2,Eastern Europe,
+2009,3,Eastern Europe,
+2009,4,Eastern Europe,
+2009,5,Eastern Europe,
+2009,6,Eastern Europe,
+2009,7,Eastern Europe,
+2009,8,Eastern Europe,
+2009,9,Eastern Europe,
+2009,10,Eastern Europe,
+2009,11,Eastern Europe,
+2009,12,Eastern Europe,
+2010,1,Eastern Europe,
+2010,2,Eastern Europe,
+2010,3,Eastern Europe,
+2010,4,Eastern Europe,
+2010,5,Eastern Europe,
+2010,6,Eastern Europe,
+2010,7,Eastern Europe,
+2010,8,Eastern Europe,
+2010,9,Eastern Europe,
+2010,10,Eastern Europe,
+2010,11,Eastern Europe,
+2010,12,Eastern Europe,
+2011,1,Eastern Europe,
+2011,2,Eastern Europe,
+2011,3,Eastern Europe,
+2011,4,Eastern Europe,
+2011,5,Eastern Europe,
+2011,6,Eastern Europe,
+2011,7,Eastern Europe,
+2011,8,Eastern Europe,
+2011,9,Eastern Europe,
+2011,10,Eastern Europe,
+2011,11,Eastern Europe,
+2011,12,Eastern Europe,
+2012,1,Eastern Europe,
+2012,2,Eastern Europe,
+2012,3,Eastern Europe,
+2012,4,Eastern Europe,
+2012,5,Eastern Europe,
+2012,6,Eastern Europe,
+2012,7,Eastern Europe,
+2012,8,Eastern Europe,
+2012,9,Eastern Europe,
+2012,10,Eastern Europe,
+2012,11,Eastern Europe,
+2012,12,Eastern Europe,
+2013,1,Eastern Europe,
+2013,2,Eastern Europe,
+2013,3,Eastern Europe,
+2013,4,Eastern Europe,
+2013,5,Eastern Europe,
+2013,6,Eastern Europe,
+2013,7,Eastern Europe,
+2013,8,Eastern Europe,
+2013,9,Eastern Europe,
+2013,10,Eastern Europe,
+2013,11,Eastern Europe,
+2013,12,Eastern Europe,
+2014,1,Eastern Europe,
+2014,2,Eastern Europe,
+2014,3,Eastern Europe,
+2014,4,Eastern Europe,
+2014,5,Eastern Europe,
+2014,6,Eastern Europe,
+2014,7,Eastern Europe,
+2014,8,Eastern Europe,
+2014,9,Eastern Europe,
+2014,10,Eastern Europe,
+2014,11,Eastern Europe,
+2014,12,Eastern Europe,
+2015,1,Eastern Europe,
+2015,2,Eastern Europe,
+2015,3,Eastern Europe,
+2015,4,Eastern Europe,
+2015,5,Eastern Europe,
+2015,6,Eastern Europe,
+2015,7,Eastern Europe,
+2015,8,Eastern Europe,
+2015,9,Eastern Europe,
+2015,10,Eastern Europe,
+2015,11,Eastern Europe,
+2015,12,Eastern Europe,
+2016,1,Eastern Europe,
+2016,2,Eastern Europe,
+2016,3,Eastern Europe,
+2016,4,Eastern Europe,
+2016,5,Eastern Europe,
+2016,6,Eastern Europe,
+2016,7,Eastern Europe,
+2016,8,Eastern Europe,
+2016,9,Eastern Europe,
+2016,10,Eastern Europe,
+2016,11,Eastern Europe,
+2016,12,Eastern Europe,
+2017,1,Eastern Europe,
+2017,2,Eastern Europe,
+2017,3,Eastern Europe,
+2017,4,Eastern Europe,
+2017,5,Eastern Europe,
+2017,6,Eastern Europe,
+2017,7,Eastern Europe,
+2017,8,Eastern Europe,
+2017,9,Eastern Europe,
+2017,10,Eastern Europe,
+2017,11,Eastern Europe,
+2017,12,Eastern Europe,
+2018,1,Eastern Europe,
+2018,2,Eastern Europe,
+2018,3,Eastern Europe,
+2018,4,Eastern Europe,
+2018,5,Eastern Europe,
+2018,6,Eastern Europe,
+2018,7,Eastern Europe,
+2018,8,Eastern Europe,
+2018,9,Eastern Europe,
+2018,10,Eastern Europe,
+2018,11,Eastern Europe,
+2018,12,Eastern Europe,
+2019,1,Eastern Europe,
+2019,2,Eastern Europe,
+2019,3,Eastern Europe,
+2019,4,Eastern Europe,
+2019,5,Eastern Europe,
+2019,6,Eastern Europe,
+2019,7,Eastern Europe,
+2019,8,Eastern Europe,
+2019,9,Eastern Europe,
+2019,10,Eastern Europe,
+2019,11,Eastern Europe,
+2019,12,Eastern Europe,
+2020,1,Eastern Europe,
+2020,2,Eastern Europe,
+2020,3,Eastern Europe,
+2020,4,Eastern Europe,
+2020,5,Eastern Europe,
+2020,6,Eastern Europe,
+2020,7,Eastern Europe,
+2020,8,Eastern Europe,
+2020,9,Eastern Europe,
+2020,10,Eastern Europe,
+2020,11,Eastern Europe,
+2020,12,Eastern Europe,
